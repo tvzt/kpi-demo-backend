@@ -1,0 +1,3001 @@
+fecha,categoria,producto,region,cantidad,monto
+2025-11-24,Electronica,Auriculares,Mendoza,4,25477.61
+2025-03-13,Electronica,Parlante,CABA,1,53553.83
+2025-01-16,Electronica,Cargador,GBA Norte,1,45976.62
+2025-10-15,Indumentaria,Medias,Cordoba,5,20619.22
+2025-01-04,Indumentaria,Zapatillas,GBA Sur,4,25730.55
+2025-06-22,Electronica,Auriculares,Cordoba,6,9607.76
+2025-11-06,Hogar,Sarten,Mendoza,2,41888.81
+2025-07-13,Electronica,Parlante,GBA Sur,6,74817.02
+2025-10-23,Indumentaria,Remera,CABA,5,59852.44
+2025-02-10,Indumentaria,Remera,Cordoba,6,25739.65
+2025-03-25,Hogar,Almohada,GBA Norte,2,60645.59
+2025-11-08,Indumentaria,Medias,Mendoza,8,22788.17
+2025-07-14,Hogar,Vela,GBA Norte,1,61930.67
+2025-04-28,Electronica,Mouse,Cordoba,4,24828.94
+2025-10-18,Hogar,Lampara,Mendoza,8,45431.58
+2025-03-15,Hogar,Lampara,GBA Norte,5,67304.02
+2025-10-27,Alimentos,Galletitas,Cordoba,3,33217.68
+2025-09-18,Alimentos,Cafe,CABA,3,77638.16
+2025-11-18,Indumentaria,Zapatillas,Rosario,7,6653.97
+2025-11-02,Alimentos,Galletitas,GBA Sur,1,87425.98
+2025-12-15,Electronica,Parlante,GBA Sur,6,69405.29
+2025-02-27,Hogar,Toalla,GBA Norte,5,41381.41
+2025-09-14,Indumentaria,Medias,CABA,5,78476.15
+2025-11-24,Juguetes,Cartas,GBA Norte,3,14602.69
+2025-10-04,Juguetes,Muñeco,Rosario,1,29849.89
+2025-02-27,Hogar,Almohada,GBA Norte,2,6155.34
+2025-02-13,Alimentos,Cafe,Rosario,3,69159.26
+2025-12-04,Alimentos,Galletitas,GBA Norte,7,24590.04
+2025-04-19,Juguetes,Rompecabezas,Mendoza,6,28742.75
+2025-08-13,Juguetes,Pelota,CABA,2,23063.6
+2025-06-23,Electronica,Parlante,Rosario,4,21480.21
+2025-01-04,Electronica,Auriculares,GBA Norte,1,6998.63
+2025-06-19,Electronica,Parlante,GBA Norte,8,25784.48
+2025-04-20,Juguetes,Rompecabezas,Mendoza,8,84260.77
+2025-05-05,Alimentos,Yerba,GBA Norte,7,9395.0
+2025-07-01,Alimentos,Yerba,Cordoba,1,77881.47
+2025-12-11,Electronica,Auriculares,Cordoba,2,65811.01
+2025-05-08,Indumentaria,Pantalon,Rosario,7,40926.61
+2025-04-04,Hogar,Toalla,GBA Norte,2,78829.25
+2025-08-15,Juguetes,Muñeco,CABA,1,59040.9
+2025-02-17,Indumentaria,Pantalon,Cordoba,4,44222.06
+2025-07-25,Electronica,Cargador,Cordoba,7,1191.83
+2025-05-16,Alimentos,Fideos,Cordoba,8,62996.64
+2025-03-21,Indumentaria,Campera,GBA Norte,1,87215.13
+2025-06-10,Electronica,Auriculares,Rosario,3,43434.18
+2025-01-30,Juguetes,Muñeco,GBA Norte,2,7098.4
+2025-12-12,Indumentaria,Zapatillas,CABA,4,84802.06
+2025-10-24,Juguetes,Muñeco,Rosario,6,8296.52
+2025-05-14,Indumentaria,Campera,GBA Norte,3,24639.69
+2025-12-10,Hogar,Toalla,GBA Sur,2,83682.63
+2025-01-05,Alimentos,Galletitas,Rosario,2,89652.58
+2025-10-03,Indumentaria,Medias,GBA Sur,6,12788.63
+2025-02-05,Indumentaria,Campera,GBA Sur,5,15039.47
+2025-11-10,Juguetes,Muñeco,Mendoza,5,73722.27
+2025-12-06,Electronica,Cargador,GBA Sur,2,11273.15
+2025-10-11,Indumentaria,Campera,GBA Sur,6,54829.85
+2025-04-15,Hogar,Vela,Cordoba,1,23349.79
+2025-02-17,Alimentos,Fideos,CABA,3,1315.57
+2025-11-23,Hogar,Lampara,Mendoza,7,40323.36
+2025-10-15,Electronica,Auriculares,CABA,3,85109.53
+2025-10-07,Electronica,Mouse,Rosario,7,50174.73
+2025-03-07,Electronica,Mouse,GBA Sur,1,81009.35
+2025-07-03,Indumentaria,Pantalon,Mendoza,7,10148.63
+2025-11-14,Indumentaria,Pantalon,GBA Norte,3,87882.34
+2025-07-31,Electronica,Cargador,Mendoza,7,83279.37
+2025-12-09,Indumentaria,Campera,GBA Norte,2,71076.33
+2025-07-15,Electronica,Teclado,GBA Norte,8,18761.98
+2025-06-29,Hogar,Lampara,GBA Norte,4,3106.13
+2025-07-24,Hogar,Almohada,CABA,5,87053.13
+2025-06-29,Juguetes,Pelota,Mendoza,6,88322.32
+2025-01-15,Electronica,Mouse,GBA Norte,5,52672.49
+2025-01-20,Electronica,Parlante,Cordoba,6,31766.15
+2025-08-12,Juguetes,Cartas,CABA,4,35282.39
+2025-05-11,Electronica,Teclado,CABA,4,47272.91
+2025-07-06,Alimentos,Cafe,Mendoza,6,82948.61
+2025-12-06,Electronica,Mouse,Rosario,7,28526.33
+2025-06-17,Alimentos,Fideos,Rosario,7,12328.61
+2025-12-07,Alimentos,Aceite,Rosario,7,51650.37
+2025-10-08,Electronica,Mouse,GBA Sur,6,19706.26
+2025-08-27,Alimentos,Yerba,Mendoza,8,20019.42
+2025-03-28,Electronica,Mouse,Rosario,6,60082.99
+2025-02-17,Indumentaria,Campera,GBA Norte,3,72784.1
+2025-01-13,Electronica,Cargador,Cordoba,2,55403.38
+2025-08-22,Alimentos,Galletitas,GBA Norte,7,64932.79
+2025-09-11,Alimentos,Aceite,GBA Norte,1,59389.16
+2025-02-24,Alimentos,Aceite,GBA Norte,8,72565.78
+2025-01-26,Juguetes,Rompecabezas,CABA,8,41625.1
+2025-12-08,Juguetes,Cartas,Rosario,8,29239.52
+2025-11-10,Juguetes,Pelota,Rosario,3,40686.31
+2025-09-01,Alimentos,Fideos,GBA Norte,5,75747.8
+2025-09-24,Alimentos,Aceite,GBA Sur,5,40148.66
+2025-05-01,Hogar,Almohada,GBA Sur,2,80479.39
+2025-03-12,Indumentaria,Pantalon,Cordoba,4,62761.53
+2025-02-02,Alimentos,Yerba,GBA Sur,7,49292.39
+2025-02-01,Indumentaria,Zapatillas,Cordoba,1,81530.62
+2025-10-22,Alimentos,Yerba,CABA,5,84904.01
+2025-07-19,Alimentos,Galletitas,Mendoza,4,66382.43
+2025-09-07,Indumentaria,Campera,Cordoba,7,44222.14
+2025-06-22,Alimentos,Aceite,Cordoba,1,82839.2
+2025-07-21,Juguetes,Cartas,Mendoza,7,3412.08
+2025-03-11,Alimentos,Aceite,CABA,6,24153.91
+2025-04-19,Alimentos,Fideos,GBA Sur,7,68749.44
+2025-05-23,Alimentos,Fideos,CABA,1,42857.31
+2025-06-29,Indumentaria,Remera,Mendoza,1,4582.97
+2025-05-07,Indumentaria,Remera,Rosario,3,14562.03
+2025-08-31,Electronica,Parlante,GBA Norte,5,42388.02
+2025-07-08,Indumentaria,Medias,Rosario,2,86772.39
+2025-03-25,Hogar,Sarten,Rosario,5,3285.38
+2025-10-22,Alimentos,Yerba,Mendoza,4,18651.35
+2025-02-22,Hogar,Vela,CABA,1,71864.22
+2025-06-27,Juguetes,Pelota,Mendoza,6,33980.81
+2025-01-07,Alimentos,Yerba,CABA,6,39583.58
+2025-11-22,Alimentos,Aceite,Cordoba,5,16676.19
+2025-11-12,Juguetes,Pelota,Cordoba,5,39766.13
+2025-06-15,Indumentaria,Remera,GBA Sur,4,79465.18
+2025-08-26,Juguetes,Cartas,Mendoza,1,34730.05
+2025-09-11,Hogar,Lampara,Cordoba,5,19878.67
+2025-06-24,Hogar,Vela,Mendoza,1,79329.55
+2025-09-22,Indumentaria,Remera,GBA Norte,8,65086.65
+2025-10-12,Indumentaria,Zapatillas,Mendoza,8,64353.97
+2025-01-09,Electronica,Mouse,GBA Norte,4,36991.7
+2025-06-06,Juguetes,Auto RC,Cordoba,6,50259.09
+2025-08-06,Juguetes,Auto RC,GBA Sur,5,63554.09
+2025-06-06,Hogar,Lampara,CABA,6,65194.31
+2025-03-03,Juguetes,Rompecabezas,GBA Norte,8,20258.23
+2025-05-22,Juguetes,Cartas,Rosario,2,26186.88
+2025-04-10,Hogar,Lampara,GBA Sur,1,16970.3
+2025-12-29,Juguetes,Rompecabezas,GBA Sur,1,5050.9
+2025-10-11,Hogar,Lampara,Mendoza,8,78293.05
+2025-02-22,Electronica,Parlante,GBA Sur,8,42776.33
+2025-06-24,Indumentaria,Remera,GBA Sur,8,84754.66
+2025-02-28,Electronica,Teclado,Cordoba,1,7593.31
+2025-03-19,Indumentaria,Medias,GBA Sur,4,8581.1
+2025-03-02,Juguetes,Pelota,Rosario,4,54055.29
+2025-09-25,Alimentos,Yerba,Cordoba,7,27464.43
+2025-06-06,Juguetes,Cartas,CABA,2,55257.15
+2025-04-17,Indumentaria,Campera,Mendoza,4,8225.68
+2025-03-30,Juguetes,Muñeco,GBA Norte,8,1238.14
+2025-12-19,Juguetes,Pelota,GBA Sur,5,3904.95
+2025-12-28,Hogar,Toalla,CABA,5,62177.26
+2025-11-17,Juguetes,Rompecabezas,Cordoba,4,11215.09
+2025-11-28,Indumentaria,Campera,GBA Norte,3,7355.48
+2025-06-07,Juguetes,Cartas,GBA Sur,8,40084.66
+2025-12-19,Hogar,Toalla,GBA Sur,8,45542.02
+2025-08-13,Electronica,Parlante,CABA,6,80158.64
+2025-11-06,Hogar,Sarten,CABA,1,21374.27
+2025-12-11,Hogar,Vela,CABA,3,68916.7
+2025-08-29,Juguetes,Pelota,GBA Sur,7,17152.53
+2025-11-22,Alimentos,Cafe,Cordoba,6,31968.53
+2025-06-14,Electronica,Cargador,GBA Sur,8,37636.41
+2025-05-28,Alimentos,Galletitas,CABA,6,41479.51
+2025-05-10,Hogar,Sarten,Cordoba,1,77977.04
+2025-12-03,Juguetes,Pelota,Cordoba,6,5824.16
+2025-11-15,Alimentos,Yerba,CABA,3,19116.68
+2025-05-28,Alimentos,Yerba,CABA,4,3569.38
+2025-12-30,Indumentaria,Campera,Rosario,7,2217.03
+2025-02-17,Indumentaria,Remera,Cordoba,3,85288.41
+2025-09-13,Hogar,Vela,Mendoza,8,25334.82
+2025-08-30,Indumentaria,Zapatillas,Rosario,4,13873.14
+2025-11-03,Juguetes,Rompecabezas,CABA,7,25586.02
+2025-06-24,Juguetes,Auto RC,CABA,5,26172.67
+2025-10-28,Juguetes,Pelota,GBA Norte,8,40742.72
+2025-06-26,Hogar,Vela,Rosario,6,34571.69
+2025-04-07,Indumentaria,Medias,Cordoba,7,21787.06
+2025-01-23,Hogar,Toalla,Mendoza,7,82295.28
+2025-07-17,Indumentaria,Zapatillas,CABA,6,12235.92
+2025-02-21,Alimentos,Cafe,Rosario,1,82029.31
+2025-03-15,Alimentos,Aceite,CABA,5,42784.66
+2025-06-23,Juguetes,Pelota,Mendoza,6,8148.06
+2025-12-12,Juguetes,Pelota,GBA Sur,8,56785.13
+2025-10-05,Electronica,Parlante,CABA,5,21894.55
+2025-04-27,Electronica,Teclado,CABA,2,68672.9
+2025-08-16,Indumentaria,Campera,CABA,1,5093.2
+2025-05-31,Hogar,Almohada,Cordoba,7,13955.71
+2025-10-17,Indumentaria,Pantalon,GBA Norte,7,8028.18
+2025-11-14,Indumentaria,Zapatillas,Rosario,8,13737.48
+2025-11-23,Hogar,Toalla,GBA Sur,8,60348.82
+2025-05-28,Juguetes,Rompecabezas,CABA,6,40313.95
+2025-10-28,Hogar,Toalla,Mendoza,5,23258.74
+2025-04-12,Alimentos,Yerba,CABA,6,22111.31
+2025-10-22,Hogar,Almohada,CABA,7,88037.06
+2025-05-21,Electronica,Parlante,Mendoza,1,70269.73
+2025-11-07,Alimentos,Fideos,GBA Norte,6,55028.78
+2025-04-23,Indumentaria,Medias,GBA Sur,3,61321.04
+2025-11-18,Electronica,Auriculares,GBA Sur,1,71186.33
+2025-10-24,Hogar,Lampara,CABA,6,81956.88
+2025-08-01,Indumentaria,Pantalon,GBA Norte,6,70999.64
+2025-09-29,Juguetes,Auto RC,GBA Norte,8,23870.34
+2025-06-01,Hogar,Sarten,Cordoba,3,86697.5
+2025-04-26,Alimentos,Galletitas,GBA Sur,7,9036.96
+2025-01-08,Hogar,Vela,CABA,5,41475.96
+2025-10-27,Alimentos,Fideos,CABA,8,61060.45
+2025-01-13,Juguetes,Cartas,GBA Sur,4,82457.78
+2025-11-28,Electronica,Teclado,Mendoza,7,27894.93
+2025-03-01,Indumentaria,Remera,CABA,8,28088.45
+2025-03-01,Electronica,Cargador,Rosario,8,13074.1
+2025-07-09,Juguetes,Pelota,Rosario,3,67061.94
+2025-08-01,Electronica,Teclado,Rosario,5,37322.31
+2025-01-17,Hogar,Lampara,Cordoba,4,40577.93
+2025-07-05,Electronica,Mouse,Rosario,6,81250.96
+2025-02-01,Alimentos,Fideos,GBA Norte,8,87170.41
+2025-02-16,Indumentaria,Medias,CABA,6,5501.49
+2025-05-05,Indumentaria,Medias,GBA Norte,4,7106.3
+2025-10-28,Indumentaria,Pantalon,GBA Sur,1,69918.8
+2025-05-22,Indumentaria,Pantalon,Rosario,3,23308.22
+2025-02-26,Electronica,Cargador,CABA,4,32883.56
+2025-10-29,Hogar,Sarten,GBA Norte,3,24617.71
+2025-08-04,Juguetes,Muñeco,Mendoza,8,6656.67
+2025-07-05,Juguetes,Cartas,CABA,4,41228.48
+2025-11-11,Electronica,Parlante,GBA Sur,1,41765.78
+2025-02-01,Alimentos,Yerba,Cordoba,8,62062.68
+2025-12-31,Alimentos,Cafe,CABA,3,29667.95
+2025-02-03,Indumentaria,Campera,Rosario,6,57343.83
+2025-07-15,Juguetes,Cartas,GBA Sur,7,41380.67
+2025-02-20,Electronica,Parlante,Mendoza,7,78028.82
+2025-08-20,Indumentaria,Zapatillas,GBA Sur,7,74640.31
+2025-08-01,Electronica,Mouse,Cordoba,5,28814.6
+2025-07-11,Indumentaria,Zapatillas,CABA,2,9119.01
+2025-02-17,Alimentos,Cafe,Mendoza,3,66752.84
+2025-10-12,Electronica,Parlante,Rosario,2,50989.82
+2025-07-30,Hogar,Toalla,Mendoza,5,5578.7
+2025-11-04,Hogar,Almohada,CABA,4,52434.75
+2025-03-21,Alimentos,Aceite,CABA,6,32160.15
+2025-02-28,Hogar,Vela,GBA Norte,1,72842.7
+2025-11-08,Hogar,Sarten,GBA Norte,5,25321.06
+2025-06-23,Hogar,Sarten,GBA Norte,7,78417.78
+2025-02-05,Indumentaria,Remera,CABA,4,67403.95
+2025-07-12,Alimentos,Yerba,GBA Sur,5,15009.43
+2025-06-16,Juguetes,Cartas,CABA,3,79617.45
+2025-03-22,Juguetes,Muñeco,Mendoza,8,8260.76
+2025-12-05,Alimentos,Yerba,Rosario,5,40341.93
+2025-04-21,Juguetes,Muñeco,GBA Sur,5,39262.31
+2025-12-14,Juguetes,Pelota,Rosario,1,60374.8
+2025-04-23,Alimentos,Galletitas,CABA,5,1684.15
+2025-04-19,Indumentaria,Campera,GBA Sur,1,30202.89
+2025-09-12,Alimentos,Aceite,GBA Norte,4,34838.46
+2025-09-14,Juguetes,Auto RC,CABA,1,36339.33
+2025-08-12,Electronica,Teclado,CABA,7,77727.79
+2025-10-21,Alimentos,Yerba,GBA Sur,1,11250.43
+2025-06-16,Indumentaria,Medias,Cordoba,6,75050.31
+2025-02-15,Alimentos,Cafe,GBA Norte,7,39775.21
+2025-09-26,Electronica,Teclado,GBA Sur,4,67376.63
+2025-06-20,Indumentaria,Remera,Rosario,4,57357.0
+2025-06-28,Hogar,Lampara,GBA Norte,5,10149.6
+2025-04-12,Indumentaria,Medias,GBA Norte,2,68659.16
+2025-04-01,Alimentos,Yerba,Rosario,8,68629.07
+2025-12-15,Juguetes,Cartas,GBA Sur,6,77917.97
+2025-03-19,Alimentos,Cafe,Cordoba,5,40356.52
+2025-05-21,Juguetes,Muñeco,GBA Sur,5,46152.98
+2025-08-25,Alimentos,Cafe,CABA,5,33817.65
+2025-02-09,Electronica,Parlante,Rosario,8,46129.04
+2025-10-25,Juguetes,Muñeco,Cordoba,4,81905.45
+2025-06-14,Juguetes,Pelota,Rosario,1,14426.64
+2025-08-19,Electronica,Mouse,Mendoza,3,8505.29
+2025-01-21,Indumentaria,Zapatillas,Cordoba,3,47642.1
+2025-07-06,Hogar,Almohada,Cordoba,6,37380.48
+2025-12-14,Juguetes,Muñeco,Mendoza,2,58610.18
+2025-06-18,Electronica,Parlante,Mendoza,5,35404.21
+2025-12-03,Juguetes,Rompecabezas,GBA Sur,3,8253.68
+2025-06-29,Hogar,Toalla,GBA Norte,2,53958.67
+2025-06-08,Juguetes,Pelota,Mendoza,3,71457.91
+2025-12-10,Juguetes,Muñeco,Mendoza,6,60670.59
+2025-01-10,Hogar,Almohada,GBA Norte,6,85654.07
+2025-09-06,Indumentaria,Pantalon,GBA Norte,5,14790.12
+2025-02-21,Juguetes,Cartas,Mendoza,1,79647.71
+2025-12-05,Hogar,Vela,GBA Norte,3,54154.93
+2025-03-25,Indumentaria,Medias,GBA Norte,1,65185.29
+2025-07-30,Hogar,Lampara,Cordoba,8,55342.99
+2025-04-30,Juguetes,Rompecabezas,GBA Sur,8,86938.1
+2025-04-10,Hogar,Vela,Cordoba,5,42089.52
+2025-07-15,Juguetes,Cartas,Cordoba,4,86997.87
+2025-11-06,Indumentaria,Campera,CABA,6,58064.93
+2025-10-11,Electronica,Parlante,CABA,3,26370.61
+2025-05-20,Alimentos,Galletitas,GBA Norte,2,74963.16
+2025-04-24,Alimentos,Fideos,CABA,7,37925.82
+2025-09-15,Hogar,Lampara,Cordoba,6,89512.76
+2025-04-25,Electronica,Mouse,CABA,6,75686.69
+2025-03-16,Indumentaria,Remera,GBA Sur,8,82648.26
+2025-12-23,Indumentaria,Zapatillas,Cordoba,2,55765.99
+2025-01-10,Hogar,Lampara,GBA Norte,7,49843.58
+2025-02-26,Hogar,Lampara,GBA Sur,4,11844.5
+2025-08-03,Juguetes,Pelota,CABA,8,10866.35
+2025-11-02,Juguetes,Muñeco,Mendoza,4,46868.44
+2025-03-15,Hogar,Toalla,CABA,4,55718.05
+2025-10-20,Alimentos,Aceite,Mendoza,6,60471.13
+2025-02-04,Juguetes,Cartas,Rosario,1,70990.7
+2025-07-19,Alimentos,Cafe,Mendoza,6,35432.44
+2025-05-10,Electronica,Mouse,CABA,2,31687.42
+2025-10-25,Hogar,Lampara,CABA,6,32354.62
+2025-11-26,Indumentaria,Zapatillas,Mendoza,3,43589.27
+2025-03-11,Electronica,Teclado,CABA,1,27116.39
+2025-04-13,Electronica,Mouse,GBA Sur,8,46869.14
+2025-05-10,Electronica,Cargador,GBA Sur,1,32770.7
+2025-12-02,Hogar,Almohada,CABA,7,72141.47
+2025-07-24,Alimentos,Yerba,GBA Sur,8,87661.4
+2025-12-21,Alimentos,Fideos,Rosario,2,24738.14
+2025-08-06,Electronica,Teclado,Rosario,3,89563.74
+2025-10-07,Hogar,Almohada,CABA,5,8126.13
+2025-06-06,Alimentos,Galletitas,Mendoza,8,38924.33
+2025-06-29,Alimentos,Cafe,Mendoza,6,78433.31
+2025-11-11,Alimentos,Fideos,Mendoza,1,88222.43
+2025-02-08,Alimentos,Fideos,Rosario,3,72297.54
+2025-01-16,Indumentaria,Medias,Mendoza,1,70536.77
+2025-03-06,Electronica,Cargador,Mendoza,7,33603.23
+2025-10-18,Electronica,Parlante,GBA Norte,6,61436.52
+2025-07-10,Alimentos,Cafe,Rosario,6,13254.86
+2025-07-23,Hogar,Almohada,GBA Norte,1,86486.28
+2025-04-06,Alimentos,Galletitas,Cordoba,2,82305.28
+2025-05-15,Hogar,Toalla,GBA Norte,5,89676.49
+2025-12-22,Alimentos,Aceite,CABA,2,13079.83
+2025-08-20,Indumentaria,Zapatillas,CABA,6,73135.68
+2025-12-08,Hogar,Sarten,Rosario,5,49253.25
+2025-03-22,Indumentaria,Campera,Rosario,4,20957.5
+2025-03-13,Indumentaria,Zapatillas,CABA,6,33119.79
+2025-08-28,Juguetes,Rompecabezas,Rosario,2,79697.93
+2025-06-08,Alimentos,Yerba,Rosario,7,37560.77
+2025-10-22,Electronica,Cargador,GBA Sur,8,58168.13
+2025-08-27,Juguetes,Auto RC,GBA Norte,3,79138.45
+2025-03-08,Alimentos,Galletitas,CABA,3,74993.78
+2025-06-05,Indumentaria,Pantalon,GBA Sur,4,84191.67
+2025-06-27,Juguetes,Auto RC,CABA,5,23303.87
+2025-03-06,Hogar,Vela,Rosario,3,9315.13
+2025-10-31,Juguetes,Rompecabezas,GBA Norte,6,59627.23
+2025-10-16,Electronica,Auriculares,CABA,5,5046.1
+2025-11-30,Indumentaria,Medias,Cordoba,1,56011.65
+2025-09-12,Juguetes,Auto RC,Mendoza,8,86141.87
+2025-05-06,Alimentos,Fideos,Cordoba,1,7494.6
+2025-03-22,Alimentos,Yerba,Cordoba,6,42335.35
+2025-11-07,Indumentaria,Campera,Mendoza,6,29419.16
+2025-07-24,Indumentaria,Campera,Rosario,6,50986.96
+2025-05-04,Alimentos,Cafe,GBA Sur,3,41014.05
+2025-02-19,Electronica,Mouse,Cordoba,7,77910.58
+2025-05-08,Indumentaria,Campera,Rosario,4,65180.43
+2025-03-23,Alimentos,Galletitas,Cordoba,5,45389.61
+2025-09-12,Electronica,Auriculares,Cordoba,4,45984.56
+2025-04-21,Juguetes,Auto RC,CABA,8,5498.1
+2025-11-02,Alimentos,Fideos,Rosario,2,1727.79
+2025-08-09,Indumentaria,Campera,Mendoza,7,33554.21
+2025-07-07,Electronica,Teclado,CABA,4,51755.07
+2025-07-05,Juguetes,Auto RC,CABA,8,35385.05
+2025-10-09,Hogar,Vela,Mendoza,3,55382.84
+2025-02-19,Alimentos,Fideos,GBA Sur,6,50647.03
+2025-03-15,Indumentaria,Medias,Rosario,1,36723.45
+2025-01-24,Electronica,Cargador,Mendoza,8,30640.62
+2025-09-23,Alimentos,Aceite,Rosario,3,80488.72
+2025-06-17,Juguetes,Auto RC,GBA Norte,5,35972.96
+2025-10-31,Hogar,Vela,Rosario,5,48378.24
+2025-09-01,Electronica,Mouse,GBA Sur,7,60968.77
+2025-10-26,Hogar,Sarten,Rosario,4,43238.53
+2025-01-27,Juguetes,Pelota,GBA Norte,7,47656.68
+2025-03-17,Indumentaria,Remera,Rosario,2,85390.26
+2025-04-08,Electronica,Teclado,GBA Sur,7,38271.45
+2025-12-20,Indumentaria,Zapatillas,Rosario,8,69972.53
+2025-02-01,Indumentaria,Medias,GBA Norte,8,50918.92
+2025-09-27,Alimentos,Fideos,GBA Norte,6,41910.05
+2025-10-07,Hogar,Almohada,Rosario,4,44092.03
+2025-05-23,Juguetes,Auto RC,GBA Norte,5,84792.21
+2025-05-28,Indumentaria,Zapatillas,GBA Sur,5,43702.5
+2025-05-28,Electronica,Parlante,Mendoza,7,49343.99
+2025-06-26,Indumentaria,Campera,CABA,2,26599.1
+2025-06-27,Alimentos,Fideos,Mendoza,4,43638.05
+2025-10-03,Hogar,Vela,Mendoza,2,25174.31
+2025-11-12,Juguetes,Rompecabezas,GBA Norte,4,5518.12
+2025-11-23,Indumentaria,Remera,CABA,8,37783.82
+2025-02-21,Indumentaria,Remera,Rosario,3,88034.05
+2025-07-28,Alimentos,Yerba,Mendoza,5,18751.58
+2025-06-14,Hogar,Sarten,CABA,4,59054.59
+2025-10-01,Electronica,Cargador,Cordoba,3,79519.8
+2025-01-19,Alimentos,Yerba,GBA Norte,5,84358.18
+2025-01-20,Electronica,Mouse,Rosario,6,54647.68
+2025-05-26,Alimentos,Galletitas,Rosario,3,44958.21
+2025-09-16,Alimentos,Fideos,GBA Norte,6,72984.44
+2025-03-25,Alimentos,Fideos,Mendoza,6,17571.72
+2025-06-01,Juguetes,Rompecabezas,GBA Norte,7,55374.95
+2025-08-07,Juguetes,Auto RC,CABA,2,36674.16
+2025-04-05,Indumentaria,Zapatillas,GBA Sur,1,84288.46
+2025-05-14,Alimentos,Aceite,Cordoba,6,68084.34
+2025-06-04,Juguetes,Cartas,CABA,6,24278.23
+2025-12-21,Indumentaria,Remera,Mendoza,5,11522.01
+2025-03-23,Alimentos,Galletitas,Mendoza,2,69515.85
+2025-11-24,Hogar,Almohada,Rosario,3,20655.58
+2025-09-02,Indumentaria,Zapatillas,Mendoza,6,89006.58
+2025-08-01,Juguetes,Pelota,Rosario,4,72377.55
+2025-05-07,Juguetes,Muñeco,Rosario,6,40760.57
+2025-02-09,Juguetes,Muñeco,CABA,4,74760.89
+2025-10-21,Juguetes,Rompecabezas,GBA Norte,8,30202.47
+2025-03-01,Indumentaria,Medias,Cordoba,8,9093.81
+2025-01-29,Alimentos,Aceite,Rosario,1,37972.79
+2025-10-14,Alimentos,Fideos,Mendoza,5,2937.57
+2025-01-02,Indumentaria,Medias,CABA,6,5030.79
+2025-12-25,Electronica,Parlante,CABA,2,84177.87
+2025-08-30,Electronica,Mouse,Cordoba,3,17018.34
+2025-11-25,Alimentos,Fideos,Cordoba,7,40919.8
+2025-07-12,Electronica,Parlante,GBA Norte,6,59164.53
+2025-03-02,Indumentaria,Medias,Cordoba,4,48066.99
+2025-01-02,Electronica,Mouse,Cordoba,7,60941.49
+2025-09-30,Alimentos,Aceite,GBA Norte,3,41995.65
+2025-05-22,Indumentaria,Remera,CABA,7,73043.56
+2025-11-11,Electronica,Cargador,GBA Norte,1,6988.89
+2025-08-17,Juguetes,Muñeco,GBA Norte,7,66908.16
+2025-08-13,Indumentaria,Medias,GBA Norte,1,68140.33
+2025-03-13,Juguetes,Auto RC,GBA Norte,6,73604.98
+2025-10-23,Juguetes,Auto RC,GBA Norte,3,27857.03
+2025-12-05,Juguetes,Rompecabezas,Cordoba,1,27744.58
+2025-10-13,Juguetes,Rompecabezas,Mendoza,8,61408.76
+2025-01-25,Hogar,Toalla,Rosario,7,29367.37
+2025-07-29,Indumentaria,Campera,Cordoba,8,17365.23
+2025-05-04,Indumentaria,Campera,Mendoza,8,13847.31
+2025-01-30,Juguetes,Pelota,Cordoba,3,50598.52
+2025-07-18,Indumentaria,Campera,GBA Norte,2,30393.41
+2025-08-19,Hogar,Sarten,Rosario,4,65488.04
+2025-01-27,Hogar,Toalla,Mendoza,1,54842.28
+2025-02-07,Indumentaria,Medias,Mendoza,4,60759.1
+2025-09-03,Indumentaria,Campera,GBA Sur,1,86174.76
+2025-04-19,Indumentaria,Remera,Mendoza,8,89961.91
+2025-05-05,Juguetes,Rompecabezas,Cordoba,6,82446.25
+2025-05-25,Alimentos,Yerba,Rosario,5,58736.2
+2025-05-14,Hogar,Vela,Cordoba,8,42474.36
+2025-06-13,Indumentaria,Campera,GBA Sur,4,37839.79
+2025-03-16,Electronica,Mouse,Rosario,7,84193.48
+2025-06-01,Indumentaria,Pantalon,GBA Sur,4,21471.66
+2025-09-13,Juguetes,Auto RC,GBA Sur,8,68939.1
+2025-11-25,Alimentos,Yerba,GBA Norte,6,66216.73
+2025-03-28,Indumentaria,Medias,Cordoba,1,17380.25
+2025-09-26,Electronica,Auriculares,Mendoza,1,5317.78
+2025-07-31,Indumentaria,Pantalon,CABA,1,63938.09
+2025-04-22,Juguetes,Pelota,GBA Sur,8,6380.06
+2025-12-04,Alimentos,Cafe,CABA,7,48366.91
+2025-01-07,Electronica,Parlante,Mendoza,5,25451.93
+2025-01-09,Juguetes,Pelota,GBA Norte,2,10524.46
+2025-09-26,Indumentaria,Pantalon,GBA Norte,5,56160.49
+2025-07-01,Hogar,Toalla,CABA,7,34201.59
+2025-08-24,Juguetes,Rompecabezas,Mendoza,2,21101.3
+2025-12-01,Electronica,Auriculares,Cordoba,8,34754.5
+2025-01-29,Electronica,Cargador,CABA,7,45487.4
+2025-11-27,Hogar,Vela,CABA,1,80636.42
+2025-04-28,Indumentaria,Medias,Cordoba,2,25127.46
+2025-12-17,Hogar,Vela,Rosario,3,59571.72
+2025-06-11,Electronica,Cargador,Rosario,7,13833.05
+2025-02-09,Hogar,Lampara,Rosario,7,22402.03
+2025-12-13,Juguetes,Auto RC,Cordoba,3,68249.22
+2025-12-19,Electronica,Parlante,Mendoza,1,87714.78
+2025-02-20,Alimentos,Aceite,CABA,7,31312.75
+2025-06-17,Electronica,Mouse,Cordoba,6,44663.71
+2025-10-11,Alimentos,Yerba,GBA Norte,7,61492.84
+2025-02-13,Juguetes,Auto RC,GBA Norte,2,64466.66
+2025-05-18,Indumentaria,Zapatillas,Mendoza,3,70766.24
+2025-07-19,Hogar,Almohada,CABA,5,9145.32
+2025-08-16,Hogar,Almohada,CABA,3,12793.12
+2025-08-09,Alimentos,Galletitas,Rosario,2,46607.24
+2025-01-14,Electronica,Mouse,Rosario,6,9282.72
+2025-07-17,Electronica,Mouse,Cordoba,2,35514.16
+2025-10-14,Indumentaria,Medias,Rosario,7,16092.88
+2025-03-28,Indumentaria,Campera,GBA Sur,3,24888.2
+2025-02-02,Indumentaria,Zapatillas,GBA Sur,8,38478.11
+2025-02-09,Hogar,Almohada,GBA Norte,8,65160.05
+2025-11-01,Juguetes,Rompecabezas,Cordoba,5,10520.54
+2025-01-04,Alimentos,Fideos,Rosario,6,34810.21
+2025-08-14,Hogar,Toalla,Mendoza,3,87706.06
+2025-06-03,Hogar,Vela,Mendoza,6,18875.78
+2025-04-01,Alimentos,Fideos,GBA Sur,8,66403.82
+2025-10-22,Indumentaria,Campera,Cordoba,7,25946.71
+2025-07-06,Electronica,Parlante,GBA Norte,3,53708.21
+2025-12-16,Juguetes,Muñeco,Mendoza,4,42084.38
+2025-08-13,Hogar,Sarten,Cordoba,3,60895.01
+2025-11-21,Hogar,Lampara,GBA Sur,7,59621.0
+2025-07-13,Electronica,Teclado,Rosario,7,43651.89
+2025-10-01,Juguetes,Pelota,Rosario,6,4272.1
+2025-12-26,Juguetes,Cartas,Mendoza,2,82381.71
+2025-05-08,Hogar,Lampara,Mendoza,7,55528.33
+2025-06-19,Alimentos,Cafe,CABA,4,9775.98
+2025-09-19,Juguetes,Cartas,Rosario,4,62202.13
+2025-08-17,Hogar,Toalla,Cordoba,3,69738.46
+2025-06-26,Electronica,Teclado,CABA,2,27293.47
+2025-03-01,Indumentaria,Campera,GBA Sur,4,31532.93
+2025-09-24,Alimentos,Fideos,Cordoba,8,9688.45
+2025-06-13,Electronica,Mouse,CABA,2,73106.55
+2025-01-12,Hogar,Sarten,Mendoza,4,72204.46
+2025-09-22,Indumentaria,Medias,GBA Norte,7,30458.08
+2025-08-25,Indumentaria,Zapatillas,Mendoza,7,17416.21
+2025-07-22,Electronica,Parlante,GBA Norte,7,41012.18
+2025-07-19,Electronica,Cargador,GBA Norte,2,25772.69
+2025-10-23,Electronica,Parlante,GBA Norte,4,33555.58
+2025-08-23,Electronica,Mouse,Mendoza,6,77774.65
+2025-11-02,Alimentos,Galletitas,Cordoba,6,53243.42
+2025-06-30,Alimentos,Galletitas,GBA Norte,5,73422.7
+2025-11-11,Juguetes,Muñeco,Mendoza,2,12921.35
+2025-05-03,Hogar,Sarten,GBA Norte,3,34224.24
+2025-09-19,Alimentos,Yerba,Rosario,7,13270.19
+2025-08-05,Indumentaria,Zapatillas,Mendoza,3,48826.76
+2025-10-12,Indumentaria,Zapatillas,GBA Sur,6,13486.39
+2025-08-19,Juguetes,Muñeco,GBA Sur,8,85713.93
+2025-03-11,Indumentaria,Zapatillas,Rosario,8,45983.98
+2025-07-29,Alimentos,Yerba,Mendoza,8,75750.37
+2025-03-27,Electronica,Parlante,CABA,4,71833.4
+2025-05-30,Electronica,Mouse,GBA Norte,3,48847.17
+2025-08-23,Juguetes,Pelota,Rosario,2,46461.73
+2025-05-18,Juguetes,Auto RC,Rosario,1,74212.37
+2025-08-14,Juguetes,Rompecabezas,Cordoba,4,10115.06
+2025-06-02,Electronica,Teclado,GBA Sur,2,32023.35
+2025-08-13,Electronica,Cargador,GBA Norte,6,73152.54
+2025-12-30,Juguetes,Pelota,GBA Norte,4,55837.46
+2025-04-16,Electronica,Parlante,GBA Sur,3,48372.99
+2025-06-15,Hogar,Almohada,Rosario,2,24793.53
+2025-03-11,Alimentos,Cafe,GBA Sur,3,78167.24
+2025-12-26,Indumentaria,Pantalon,GBA Norte,4,64314.14
+2025-12-13,Alimentos,Yerba,GBA Norte,5,52390.87
+2025-11-18,Alimentos,Yerba,Cordoba,2,7720.95
+2025-07-26,Juguetes,Auto RC,Mendoza,6,84333.91
+2025-08-21,Alimentos,Fideos,Rosario,2,1220.1
+2025-08-23,Hogar,Sarten,Rosario,7,36396.71
+2025-04-19,Alimentos,Fideos,GBA Sur,6,74722.58
+2025-10-08,Juguetes,Rompecabezas,Rosario,6,76865.61
+2025-12-16,Electronica,Auriculares,CABA,8,56729.98
+2025-01-09,Electronica,Cargador,Cordoba,7,41630.11
+2025-04-14,Indumentaria,Campera,GBA Norte,5,78823.68
+2025-02-17,Hogar,Almohada,CABA,3,34094.1
+2025-01-27,Alimentos,Fideos,Mendoza,4,63250.28
+2025-08-08,Electronica,Auriculares,CABA,2,19994.48
+2025-03-09,Juguetes,Rompecabezas,Rosario,1,61518.46
+2025-01-05,Hogar,Sarten,Cordoba,8,62768.76
+2025-02-06,Indumentaria,Zapatillas,CABA,2,66037.94
+2025-02-22,Hogar,Almohada,GBA Sur,3,13204.51
+2025-11-25,Indumentaria,Remera,Rosario,3,51132.92
+2025-08-14,Hogar,Lampara,Mendoza,7,67595.93
+2025-11-12,Alimentos,Aceite,CABA,3,80796.77
+2025-03-05,Juguetes,Pelota,GBA Sur,6,86729.14
+2025-03-13,Indumentaria,Campera,Mendoza,5,8498.14
+2025-12-20,Electronica,Mouse,GBA Norte,4,47079.67
+2025-07-20,Hogar,Sarten,GBA Norte,2,45045.01
+2025-05-04,Alimentos,Galletitas,CABA,1,48017.5
+2025-07-04,Hogar,Lampara,Cordoba,7,77612.45
+2025-07-07,Juguetes,Rompecabezas,Cordoba,2,85946.32
+2025-01-09,Juguetes,Muñeco,CABA,1,24334.49
+2025-01-31,Alimentos,Galletitas,GBA Sur,7,56942.79
+2025-08-05,Alimentos,Cafe,Mendoza,3,48754.27
+2025-05-23,Electronica,Mouse,CABA,4,46506.12
+2025-03-21,Juguetes,Auto RC,Cordoba,2,53192.91
+2025-06-08,Alimentos,Aceite,CABA,7,22758.7
+2025-03-01,Alimentos,Galletitas,Rosario,3,5897.55
+2025-03-03,Electronica,Cargador,Mendoza,8,2010.2
+2025-06-27,Juguetes,Cartas,Mendoza,6,24072.98
+2025-03-06,Hogar,Sarten,CABA,7,30815.98
+2025-05-20,Juguetes,Muñeco,GBA Sur,2,64396.77
+2025-09-12,Alimentos,Galletitas,GBA Sur,3,5934.08
+2025-07-08,Indumentaria,Campera,CABA,2,80589.89
+2025-04-27,Juguetes,Muñeco,CABA,1,77423.32
+2025-05-06,Electronica,Teclado,GBA Sur,3,35085.17
+2025-04-02,Electronica,Parlante,Mendoza,7,66919.26
+2025-04-25,Hogar,Lampara,Cordoba,6,82511.07
+2025-05-19,Electronica,Parlante,GBA Sur,1,11626.68
+2025-04-02,Indumentaria,Medias,CABA,2,85913.07
+2025-08-27,Hogar,Almohada,GBA Sur,8,8688.31
+2025-01-05,Hogar,Lampara,GBA Sur,5,51178.8
+2025-11-15,Indumentaria,Zapatillas,GBA Sur,8,53660.49
+2025-04-11,Juguetes,Rompecabezas,GBA Norte,7,1567.63
+2025-01-13,Indumentaria,Medias,GBA Sur,1,57598.82
+2025-06-21,Electronica,Teclado,Mendoza,2,65722.14
+2025-04-16,Juguetes,Rompecabezas,Cordoba,1,44790.57
+2025-03-14,Hogar,Sarten,CABA,7,82993.42
+2025-12-25,Hogar,Toalla,Mendoza,2,8556.32
+2025-09-16,Indumentaria,Zapatillas,CABA,1,53678.72
+2025-08-11,Indumentaria,Pantalon,GBA Sur,6,24228.19
+2025-07-21,Hogar,Almohada,Cordoba,2,25204.07
+2025-04-14,Indumentaria,Medias,CABA,3,14831.54
+2025-08-19,Alimentos,Fideos,Cordoba,6,11745.57
+2025-04-17,Alimentos,Fideos,Cordoba,2,24585.71
+2025-02-16,Indumentaria,Campera,Mendoza,1,63022.14
+2025-04-21,Hogar,Lampara,CABA,6,64293.01
+2025-07-22,Juguetes,Muñeco,Mendoza,3,27596.82
+2025-01-16,Alimentos,Yerba,Rosario,4,67578.98
+2025-02-18,Alimentos,Cafe,GBA Norte,1,11809.34
+2025-04-24,Indumentaria,Pantalon,Cordoba,2,34129.34
+2025-10-26,Juguetes,Auto RC,CABA,2,2940.22
+2025-04-12,Alimentos,Aceite,CABA,6,81551.94
+2025-03-04,Electronica,Teclado,CABA,7,15951.04
+2025-07-22,Alimentos,Cafe,Cordoba,3,61805.95
+2025-07-01,Indumentaria,Pantalon,GBA Sur,3,25907.06
+2025-01-18,Juguetes,Cartas,Rosario,5,22874.85
+2025-09-13,Alimentos,Galletitas,Cordoba,5,6427.14
+2025-07-16,Indumentaria,Zapatillas,GBA Norte,4,58196.07
+2025-11-19,Juguetes,Muñeco,Cordoba,6,70590.5
+2025-09-03,Juguetes,Pelota,GBA Sur,6,82228.25
+2025-07-18,Hogar,Lampara,CABA,4,29380.1
+2025-01-16,Hogar,Sarten,Cordoba,4,48119.47
+2025-03-23,Electronica,Cargador,Mendoza,1,22462.6
+2025-04-23,Juguetes,Pelota,GBA Sur,3,84233.34
+2025-04-01,Indumentaria,Medias,GBA Sur,6,72752.71
+2025-10-30,Electronica,Mouse,Rosario,4,51160.98
+2025-09-10,Juguetes,Auto RC,GBA Norte,2,44648.84
+2025-01-29,Indumentaria,Medias,GBA Norte,8,2773.59
+2025-01-01,Hogar,Vela,GBA Norte,6,72773.64
+2025-04-01,Hogar,Sarten,CABA,3,14146.37
+2025-02-26,Juguetes,Auto RC,CABA,7,34249.58
+2025-10-28,Electronica,Mouse,GBA Sur,3,29711.69
+2025-08-12,Alimentos,Fideos,GBA Norte,6,63939.28
+2025-04-25,Juguetes,Rompecabezas,Cordoba,5,28307.27
+2025-03-07,Indumentaria,Remera,Mendoza,7,85434.14
+2025-10-18,Electronica,Cargador,Rosario,4,29321.31
+2025-11-24,Juguetes,Muñeco,Cordoba,2,13517.26
+2025-05-02,Hogar,Almohada,GBA Norte,2,57620.62
+2025-12-29,Hogar,Toalla,CABA,4,24603.91
+2025-12-21,Electronica,Mouse,GBA Sur,1,71044.78
+2025-01-25,Alimentos,Yerba,Mendoza,3,38349.14
+2025-07-31,Alimentos,Yerba,GBA Sur,2,49596.13
+2025-09-03,Juguetes,Rompecabezas,GBA Norte,1,41164.58
+2025-05-31,Electronica,Mouse,GBA Sur,2,85697.93
+2025-06-25,Indumentaria,Zapatillas,GBA Norte,2,66146.67
+2025-06-23,Juguetes,Cartas,Cordoba,7,63700.91
+2025-12-01,Indumentaria,Medias,Cordoba,2,14982.24
+2025-06-19,Indumentaria,Pantalon,Cordoba,5,63050.51
+2025-12-05,Hogar,Almohada,GBA Norte,7,9536.52
+2025-10-20,Juguetes,Pelota,GBA Norte,1,5850.93
+2025-08-07,Electronica,Mouse,Mendoza,8,56633.09
+2025-04-13,Electronica,Auriculares,GBA Norte,5,16204.07
+2025-02-11,Alimentos,Cafe,GBA Sur,8,70854.02
+2025-09-08,Hogar,Sarten,Mendoza,3,49427.22
+2025-07-09,Alimentos,Fideos,GBA Norte,5,40674.0
+2025-08-14,Alimentos,Fideos,GBA Norte,1,75500.01
+2025-03-19,Electronica,Auriculares,Mendoza,7,31597.43
+2025-10-29,Indumentaria,Medias,CABA,7,75830.95
+2025-10-02,Alimentos,Galletitas,GBA Norte,2,43387.34
+2025-07-22,Electronica,Parlante,Rosario,3,81140.5
+2025-03-03,Alimentos,Aceite,GBA Norte,4,87522.67
+2025-03-06,Electronica,Teclado,CABA,7,88956.91
+2025-04-14,Indumentaria,Medias,GBA Sur,2,29457.7
+2025-02-14,Alimentos,Galletitas,Cordoba,5,50132.82
+2025-09-24,Alimentos,Cafe,Mendoza,7,56452.16
+2025-02-27,Alimentos,Aceite,GBA Norte,2,51426.86
+2025-02-24,Juguetes,Muñeco,GBA Sur,6,78205.3
+2025-07-30,Hogar,Toalla,Mendoza,8,44217.05
+2025-01-20,Indumentaria,Campera,Cordoba,7,13802.89
+2025-01-20,Alimentos,Fideos,Mendoza,8,22144.56
+2025-05-18,Hogar,Sarten,GBA Sur,5,73747.35
+2025-06-09,Hogar,Toalla,Mendoza,4,61951.83
+2025-03-10,Hogar,Toalla,GBA Sur,7,24978.38
+2025-11-06,Electronica,Cargador,Cordoba,7,19813.75
+2025-09-06,Juguetes,Auto RC,CABA,3,46859.0
+2025-02-03,Hogar,Vela,Cordoba,1,13072.83
+2025-03-30,Indumentaria,Pantalon,CABA,8,23204.63
+2025-01-26,Hogar,Lampara,GBA Sur,8,33783.32
+2025-09-16,Alimentos,Cafe,Mendoza,6,3720.12
+2025-09-08,Juguetes,Pelota,GBA Norte,8,86486.31
+2025-10-28,Juguetes,Auto RC,GBA Sur,5,15552.71
+2025-12-19,Electronica,Mouse,CABA,3,35404.34
+2025-10-20,Indumentaria,Pantalon,Mendoza,4,21034.97
+2025-05-18,Alimentos,Galletitas,CABA,1,77952.06
+2025-08-31,Indumentaria,Pantalon,Rosario,4,72276.97
+2025-05-10,Juguetes,Auto RC,Mendoza,5,87065.18
+2025-08-05,Alimentos,Fideos,Cordoba,8,23427.89
+2025-06-04,Juguetes,Cartas,Cordoba,1,53019.36
+2025-09-19,Hogar,Vela,Mendoza,5,53845.76
+2025-06-02,Electronica,Teclado,CABA,5,30929.25
+2025-11-24,Hogar,Almohada,GBA Sur,5,59394.64
+2025-04-07,Indumentaria,Medias,GBA Norte,7,81072.15
+2025-12-05,Hogar,Lampara,Mendoza,8,3265.52
+2025-06-01,Hogar,Toalla,Cordoba,1,35556.47
+2025-10-26,Juguetes,Rompecabezas,GBA Sur,4,65662.94
+2025-12-18,Juguetes,Pelota,Mendoza,5,32906.24
+2025-03-29,Juguetes,Rompecabezas,GBA Sur,3,9686.67
+2025-05-13,Juguetes,Rompecabezas,Mendoza,2,81063.61
+2025-04-24,Hogar,Lampara,Mendoza,7,78557.47
+2025-06-19,Hogar,Almohada,Rosario,2,27170.55
+2025-08-29,Electronica,Parlante,Rosario,2,85042.79
+2025-08-30,Indumentaria,Medias,CABA,7,78207.3
+2025-09-29,Hogar,Toalla,CABA,3,78505.57
+2025-03-12,Indumentaria,Campera,Cordoba,8,88860.05
+2025-03-15,Hogar,Lampara,CABA,3,44394.7
+2025-06-10,Electronica,Auriculares,Cordoba,3,25343.98
+2025-10-23,Indumentaria,Zapatillas,CABA,7,12517.13
+2025-11-21,Alimentos,Yerba,Cordoba,7,86914.18
+2025-01-03,Electronica,Parlante,GBA Norte,1,66028.66
+2025-06-14,Juguetes,Rompecabezas,CABA,4,61230.58
+2025-04-26,Hogar,Almohada,GBA Norte,5,10141.03
+2025-03-27,Electronica,Auriculares,GBA Sur,8,85413.24
+2025-09-24,Juguetes,Cartas,GBA Sur,3,39596.21
+2025-06-25,Alimentos,Fideos,GBA Norte,7,15674.63
+2025-01-10,Indumentaria,Pantalon,Mendoza,4,88654.28
+2025-01-12,Juguetes,Cartas,GBA Norte,1,11961.42
+2025-07-12,Hogar,Vela,Rosario,1,5324.24
+2025-12-05,Electronica,Auriculares,CABA,7,62387.73
+2025-08-16,Alimentos,Cafe,Rosario,3,23493.71
+2025-04-16,Electronica,Mouse,Cordoba,5,59888.15
+2025-11-15,Juguetes,Rompecabezas,Cordoba,2,74928.09
+2025-09-19,Juguetes,Muñeco,GBA Sur,2,11147.12
+2025-09-12,Indumentaria,Medias,GBA Norte,4,70238.34
+2025-07-03,Alimentos,Fideos,GBA Norte,8,4507.11
+2025-04-17,Alimentos,Fideos,GBA Norte,2,1243.68
+2025-02-26,Juguetes,Pelota,GBA Norte,2,85500.7
+2025-02-21,Hogar,Lampara,Cordoba,5,88991.27
+2025-05-16,Alimentos,Cafe,CABA,1,73372.88
+2025-05-29,Hogar,Almohada,Cordoba,2,66730.08
+2025-01-24,Electronica,Cargador,Mendoza,6,58600.68
+2025-07-03,Alimentos,Galletitas,GBA Sur,2,79184.32
+2025-07-10,Hogar,Lampara,CABA,8,36669.2
+2025-05-20,Alimentos,Yerba,Cordoba,3,58747.34
+2025-02-27,Indumentaria,Remera,GBA Norte,8,10230.47
+2025-10-19,Alimentos,Aceite,Rosario,6,34797.82
+2025-11-10,Electronica,Cargador,Cordoba,2,82915.42
+2025-07-30,Alimentos,Cafe,CABA,6,24283.55
+2025-01-07,Juguetes,Cartas,Mendoza,6,51286.09
+2025-09-23,Juguetes,Cartas,CABA,4,39523.46
+2025-09-04,Hogar,Toalla,GBA Norte,1,75673.94
+2025-01-06,Indumentaria,Medias,Cordoba,3,76816.53
+2025-02-08,Alimentos,Fideos,GBA Norte,5,30449.64
+2025-01-26,Juguetes,Rompecabezas,Rosario,7,58255.24
+2025-05-01,Electronica,Teclado,Cordoba,8,72312.25
+2025-02-15,Alimentos,Yerba,GBA Sur,8,11564.91
+2025-12-01,Electronica,Auriculares,Cordoba,1,37698.13
+2025-02-16,Juguetes,Cartas,Mendoza,4,28109.22
+2025-12-02,Alimentos,Fideos,GBA Sur,4,74452.68
+2025-08-21,Hogar,Vela,Rosario,6,54395.65
+2025-08-20,Electronica,Auriculares,Mendoza,6,20735.49
+2025-07-01,Hogar,Vela,Rosario,2,34276.24
+2025-01-24,Indumentaria,Zapatillas,GBA Norte,7,74143.64
+2025-02-24,Hogar,Vela,GBA Norte,7,17691.36
+2025-04-21,Alimentos,Aceite,Mendoza,7,31076.09
+2025-01-24,Juguetes,Muñeco,Cordoba,3,41707.52
+2025-09-13,Electronica,Parlante,Mendoza,7,5322.87
+2025-10-27,Alimentos,Galletitas,GBA Norte,3,62571.78
+2025-03-07,Electronica,Teclado,Mendoza,6,54448.6
+2025-09-16,Alimentos,Yerba,Rosario,4,82516.01
+2025-05-21,Alimentos,Fideos,GBA Sur,3,41303.27
+2025-03-12,Alimentos,Galletitas,Mendoza,5,79892.88
+2025-12-26,Juguetes,Auto RC,Mendoza,4,66576.86
+2025-04-13,Indumentaria,Medias,Mendoza,6,26861.58
+2025-12-11,Indumentaria,Pantalon,Rosario,6,49281.74
+2025-12-30,Electronica,Mouse,Rosario,7,43752.92
+2025-12-12,Juguetes,Auto RC,Cordoba,2,72939.13
+2025-01-13,Alimentos,Aceite,CABA,4,60652.62
+2025-05-17,Indumentaria,Campera,Mendoza,1,23299.93
+2025-12-20,Hogar,Lampara,Rosario,8,3875.27
+2025-02-22,Juguetes,Cartas,GBA Norte,7,67074.73
+2025-05-02,Juguetes,Auto RC,Mendoza,7,60139.93
+2025-07-18,Alimentos,Fideos,Rosario,5,5788.4
+2025-04-14,Juguetes,Pelota,GBA Norte,6,82122.29
+2025-10-29,Juguetes,Cartas,GBA Norte,4,70077.06
+2025-05-31,Alimentos,Aceite,Mendoza,3,7627.74
+2025-09-21,Electronica,Teclado,CABA,5,39137.2
+2025-03-08,Indumentaria,Medias,GBA Sur,8,1502.42
+2025-12-30,Indumentaria,Remera,GBA Norte,1,83647.91
+2025-11-17,Juguetes,Auto RC,Cordoba,6,71301.83
+2025-02-07,Hogar,Vela,GBA Norte,2,86171.91
+2025-09-16,Indumentaria,Zapatillas,Rosario,2,48796.2
+2025-06-28,Indumentaria,Pantalon,Mendoza,6,30537.63
+2025-05-31,Indumentaria,Medias,Rosario,1,43262.29
+2025-02-28,Hogar,Toalla,GBA Norte,4,81500.18
+2025-01-21,Hogar,Toalla,CABA,5,35342.96
+2025-01-13,Juguetes,Auto RC,Rosario,8,72450.69
+2025-09-07,Electronica,Mouse,Mendoza,2,18133.6
+2025-02-19,Indumentaria,Medias,Rosario,2,1652.42
+2025-04-18,Indumentaria,Zapatillas,CABA,7,19296.58
+2025-11-28,Electronica,Cargador,CABA,6,41871.05
+2025-01-20,Electronica,Auriculares,CABA,5,16841.3
+2025-10-13,Electronica,Parlante,GBA Norte,7,82077.81
+2025-07-18,Alimentos,Yerba,Cordoba,7,29159.98
+2025-12-11,Electronica,Parlante,CABA,2,58086.62
+2025-10-27,Electronica,Auriculares,GBA Sur,2,83596.25
+2025-05-29,Hogar,Vela,CABA,8,26055.05
+2025-07-15,Alimentos,Cafe,Cordoba,4,14912.79
+2025-03-11,Alimentos,Galletitas,GBA Sur,3,86451.95
+2025-06-02,Hogar,Sarten,Rosario,3,78854.26
+2025-03-05,Electronica,Auriculares,Rosario,2,54102.28
+2025-06-06,Indumentaria,Campera,GBA Norte,3,37726.25
+2025-03-24,Indumentaria,Pantalon,Rosario,4,75292.6
+2025-02-28,Indumentaria,Medias,CABA,8,76773.51
+2025-11-27,Juguetes,Muñeco,GBA Sur,5,60779.99
+2025-02-20,Indumentaria,Medias,Cordoba,6,85687.05
+2025-03-07,Indumentaria,Remera,GBA Sur,4,56136.9
+2025-06-12,Alimentos,Yerba,GBA Sur,5,55854.48
+2025-12-22,Juguetes,Rompecabezas,Rosario,6,51450.71
+2025-08-08,Indumentaria,Remera,GBA Sur,4,22909.59
+2025-12-31,Alimentos,Fideos,GBA Sur,6,12953.22
+2025-09-03,Alimentos,Yerba,GBA Sur,8,69954.26
+2025-10-10,Electronica,Cargador,Mendoza,5,54989.86
+2025-03-13,Juguetes,Rompecabezas,GBA Sur,2,66285.47
+2025-02-08,Electronica,Parlante,Mendoza,7,3776.29
+2025-10-30,Indumentaria,Remera,Rosario,8,24194.85
+2025-12-01,Indumentaria,Campera,Cordoba,5,20874.29
+2025-03-10,Alimentos,Galletitas,Rosario,6,9059.31
+2025-09-15,Electronica,Cargador,Rosario,3,61890.39
+2025-08-17,Indumentaria,Pantalon,Rosario,3,85435.35
+2025-09-05,Hogar,Sarten,GBA Norte,4,68771.04
+2025-02-02,Hogar,Almohada,GBA Norte,4,4809.95
+2025-09-23,Hogar,Toalla,Cordoba,1,82693.27
+2025-01-21,Hogar,Sarten,Mendoza,5,87191.28
+2025-05-15,Juguetes,Cartas,Rosario,7,16472.63
+2025-07-07,Juguetes,Muñeco,Rosario,4,23391.19
+2025-09-22,Alimentos,Fideos,GBA Sur,8,44330.68
+2025-11-06,Electronica,Parlante,GBA Norte,4,40150.98
+2025-02-09,Juguetes,Auto RC,GBA Norte,3,14371.4
+2025-07-05,Juguetes,Muñeco,Mendoza,6,21500.82
+2025-02-28,Alimentos,Yerba,Cordoba,3,19752.65
+2025-11-28,Alimentos,Cafe,GBA Norte,3,4839.85
+2025-03-10,Juguetes,Muñeco,Rosario,3,14070.99
+2025-05-13,Indumentaria,Medias,Cordoba,1,54342.82
+2025-12-05,Hogar,Sarten,GBA Norte,8,40979.1
+2025-09-04,Indumentaria,Pantalon,Cordoba,3,54474.65
+2025-11-16,Juguetes,Auto RC,GBA Norte,6,65452.63
+2025-08-21,Juguetes,Cartas,CABA,7,21453.43
+2025-03-09,Electronica,Auriculares,GBA Norte,7,47521.31
+2025-03-18,Juguetes,Muñeco,GBA Norte,1,43352.36
+2025-09-30,Juguetes,Muñeco,CABA,3,43919.44
+2025-11-05,Juguetes,Muñeco,Mendoza,7,58781.62
+2025-07-09,Electronica,Parlante,Cordoba,8,21424.28
+2025-07-15,Hogar,Vela,Mendoza,2,81799.44
+2025-08-06,Indumentaria,Campera,Cordoba,2,69161.44
+2025-05-26,Juguetes,Cartas,Cordoba,1,23944.64
+2025-12-30,Electronica,Parlante,Rosario,1,11486.75
+2025-07-12,Indumentaria,Campera,Cordoba,3,33242.01
+2025-08-07,Juguetes,Auto RC,GBA Sur,7,77092.95
+2025-10-17,Hogar,Vela,GBA Sur,7,89270.08
+2025-04-15,Alimentos,Galletitas,Rosario,6,43939.63
+2025-10-14,Juguetes,Pelota,GBA Sur,6,88977.24
+2025-12-28,Alimentos,Aceite,Mendoza,4,11598.63
+2025-08-17,Indumentaria,Remera,GBA Norte,6,46242.58
+2025-10-09,Juguetes,Muñeco,GBA Norte,1,35630.23
+2025-02-16,Indumentaria,Zapatillas,Rosario,2,39748.59
+2025-05-15,Indumentaria,Campera,CABA,7,55203.57
+2025-07-25,Juguetes,Cartas,GBA Sur,1,64332.92
+2025-03-31,Alimentos,Yerba,CABA,5,18951.94
+2025-04-10,Electronica,Parlante,Rosario,4,46907.41
+2025-11-11,Indumentaria,Remera,GBA Sur,1,22293.84
+2025-03-22,Electronica,Mouse,Cordoba,7,32428.36
+2025-07-27,Juguetes,Rompecabezas,Rosario,2,2367.62
+2025-02-16,Juguetes,Auto RC,Mendoza,6,74849.07
+2025-06-27,Hogar,Lampara,Rosario,8,86712.09
+2025-07-26,Juguetes,Muñeco,GBA Sur,2,16578.1
+2025-10-14,Electronica,Parlante,GBA Sur,2,31256.96
+2025-09-20,Hogar,Vela,Rosario,8,23262.59
+2025-07-13,Juguetes,Pelota,GBA Norte,8,68415.12
+2025-12-15,Alimentos,Galletitas,CABA,5,43895.34
+2025-02-04,Alimentos,Aceite,Mendoza,6,63404.67
+2025-07-31,Hogar,Vela,Rosario,5,1865.36
+2025-05-08,Hogar,Sarten,Cordoba,6,60959.11
+2025-02-08,Juguetes,Rompecabezas,Cordoba,4,28934.68
+2025-10-21,Hogar,Lampara,Mendoza,4,61796.55
+2025-09-13,Indumentaria,Pantalon,Mendoza,5,22543.03
+2025-04-16,Indumentaria,Pantalon,GBA Norte,6,75433.79
+2025-03-21,Electronica,Auriculares,CABA,8,61147.28
+2025-11-11,Electronica,Parlante,CABA,6,76472.94
+2025-11-14,Hogar,Toalla,Rosario,8,78320.43
+2025-04-04,Juguetes,Auto RC,Cordoba,3,20766.26
+2025-01-28,Juguetes,Pelota,Cordoba,1,84629.24
+2025-09-15,Hogar,Toalla,Mendoza,8,70055.45
+2025-03-03,Juguetes,Pelota,GBA Sur,1,62339.74
+2025-12-12,Indumentaria,Zapatillas,Rosario,6,9966.56
+2025-11-10,Hogar,Lampara,Rosario,5,24393.56
+2025-08-30,Juguetes,Auto RC,GBA Sur,7,17368.32
+2025-04-18,Alimentos,Fideos,GBA Sur,5,77035.02
+2025-08-19,Indumentaria,Medias,GBA Norte,4,88155.25
+2025-02-21,Hogar,Lampara,Rosario,7,39467.47
+2025-04-11,Indumentaria,Pantalon,Cordoba,3,72704.48
+2025-08-04,Alimentos,Aceite,Mendoza,6,47013.62
+2025-09-07,Hogar,Almohada,Rosario,1,77406.68
+2025-07-23,Electronica,Cargador,CABA,5,20176.59
+2025-09-01,Electronica,Teclado,Mendoza,6,30784.43
+2025-07-04,Juguetes,Cartas,GBA Sur,7,31628.48
+2025-03-04,Hogar,Vela,GBA Norte,3,52339.98
+2025-05-26,Hogar,Almohada,Mendoza,8,46429.56
+2025-02-10,Alimentos,Galletitas,GBA Sur,3,42273.94
+2025-03-27,Hogar,Toalla,Mendoza,7,55495.6
+2025-02-06,Electronica,Cargador,GBA Sur,6,21311.4
+2025-12-01,Hogar,Almohada,Rosario,5,58373.34
+2025-08-16,Hogar,Vela,Rosario,7,86931.82
+2025-03-27,Indumentaria,Remera,GBA Norte,5,65771.75
+2025-12-25,Electronica,Cargador,GBA Norte,2,36337.06
+2025-02-02,Alimentos,Galletitas,CABA,7,3346.48
+2025-09-26,Electronica,Auriculares,GBA Sur,2,56011.09
+2025-12-02,Alimentos,Fideos,GBA Norte,5,23018.29
+2025-08-15,Indumentaria,Pantalon,Rosario,1,75628.08
+2025-01-18,Hogar,Almohada,Cordoba,5,42580.22
+2025-10-08,Alimentos,Aceite,Mendoza,8,48996.59
+2025-11-20,Juguetes,Pelota,Rosario,5,57941.0
+2025-06-27,Alimentos,Galletitas,GBA Norte,8,72618.99
+2025-06-07,Hogar,Toalla,GBA Sur,1,14858.86
+2025-01-01,Juguetes,Rompecabezas,GBA Sur,1,26521.84
+2025-12-19,Alimentos,Yerba,GBA Sur,7,1812.8
+2025-05-30,Juguetes,Rompecabezas,CABA,4,49790.89
+2025-07-30,Juguetes,Pelota,Cordoba,7,23240.75
+2025-07-13,Indumentaria,Campera,CABA,4,38579.31
+2025-09-22,Juguetes,Auto RC,GBA Sur,5,58712.68
+2025-07-31,Indumentaria,Remera,GBA Norte,2,13159.54
+2025-11-23,Alimentos,Galletitas,Cordoba,8,25219.94
+2025-04-07,Hogar,Sarten,GBA Norte,1,5417.25
+2025-04-06,Electronica,Mouse,GBA Sur,8,12128.49
+2025-01-05,Indumentaria,Remera,GBA Norte,4,2310.51
+2025-06-25,Alimentos,Fideos,Cordoba,8,89818.75
+2025-12-23,Electronica,Mouse,CABA,3,76075.62
+2025-01-29,Hogar,Toalla,CABA,3,49344.08
+2025-04-09,Hogar,Toalla,CABA,4,11854.58
+2025-07-17,Alimentos,Aceite,Mendoza,4,89513.65
+2025-08-24,Electronica,Parlante,Mendoza,8,88408.31
+2025-07-19,Hogar,Almohada,GBA Norte,1,56995.62
+2025-10-09,Juguetes,Muñeco,GBA Sur,5,43829.43
+2025-04-12,Hogar,Sarten,Mendoza,2,20383.15
+2025-05-01,Alimentos,Fideos,CABA,5,15895.07
+2025-10-27,Electronica,Teclado,GBA Norte,1,1794.76
+2025-10-25,Alimentos,Galletitas,GBA Norte,2,34054.48
+2025-05-08,Indumentaria,Zapatillas,CABA,6,62049.07
+2025-11-17,Electronica,Auriculares,GBA Sur,2,58367.17
+2025-03-06,Alimentos,Aceite,GBA Sur,6,88369.14
+2025-08-13,Indumentaria,Remera,Mendoza,3,34621.44
+2025-05-09,Electronica,Teclado,Mendoza,5,39937.5
+2025-10-05,Alimentos,Aceite,Rosario,6,17609.78
+2025-06-15,Alimentos,Fideos,Rosario,3,82388.19
+2025-02-05,Juguetes,Rompecabezas,Cordoba,5,27314.87
+2025-10-05,Hogar,Toalla,CABA,7,70056.69
+2025-04-05,Electronica,Parlante,GBA Sur,4,70065.47
+2025-06-14,Electronica,Parlante,Cordoba,8,17898.38
+2025-10-10,Indumentaria,Medias,GBA Sur,6,29711.4
+2025-02-26,Electronica,Parlante,Mendoza,3,6934.51
+2025-04-02,Electronica,Cargador,CABA,2,44197.96
+2025-01-17,Juguetes,Pelota,Mendoza,5,44601.96
+2025-01-26,Hogar,Lampara,Rosario,1,64888.22
+2025-04-17,Alimentos,Cafe,Cordoba,1,72290.78
+2025-07-04,Juguetes,Pelota,GBA Sur,1,71688.21
+2025-11-12,Hogar,Vela,CABA,5,66352.73
+2025-02-09,Indumentaria,Medias,CABA,4,10009.04
+2025-09-30,Alimentos,Aceite,GBA Norte,4,47831.09
+2025-10-19,Indumentaria,Medias,Mendoza,2,50674.6
+2025-11-23,Juguetes,Auto RC,Mendoza,7,41826.13
+2025-02-23,Indumentaria,Pantalon,Rosario,6,36738.59
+2025-12-03,Indumentaria,Medias,Rosario,6,40428.08
+2025-06-11,Juguetes,Auto RC,GBA Sur,7,37698.55
+2025-06-15,Juguetes,Rompecabezas,Rosario,7,49560.74
+2025-10-09,Hogar,Almohada,Cordoba,7,40827.48
+2025-01-01,Electronica,Mouse,Rosario,3,2450.92
+2025-06-04,Electronica,Mouse,GBA Norte,6,20119.23
+2025-01-12,Hogar,Vela,Rosario,3,50512.75
+2025-02-18,Electronica,Teclado,GBA Sur,5,14893.53
+2025-07-07,Juguetes,Rompecabezas,GBA Norte,5,23805.7
+2025-02-17,Juguetes,Pelota,Rosario,2,82691.48
+2025-06-16,Alimentos,Aceite,Cordoba,2,74487.77
+2025-11-01,Hogar,Sarten,Mendoza,7,72942.36
+2025-02-10,Electronica,Mouse,GBA Sur,7,79301.53
+2025-08-02,Electronica,Cargador,Mendoza,1,59097.35
+2025-11-21,Alimentos,Cafe,GBA Sur,6,47670.12
+2025-10-04,Juguetes,Rompecabezas,GBA Sur,4,45713.74
+2025-03-20,Electronica,Teclado,Cordoba,2,68002.78
+2025-04-24,Alimentos,Fideos,Cordoba,6,14173.1
+2025-02-12,Alimentos,Galletitas,Mendoza,7,5388.69
+2025-05-15,Electronica,Teclado,Rosario,3,39669.71
+2025-03-11,Alimentos,Galletitas,GBA Norte,4,44419.64
+2025-10-15,Juguetes,Cartas,GBA Norte,5,22566.04
+2025-08-09,Hogar,Vela,CABA,7,11015.16
+2025-08-05,Hogar,Almohada,GBA Norte,1,29545.71
+2025-06-06,Indumentaria,Campera,Rosario,8,74120.98
+2025-11-16,Indumentaria,Zapatillas,CABA,4,83254.98
+2025-04-13,Hogar,Lampara,Mendoza,2,76896.01
+2025-01-28,Indumentaria,Medias,GBA Norte,5,78318.96
+2025-01-08,Hogar,Sarten,GBA Sur,1,41055.48
+2025-06-19,Indumentaria,Medias,GBA Norte,5,19138.32
+2025-10-08,Alimentos,Galletitas,Mendoza,1,89314.89
+2025-07-12,Juguetes,Cartas,CABA,1,23735.61
+2025-05-26,Indumentaria,Medias,GBA Sur,1,5724.59
+2025-02-04,Alimentos,Fideos,Mendoza,6,76835.38
+2025-02-25,Electronica,Mouse,Mendoza,7,35400.57
+2025-09-18,Electronica,Mouse,Cordoba,2,78142.77
+2025-04-06,Indumentaria,Medias,Cordoba,1,50901.19
+2025-01-21,Indumentaria,Medias,GBA Sur,7,30687.7
+2025-03-22,Electronica,Mouse,Mendoza,5,32320.26
+2025-05-01,Juguetes,Auto RC,CABA,7,56695.52
+2025-01-16,Juguetes,Auto RC,GBA Norte,7,14502.03
+2025-12-03,Indumentaria,Remera,Mendoza,4,35016.43
+2025-08-02,Indumentaria,Medias,GBA Norte,5,38955.38
+2025-11-06,Hogar,Toalla,Rosario,3,12727.72
+2025-10-25,Juguetes,Rompecabezas,GBA Norte,3,28500.86
+2025-08-09,Indumentaria,Medias,GBA Norte,2,29257.16
+2025-04-05,Hogar,Lampara,Mendoza,6,3624.02
+2025-07-31,Alimentos,Fideos,Cordoba,5,67359.27
+2025-03-19,Indumentaria,Remera,GBA Norte,5,17442.44
+2025-11-07,Juguetes,Cartas,GBA Norte,4,54076.1
+2025-12-18,Electronica,Mouse,CABA,8,62244.57
+2025-03-10,Juguetes,Cartas,Cordoba,6,64369.7
+2025-04-05,Alimentos,Yerba,Cordoba,4,13238.63
+2025-04-26,Electronica,Teclado,CABA,7,83363.72
+2025-04-24,Indumentaria,Pantalon,CABA,8,16759.96
+2025-11-12,Alimentos,Fideos,Cordoba,7,79995.24
+2025-07-27,Electronica,Parlante,Mendoza,6,74365.24
+2025-07-21,Juguetes,Cartas,Rosario,1,48718.19
+2025-09-24,Electronica,Teclado,Cordoba,1,74603.9
+2025-05-06,Juguetes,Cartas,Cordoba,1,88560.93
+2025-10-13,Alimentos,Galletitas,Mendoza,4,86670.72
+2025-05-30,Alimentos,Yerba,GBA Sur,5,69857.25
+2025-08-25,Indumentaria,Zapatillas,GBA Sur,1,55568.95
+2025-12-20,Juguetes,Rompecabezas,Cordoba,8,74860.52
+2025-02-16,Juguetes,Muñeco,GBA Norte,3,70307.07
+2025-07-21,Alimentos,Fideos,Cordoba,8,3217.18
+2025-10-30,Indumentaria,Zapatillas,CABA,3,23257.32
+2025-03-05,Electronica,Auriculares,Mendoza,6,40996.46
+2025-02-13,Juguetes,Pelota,Mendoza,3,71404.93
+2025-07-13,Juguetes,Pelota,CABA,6,69375.17
+2025-10-17,Indumentaria,Pantalon,GBA Norte,1,16919.14
+2025-08-03,Hogar,Almohada,Mendoza,8,69408.11
+2025-05-28,Indumentaria,Remera,GBA Norte,1,86478.62
+2025-11-15,Hogar,Sarten,Cordoba,8,45288.86
+2025-10-06,Electronica,Parlante,Cordoba,8,22171.17
+2025-08-21,Alimentos,Yerba,CABA,1,54508.27
+2025-05-06,Juguetes,Auto RC,Rosario,4,56948.55
+2025-01-26,Indumentaria,Pantalon,CABA,1,59141.64
+2025-03-16,Electronica,Parlante,Rosario,2,27561.3
+2025-01-26,Electronica,Teclado,GBA Norte,5,15358.84
+2025-11-09,Juguetes,Cartas,Rosario,8,16790.31
+2025-10-24,Hogar,Sarten,CABA,6,69397.57
+2025-07-08,Alimentos,Cafe,Cordoba,2,76054.56
+2025-05-30,Alimentos,Aceite,CABA,5,62821.13
+2025-06-18,Juguetes,Pelota,Rosario,4,19676.24
+2025-11-10,Electronica,Auriculares,Rosario,2,65945.84
+2025-09-05,Juguetes,Auto RC,Cordoba,6,55187.17
+2025-05-13,Juguetes,Cartas,Rosario,3,32492.95
+2025-11-11,Juguetes,Pelota,Rosario,8,65897.44
+2025-09-10,Indumentaria,Medias,GBA Norte,4,64064.25
+2025-01-01,Electronica,Auriculares,Cordoba,2,56666.01
+2025-04-17,Juguetes,Pelota,Cordoba,6,5048.8
+2025-10-14,Indumentaria,Remera,Mendoza,5,18905.66
+2025-05-11,Electronica,Mouse,GBA Sur,6,46095.38
+2025-01-04,Electronica,Mouse,GBA Sur,1,36248.39
+2025-03-31,Indumentaria,Campera,GBA Sur,8,83082.9
+2025-08-31,Electronica,Cargador,Cordoba,8,14829.38
+2025-10-02,Hogar,Toalla,Cordoba,1,83573.31
+2025-09-24,Hogar,Vela,Mendoza,1,61359.59
+2025-04-17,Juguetes,Auto RC,GBA Sur,3,6892.96
+2025-05-24,Electronica,Mouse,Cordoba,3,56759.47
+2025-10-20,Juguetes,Pelota,GBA Norte,5,53972.08
+2025-12-28,Hogar,Sarten,GBA Sur,8,37834.39
+2025-05-02,Hogar,Toalla,GBA Sur,5,20236.45
+2025-03-31,Electronica,Mouse,CABA,2,70223.34
+2025-08-16,Juguetes,Muñeco,Cordoba,3,81541.07
+2025-04-08,Hogar,Toalla,Mendoza,5,78775.24
+2025-06-17,Indumentaria,Remera,Rosario,3,61227.84
+2025-04-16,Electronica,Teclado,Cordoba,2,64517.29
+2025-01-03,Hogar,Sarten,Mendoza,2,76483.04
+2025-06-20,Alimentos,Cafe,CABA,5,47331.42
+2025-01-12,Juguetes,Auto RC,Mendoza,6,80400.07
+2025-04-13,Indumentaria,Campera,GBA Sur,8,48372.55
+2025-12-10,Electronica,Mouse,GBA Norte,2,15017.15
+2025-01-08,Juguetes,Cartas,Rosario,6,10111.4
+2025-10-09,Hogar,Almohada,GBA Norte,5,84951.73
+2025-10-21,Indumentaria,Pantalon,CABA,6,28712.6
+2025-10-04,Alimentos,Cafe,GBA Norte,1,3580.35
+2025-02-24,Alimentos,Cafe,CABA,3,38955.45
+2025-12-27,Juguetes,Cartas,Mendoza,8,75419.52
+2025-11-12,Hogar,Almohada,GBA Sur,2,73752.34
+2025-08-27,Juguetes,Rompecabezas,CABA,8,73343.74
+2025-02-19,Alimentos,Fideos,Mendoza,8,58353.26
+2025-08-29,Indumentaria,Pantalon,GBA Norte,5,77637.57
+2025-07-06,Alimentos,Aceite,Mendoza,6,82636.53
+2025-06-16,Alimentos,Yerba,CABA,2,6817.5
+2025-06-29,Alimentos,Yerba,GBA Norte,6,26120.91
+2025-11-06,Juguetes,Rompecabezas,Rosario,2,10160.97
+2025-06-16,Juguetes,Muñeco,GBA Sur,7,48414.36
+2025-10-30,Alimentos,Aceite,Rosario,3,22688.5
+2025-09-04,Alimentos,Cafe,GBA Sur,7,19533.19
+2025-08-11,Juguetes,Auto RC,Rosario,3,62777.85
+2025-12-06,Electronica,Parlante,Cordoba,8,11174.73
+2025-06-16,Juguetes,Muñeco,Cordoba,7,16679.49
+2025-02-05,Juguetes,Muñeco,Mendoza,7,73451.94
+2025-06-17,Alimentos,Cafe,CABA,3,20367.45
+2025-10-25,Electronica,Cargador,Mendoza,5,14280.26
+2025-07-19,Juguetes,Cartas,Cordoba,6,18414.33
+2025-06-03,Juguetes,Auto RC,Cordoba,6,64883.42
+2025-02-15,Juguetes,Muñeco,Rosario,7,88791.53
+2025-03-07,Hogar,Sarten,GBA Sur,1,81195.74
+2025-01-01,Juguetes,Auto RC,CABA,1,77651.06
+2025-05-01,Alimentos,Galletitas,Cordoba,7,56644.07
+2025-07-27,Alimentos,Yerba,Rosario,3,19798.23
+2025-09-01,Indumentaria,Pantalon,Rosario,6,35228.96
+2025-08-02,Indumentaria,Campera,Mendoza,1,12173.87
+2025-02-06,Electronica,Cargador,Mendoza,7,79755.09
+2025-03-11,Electronica,Cargador,Mendoza,8,72728.8
+2025-12-23,Juguetes,Pelota,Rosario,7,17001.97
+2025-10-10,Alimentos,Yerba,GBA Sur,7,21090.94
+2025-11-06,Electronica,Parlante,Cordoba,4,76365.55
+2025-12-31,Juguetes,Auto RC,Cordoba,6,83464.24
+2025-01-18,Electronica,Parlante,Cordoba,2,63734.55
+2025-10-25,Alimentos,Cafe,GBA Norte,5,65986.51
+2025-08-27,Juguetes,Muñeco,Rosario,2,80202.48
+2025-05-06,Alimentos,Cafe,Mendoza,5,57398.2
+2025-11-10,Electronica,Mouse,Rosario,8,70288.91
+2025-08-21,Juguetes,Pelota,Rosario,7,66309.49
+2025-06-30,Hogar,Almohada,GBA Norte,5,4144.04
+2025-10-16,Hogar,Sarten,Mendoza,3,43111.29
+2025-10-21,Electronica,Mouse,Mendoza,5,56564.21
+2025-09-06,Electronica,Cargador,Rosario,5,7840.74
+2025-05-10,Indumentaria,Medias,GBA Sur,5,25494.32
+2025-01-08,Electronica,Parlante,GBA Norte,3,82001.7
+2025-12-04,Alimentos,Fideos,GBA Norte,4,24251.48
+2025-09-06,Indumentaria,Medias,CABA,2,31513.47
+2025-03-16,Juguetes,Rompecabezas,Cordoba,7,67995.76
+2025-07-16,Indumentaria,Zapatillas,Mendoza,4,57744.15
+2025-10-23,Hogar,Sarten,Mendoza,2,24531.2
+2025-01-27,Indumentaria,Zapatillas,Cordoba,8,43384.64
+2025-09-30,Indumentaria,Zapatillas,Mendoza,8,63799.09
+2025-05-15,Indumentaria,Medias,Cordoba,8,2055.81
+2025-07-15,Hogar,Vela,Mendoza,2,86072.5
+2025-09-30,Hogar,Toalla,Rosario,5,82705.74
+2025-06-21,Hogar,Almohada,CABA,7,23725.61
+2025-08-25,Indumentaria,Medias,GBA Norte,3,47275.76
+2025-06-10,Juguetes,Muñeco,Mendoza,2,1754.38
+2025-01-07,Alimentos,Cafe,Rosario,8,10247.75
+2025-06-29,Indumentaria,Campera,GBA Sur,1,18184.08
+2025-11-14,Electronica,Auriculares,Rosario,4,59437.89
+2025-11-03,Electronica,Auriculares,CABA,3,77223.23
+2025-07-12,Juguetes,Rompecabezas,CABA,5,62913.17
+2025-05-31,Alimentos,Cafe,Mendoza,5,41356.5
+2025-08-07,Hogar,Almohada,GBA Norte,5,70485.09
+2025-02-01,Alimentos,Yerba,GBA Sur,5,89640.31
+2025-05-16,Indumentaria,Zapatillas,CABA,4,44763.24
+2025-11-09,Alimentos,Aceite,Mendoza,3,44793.1
+2025-10-04,Alimentos,Aceite,Rosario,8,58257.1
+2025-05-13,Electronica,Auriculares,CABA,5,7266.7
+2025-08-17,Electronica,Teclado,GBA Norte,1,59105.01
+2025-01-20,Alimentos,Fideos,GBA Norte,7,63304.91
+2025-10-22,Electronica,Parlante,Mendoza,8,84652.09
+2025-09-02,Alimentos,Yerba,Mendoza,2,70503.4
+2025-10-04,Indumentaria,Remera,Cordoba,8,85919.83
+2025-03-04,Juguetes,Cartas,GBA Sur,5,30676.13
+2025-07-25,Electronica,Auriculares,GBA Sur,6,48581.74
+2025-02-11,Alimentos,Fideos,Mendoza,1,19077.72
+2025-07-16,Indumentaria,Campera,Mendoza,2,35719.32
+2025-11-19,Hogar,Toalla,CABA,8,79784.06
+2025-04-08,Indumentaria,Remera,GBA Norte,4,3257.45
+2025-09-08,Alimentos,Cafe,Rosario,8,58263.28
+2025-10-01,Alimentos,Cafe,CABA,6,31196.37
+2025-01-22,Alimentos,Cafe,GBA Norte,8,72832.23
+2025-12-14,Juguetes,Rompecabezas,Mendoza,2,52561.77
+2025-01-19,Indumentaria,Zapatillas,Mendoza,1,2696.61
+2025-05-05,Indumentaria,Remera,GBA Norte,5,57306.87
+2025-02-19,Alimentos,Galletitas,GBA Norte,2,75346.34
+2025-02-24,Electronica,Teclado,Rosario,4,72126.59
+2025-02-02,Indumentaria,Zapatillas,GBA Sur,7,73225.37
+2025-06-16,Electronica,Parlante,Rosario,4,13222.32
+2025-01-24,Juguetes,Rompecabezas,GBA Sur,5,6626.75
+2025-03-14,Alimentos,Aceite,Mendoza,3,33923.53
+2025-08-13,Indumentaria,Medias,CABA,7,12870.01
+2025-03-22,Electronica,Teclado,CABA,3,1565.11
+2025-02-15,Juguetes,Auto RC,Cordoba,8,62721.81
+2025-12-21,Indumentaria,Pantalon,GBA Norte,8,57944.49
+2025-07-30,Indumentaria,Pantalon,Rosario,3,62558.95
+2025-09-13,Juguetes,Muñeco,Mendoza,5,74557.04
+2025-06-28,Alimentos,Cafe,Rosario,2,21971.87
+2025-09-29,Electronica,Parlante,GBA Sur,4,77783.06
+2025-08-26,Indumentaria,Campera,CABA,3,18240.99
+2025-12-17,Alimentos,Yerba,GBA Norte,1,15218.6
+2025-01-28,Hogar,Almohada,GBA Norte,6,39685.78
+2025-11-12,Alimentos,Cafe,CABA,3,66897.1
+2025-03-22,Electronica,Teclado,Rosario,4,11329.79
+2025-08-16,Juguetes,Cartas,GBA Sur,6,38296.9
+2025-04-28,Electronica,Mouse,GBA Norte,7,9727.71
+2025-04-13,Alimentos,Aceite,CABA,8,42918.13
+2025-01-28,Alimentos,Aceite,GBA Norte,8,83581.95
+2025-04-02,Alimentos,Fideos,GBA Norte,4,41738.88
+2025-11-20,Hogar,Almohada,GBA Norte,1,30894.33
+2025-12-21,Juguetes,Muñeco,GBA Sur,8,13148.63
+2025-08-23,Alimentos,Aceite,GBA Sur,5,20566.97
+2025-11-06,Indumentaria,Medias,GBA Norte,4,52452.81
+2025-02-14,Alimentos,Galletitas,Cordoba,4,77735.72
+2025-10-30,Alimentos,Yerba,GBA Sur,7,2290.84
+2025-05-07,Indumentaria,Campera,Cordoba,3,52572.57
+2025-10-21,Electronica,Teclado,CABA,8,4565.22
+2025-09-16,Electronica,Teclado,Rosario,2,36094.49
+2025-08-20,Alimentos,Aceite,CABA,1,50705.34
+2025-12-21,Alimentos,Aceite,GBA Norte,4,32898.11
+2025-11-28,Electronica,Auriculares,Cordoba,3,60544.17
+2025-12-27,Alimentos,Galletitas,Mendoza,8,52945.75
+2025-08-26,Indumentaria,Zapatillas,GBA Norte,6,71297.43
+2025-11-17,Alimentos,Cafe,Mendoza,6,7292.17
+2025-09-29,Electronica,Mouse,Cordoba,4,68007.03
+2025-12-17,Electronica,Parlante,GBA Sur,1,66482.71
+2025-09-21,Hogar,Sarten,CABA,8,35082.99
+2025-11-13,Electronica,Mouse,GBA Sur,2,16598.8
+2025-10-15,Indumentaria,Pantalon,GBA Sur,2,22238.31
+2025-11-29,Alimentos,Galletitas,Mendoza,4,19671.66
+2025-06-14,Hogar,Almohada,Rosario,5,61540.18
+2025-01-28,Electronica,Mouse,GBA Sur,2,41264.55
+2025-08-29,Juguetes,Cartas,GBA Sur,6,41226.08
+2025-12-11,Electronica,Cargador,Cordoba,7,8770.48
+2025-04-02,Hogar,Sarten,CABA,2,15664.19
+2025-12-23,Indumentaria,Zapatillas,GBA Norte,1,78874.39
+2025-05-31,Alimentos,Galletitas,GBA Norte,7,43177.54
+2025-08-16,Electronica,Mouse,GBA Norte,4,6602.51
+2025-09-24,Hogar,Toalla,Rosario,6,31508.53
+2025-09-06,Juguetes,Cartas,Rosario,5,40627.81
+2025-10-18,Indumentaria,Campera,GBA Norte,4,71244.83
+2025-09-05,Hogar,Almohada,CABA,5,14202.11
+2025-08-22,Indumentaria,Medias,GBA Norte,5,64351.28
+2025-04-04,Indumentaria,Pantalon,GBA Norte,1,22173.57
+2025-06-12,Juguetes,Rompecabezas,Cordoba,3,24176.24
+2025-04-16,Juguetes,Muñeco,Mendoza,6,29208.0
+2025-03-17,Hogar,Toalla,Rosario,5,87816.45
+2025-03-04,Electronica,Teclado,Cordoba,8,69398.12
+2025-06-13,Indumentaria,Remera,Mendoza,6,49606.96
+2025-11-28,Hogar,Toalla,GBA Sur,3,87294.89
+2025-10-17,Alimentos,Fideos,Mendoza,8,10996.09
+2025-01-21,Indumentaria,Medias,CABA,7,28419.32
+2025-11-13,Indumentaria,Zapatillas,GBA Sur,1,9230.82
+2025-11-08,Indumentaria,Medias,Rosario,5,20770.8
+2025-04-11,Electronica,Auriculares,Rosario,2,76601.17
+2025-09-20,Alimentos,Aceite,Cordoba,1,29280.45
+2025-12-08,Hogar,Toalla,GBA Norte,7,64720.78
+2025-07-09,Alimentos,Fideos,CABA,6,26333.88
+2025-06-07,Alimentos,Galletitas,CABA,8,20196.87
+2025-08-01,Alimentos,Fideos,GBA Norte,7,72704.88
+2025-08-01,Indumentaria,Medias,Rosario,4,8660.94
+2025-06-05,Alimentos,Galletitas,GBA Sur,7,6884.3
+2025-02-15,Electronica,Teclado,Mendoza,7,82382.53
+2025-03-31,Juguetes,Pelota,Mendoza,3,51544.55
+2025-04-13,Indumentaria,Zapatillas,GBA Sur,1,50294.16
+2025-06-04,Juguetes,Auto RC,Cordoba,8,50776.01
+2025-04-25,Electronica,Auriculares,GBA Norte,8,24378.26
+2025-03-05,Hogar,Toalla,GBA Norte,4,44777.9
+2025-01-15,Electronica,Mouse,Cordoba,2,89495.63
+2025-11-03,Hogar,Vela,Cordoba,5,51336.14
+2025-11-18,Alimentos,Cafe,GBA Sur,1,46614.8
+2025-05-13,Indumentaria,Medias,CABA,8,14006.2
+2025-12-21,Indumentaria,Campera,GBA Norte,6,5707.06
+2025-08-03,Hogar,Sarten,GBA Sur,2,26958.1
+2025-09-21,Indumentaria,Pantalon,CABA,3,54289.86
+2025-10-06,Hogar,Almohada,Mendoza,5,72189.07
+2025-12-17,Hogar,Sarten,Rosario,3,52624.15
+2025-01-07,Indumentaria,Medias,GBA Sur,8,34198.26
+2025-07-30,Hogar,Lampara,CABA,4,20390.98
+2025-04-07,Juguetes,Cartas,Mendoza,2,74996.04
+2025-08-02,Alimentos,Cafe,CABA,1,73877.18
+2025-09-03,Hogar,Almohada,Mendoza,8,33268.6
+2025-11-02,Juguetes,Auto RC,GBA Norte,1,64180.64
+2025-03-02,Indumentaria,Pantalon,Mendoza,4,13669.98
+2025-06-07,Indumentaria,Pantalon,GBA Norte,7,88318.75
+2025-12-20,Electronica,Auriculares,CABA,7,69947.62
+2025-01-22,Indumentaria,Remera,CABA,1,71581.91
+2025-08-29,Electronica,Mouse,CABA,1,6896.02
+2025-02-19,Electronica,Parlante,GBA Norte,4,53296.67
+2025-04-05,Hogar,Sarten,CABA,5,13954.57
+2025-10-24,Hogar,Almohada,GBA Norte,4,77107.29
+2025-09-16,Juguetes,Muñeco,CABA,1,73943.2
+2025-09-28,Indumentaria,Pantalon,GBA Sur,1,16287.84
+2025-02-20,Indumentaria,Medias,Mendoza,3,43249.68
+2025-08-14,Electronica,Cargador,GBA Sur,7,88335.8
+2025-04-20,Juguetes,Rompecabezas,Cordoba,6,11043.25
+2025-03-05,Alimentos,Cafe,Rosario,6,13096.2
+2025-12-27,Hogar,Vela,Mendoza,6,4614.16
+2025-09-10,Electronica,Teclado,GBA Sur,5,41668.17
+2025-12-18,Alimentos,Aceite,Rosario,7,37248.12
+2025-04-07,Electronica,Teclado,Mendoza,1,33702.28
+2025-12-12,Alimentos,Cafe,Cordoba,2,39987.19
+2025-03-03,Indumentaria,Zapatillas,Cordoba,2,62858.3
+2025-03-28,Electronica,Mouse,GBA Norte,7,31138.22
+2025-03-04,Indumentaria,Zapatillas,Mendoza,5,45420.8
+2025-11-26,Alimentos,Fideos,Cordoba,7,60334.25
+2025-09-06,Juguetes,Auto RC,GBA Norte,2,69351.96
+2025-03-04,Hogar,Toalla,Cordoba,3,21543.14
+2025-01-16,Electronica,Auriculares,CABA,1,45334.01
+2025-04-02,Alimentos,Galletitas,Mendoza,5,30099.07
+2025-11-15,Juguetes,Muñeco,CABA,8,59836.17
+2025-08-27,Indumentaria,Campera,Mendoza,5,45313.01
+2025-10-05,Hogar,Vela,Rosario,1,2572.66
+2025-08-09,Electronica,Teclado,Cordoba,7,28995.77
+2025-08-15,Alimentos,Cafe,CABA,5,16741.36
+2025-12-28,Indumentaria,Zapatillas,Cordoba,7,12969.45
+2025-09-07,Electronica,Parlante,Mendoza,8,44659.28
+2025-09-01,Juguetes,Rompecabezas,Rosario,5,5960.6
+2025-09-11,Juguetes,Pelota,Rosario,5,61207.41
+2025-06-14,Electronica,Auriculares,Rosario,6,5015.54
+2025-06-28,Juguetes,Muñeco,Mendoza,2,31371.83
+2025-08-08,Hogar,Almohada,Cordoba,4,32262.96
+2025-05-07,Indumentaria,Campera,Rosario,2,8559.81
+2025-06-06,Electronica,Mouse,GBA Norte,6,2754.37
+2025-01-20,Alimentos,Yerba,Rosario,7,46813.62
+2025-05-17,Electronica,Teclado,Rosario,6,2979.04
+2025-07-13,Juguetes,Pelota,GBA Sur,8,51955.94
+2025-02-21,Indumentaria,Campera,Cordoba,6,45746.4
+2025-03-27,Juguetes,Auto RC,GBA Sur,4,87279.07
+2025-09-12,Electronica,Parlante,GBA Norte,1,26574.64
+2025-06-02,Juguetes,Pelota,GBA Norte,2,56586.93
+2025-10-24,Electronica,Parlante,GBA Sur,8,25329.48
+2025-08-07,Indumentaria,Campera,CABA,5,58986.78
+2025-09-16,Hogar,Toalla,Mendoza,4,49055.33
+2025-08-01,Alimentos,Fideos,Rosario,3,46867.86
+2025-01-10,Juguetes,Rompecabezas,Rosario,8,45429.12
+2025-05-18,Juguetes,Cartas,Cordoba,1,84182.6
+2025-09-25,Indumentaria,Campera,Cordoba,3,14149.19
+2025-12-17,Hogar,Toalla,Cordoba,2,29360.13
+2025-11-21,Indumentaria,Zapatillas,GBA Sur,3,74310.25
+2025-05-12,Juguetes,Rompecabezas,Cordoba,3,22225.02
+2025-04-09,Electronica,Cargador,GBA Sur,7,42310.21
+2025-08-05,Electronica,Cargador,GBA Norte,1,25271.36
+2025-05-13,Hogar,Vela,GBA Norte,1,58342.15
+2025-09-06,Electronica,Auriculares,CABA,5,28937.52
+2025-02-02,Alimentos,Fideos,Mendoza,2,59511.32
+2025-07-23,Indumentaria,Pantalon,CABA,2,51816.63
+2025-09-25,Juguetes,Cartas,GBA Sur,2,45184.15
+2025-05-02,Juguetes,Muñeco,GBA Sur,7,30306.45
+2025-05-01,Alimentos,Aceite,GBA Norte,4,10506.45
+2025-05-21,Alimentos,Yerba,GBA Sur,1,77798.09
+2025-09-09,Juguetes,Auto RC,Mendoza,6,85435.27
+2025-10-07,Alimentos,Yerba,Mendoza,5,22924.86
+2025-03-16,Hogar,Toalla,Mendoza,5,33728.8
+2025-01-11,Juguetes,Muñeco,Mendoza,1,59937.89
+2025-12-20,Indumentaria,Campera,Rosario,6,35237.43
+2025-12-17,Electronica,Parlante,GBA Norte,7,77330.6
+2025-01-05,Alimentos,Fideos,GBA Sur,4,9032.28
+2025-06-02,Indumentaria,Pantalon,Cordoba,7,57190.39
+2025-01-18,Hogar,Sarten,Cordoba,7,42927.12
+2025-06-20,Alimentos,Cafe,GBA Norte,2,63164.91
+2025-06-30,Alimentos,Galletitas,Mendoza,6,73395.1
+2025-08-21,Electronica,Auriculares,Mendoza,8,58101.73
+2025-11-25,Indumentaria,Remera,Cordoba,5,18806.7
+2025-06-10,Juguetes,Muñeco,CABA,3,15046.2
+2025-11-01,Alimentos,Fideos,Cordoba,3,43574.53
+2025-05-14,Indumentaria,Medias,GBA Sur,4,72158.05
+2025-02-13,Alimentos,Fideos,GBA Norte,7,36020.98
+2025-10-20,Indumentaria,Remera,CABA,4,83157.0
+2025-02-15,Alimentos,Aceite,GBA Sur,3,63412.24
+2025-01-26,Alimentos,Galletitas,Cordoba,3,54434.95
+2025-02-15,Hogar,Lampara,Rosario,7,11444.2
+2025-08-21,Alimentos,Cafe,GBA Norte,4,64507.17
+2025-05-17,Hogar,Toalla,Cordoba,4,12587.74
+2025-11-04,Indumentaria,Campera,Mendoza,7,61269.79
+2025-04-03,Alimentos,Aceite,CABA,5,26827.17
+2025-05-01,Juguetes,Pelota,GBA Norte,8,33897.76
+2025-02-13,Electronica,Teclado,GBA Norte,7,78558.47
+2025-12-18,Indumentaria,Zapatillas,Mendoza,5,38672.89
+2025-02-07,Electronica,Parlante,CABA,4,5638.02
+2025-08-30,Hogar,Vela,Mendoza,1,87081.68
+2025-01-03,Hogar,Vela,Rosario,7,34903.45
+2025-12-10,Hogar,Lampara,Rosario,3,4660.12
+2025-05-14,Indumentaria,Medias,Cordoba,8,83799.1
+2025-03-09,Electronica,Mouse,Mendoza,3,48207.72
+2025-05-14,Electronica,Mouse,CABA,8,88087.98
+2025-05-24,Hogar,Toalla,GBA Sur,5,81348.55
+2025-11-10,Hogar,Vela,GBA Sur,3,39784.01
+2025-06-11,Alimentos,Aceite,Rosario,8,76920.0
+2025-01-28,Indumentaria,Pantalon,CABA,1,21457.59
+2025-08-29,Hogar,Lampara,Mendoza,2,42574.82
+2025-09-11,Electronica,Teclado,GBA Sur,8,89004.85
+2025-08-23,Alimentos,Cafe,Mendoza,2,78152.26
+2025-06-28,Electronica,Cargador,GBA Sur,3,17078.29
+2025-09-18,Hogar,Vela,Mendoza,1,53125.29
+2025-09-27,Juguetes,Rompecabezas,Cordoba,4,82916.77
+2025-09-13,Electronica,Mouse,CABA,2,26301.03
+2025-07-21,Hogar,Vela,CABA,3,75490.97
+2025-01-15,Electronica,Teclado,Mendoza,8,59699.0
+2025-11-18,Hogar,Vela,Mendoza,1,1516.68
+2025-12-02,Juguetes,Pelota,GBA Sur,3,85320.24
+2025-04-19,Electronica,Mouse,GBA Sur,2,72035.08
+2025-10-08,Juguetes,Pelota,CABA,3,36498.41
+2025-05-03,Alimentos,Cafe,CABA,3,76858.78
+2025-07-18,Alimentos,Fideos,Mendoza,3,67977.71
+2025-03-03,Hogar,Toalla,Cordoba,5,66494.15
+2025-12-17,Juguetes,Rompecabezas,GBA Sur,6,60231.31
+2025-09-20,Indumentaria,Zapatillas,Cordoba,8,79801.76
+2025-05-18,Juguetes,Cartas,Cordoba,7,9029.79
+2025-07-08,Juguetes,Rompecabezas,Cordoba,2,57131.08
+2025-01-21,Juguetes,Auto RC,Cordoba,3,61203.16
+2025-09-11,Juguetes,Cartas,CABA,7,26872.57
+2025-02-10,Alimentos,Fideos,GBA Norte,5,88592.57
+2025-05-08,Juguetes,Pelota,GBA Sur,2,51599.68
+2025-01-24,Juguetes,Muñeco,Rosario,2,38817.3
+2025-08-26,Juguetes,Auto RC,GBA Sur,2,23682.56
+2025-09-15,Electronica,Auriculares,Mendoza,3,59880.47
+2025-04-04,Alimentos,Cafe,CABA,5,38046.39
+2025-06-10,Juguetes,Pelota,Mendoza,5,41045.36
+2025-06-24,Indumentaria,Pantalon,GBA Norte,5,7961.63
+2025-12-11,Electronica,Teclado,Rosario,7,2594.45
+2025-03-01,Electronica,Cargador,Mendoza,7,43463.67
+2025-12-03,Juguetes,Pelota,GBA Sur,6,56046.44
+2025-12-20,Alimentos,Fideos,CABA,1,12132.96
+2025-04-08,Electronica,Auriculares,Mendoza,1,87376.31
+2025-04-18,Alimentos,Aceite,Mendoza,4,22518.44
+2025-02-14,Hogar,Toalla,GBA Norte,1,43185.03
+2025-03-01,Indumentaria,Pantalon,Mendoza,8,63531.23
+2025-08-30,Electronica,Teclado,Rosario,5,22594.04
+2025-10-19,Alimentos,Cafe,GBA Sur,7,1700.81
+2025-08-01,Alimentos,Galletitas,Rosario,5,66065.99
+2025-01-19,Alimentos,Yerba,Cordoba,8,46688.66
+2025-04-29,Electronica,Parlante,CABA,6,38558.4
+2025-10-11,Electronica,Mouse,Mendoza,8,38125.23
+2025-03-01,Alimentos,Galletitas,Mendoza,7,31862.01
+2025-01-11,Indumentaria,Campera,Mendoza,6,18105.92
+2025-08-13,Indumentaria,Medias,GBA Norte,6,53301.63
+2025-11-05,Alimentos,Aceite,GBA Sur,7,65346.56
+2025-08-02,Hogar,Toalla,GBA Norte,5,56343.97
+2025-12-20,Electronica,Teclado,GBA Norte,3,16422.91
+2025-11-07,Alimentos,Cafe,Cordoba,8,84931.87
+2025-06-05,Indumentaria,Pantalon,Rosario,1,5187.39
+2025-07-03,Hogar,Almohada,Mendoza,1,15115.89
+2025-02-02,Hogar,Toalla,CABA,2,55963.1
+2025-10-15,Indumentaria,Zapatillas,GBA Sur,6,89435.99
+2025-01-24,Juguetes,Auto RC,GBA Norte,2,76953.33
+2025-12-28,Electronica,Teclado,Cordoba,2,86675.59
+2025-02-24,Juguetes,Cartas,CABA,1,74301.31
+2025-09-17,Electronica,Cargador,Mendoza,4,11507.28
+2025-07-05,Indumentaria,Campera,Mendoza,8,40295.09
+2025-02-20,Indumentaria,Campera,GBA Sur,2,73905.31
+2025-04-14,Alimentos,Yerba,CABA,8,22833.13
+2025-06-24,Hogar,Vela,GBA Norte,6,8585.81
+2025-08-01,Hogar,Lampara,GBA Norte,7,68035.36
+2025-04-27,Indumentaria,Zapatillas,Cordoba,8,82703.79
+2025-09-22,Hogar,Sarten,Cordoba,1,13957.0
+2025-09-22,Electronica,Auriculares,GBA Sur,3,29017.61
+2025-08-11,Electronica,Teclado,CABA,3,59755.68
+2025-10-22,Electronica,Parlante,GBA Sur,5,38318.17
+2025-06-10,Hogar,Sarten,GBA Sur,3,81118.56
+2025-12-25,Alimentos,Yerba,Mendoza,8,19256.89
+2025-12-24,Hogar,Toalla,GBA Norte,2,79406.75
+2025-01-19,Juguetes,Auto RC,Cordoba,3,65533.78
+2025-09-24,Juguetes,Auto RC,GBA Norte,5,9260.94
+2025-09-24,Hogar,Lampara,CABA,5,3482.32
+2025-05-04,Hogar,Toalla,Rosario,1,10829.33
+2025-07-10,Hogar,Vela,GBA Sur,2,12019.36
+2025-08-18,Hogar,Vela,Mendoza,6,1463.99
+2025-05-01,Juguetes,Cartas,Mendoza,4,80596.16
+2025-06-29,Hogar,Almohada,Mendoza,3,70846.24
+2025-07-13,Juguetes,Rompecabezas,CABA,4,30178.38
+2025-07-04,Alimentos,Cafe,GBA Norte,7,64336.0
+2025-02-11,Electronica,Auriculares,Cordoba,8,80077.33
+2025-04-20,Alimentos,Cafe,GBA Sur,7,61237.2
+2025-10-29,Juguetes,Cartas,Cordoba,8,78609.32
+2025-11-22,Alimentos,Yerba,Mendoza,8,83862.17
+2025-08-02,Indumentaria,Pantalon,Rosario,8,12314.03
+2025-03-08,Juguetes,Cartas,CABA,8,62807.89
+2025-08-31,Electronica,Cargador,Rosario,2,33870.55
+2025-11-05,Alimentos,Cafe,CABA,5,33893.15
+2025-01-21,Juguetes,Rompecabezas,CABA,6,34060.59
+2025-06-05,Hogar,Toalla,CABA,3,71417.13
+2025-10-29,Alimentos,Cafe,GBA Sur,4,80126.09
+2025-04-04,Alimentos,Cafe,CABA,2,49730.82
+2025-01-23,Alimentos,Yerba,Rosario,8,28563.47
+2025-06-22,Alimentos,Yerba,Mendoza,3,75197.83
+2025-03-12,Juguetes,Pelota,Cordoba,3,60382.65
+2025-06-16,Electronica,Parlante,Mendoza,7,56499.46
+2025-04-30,Alimentos,Fideos,Rosario,8,5077.95
+2025-05-23,Electronica,Cargador,Mendoza,5,3207.56
+2025-10-15,Electronica,Parlante,CABA,1,18125.98
+2025-10-19,Juguetes,Rompecabezas,Cordoba,1,45734.85
+2025-03-03,Juguetes,Rompecabezas,CABA,4,25471.66
+2025-05-06,Juguetes,Pelota,CABA,6,72815.97
+2025-07-25,Juguetes,Muñeco,Cordoba,1,77715.72
+2025-06-24,Alimentos,Aceite,Cordoba,6,3141.07
+2025-07-15,Hogar,Sarten,CABA,3,88200.96
+2025-05-27,Indumentaria,Pantalon,GBA Sur,3,69379.12
+2025-06-07,Alimentos,Aceite,CABA,6,55688.31
+2025-04-03,Electronica,Auriculares,GBA Sur,6,35704.63
+2025-03-14,Alimentos,Fideos,GBA Sur,2,34420.67
+2025-01-27,Indumentaria,Pantalon,Rosario,8,53156.59
+2025-09-18,Juguetes,Pelota,CABA,6,24966.59
+2025-08-26,Juguetes,Pelota,CABA,7,44091.26
+2025-11-21,Indumentaria,Remera,GBA Sur,2,50312.7
+2025-05-07,Juguetes,Rompecabezas,GBA Sur,8,51573.86
+2025-02-12,Juguetes,Rompecabezas,GBA Norte,3,34224.16
+2025-05-06,Juguetes,Pelota,Rosario,1,41205.04
+2025-08-26,Juguetes,Auto RC,Mendoza,1,87515.28
+2025-01-31,Alimentos,Fideos,Rosario,7,23329.12
+2025-06-29,Indumentaria,Medias,Rosario,3,26036.7
+2025-10-01,Juguetes,Muñeco,GBA Sur,2,8984.64
+2025-03-13,Juguetes,Auto RC,Cordoba,6,19765.67
+2025-12-16,Hogar,Almohada,Mendoza,4,41291.91
+2025-12-06,Hogar,Almohada,GBA Norte,6,41922.14
+2025-01-09,Indumentaria,Remera,Rosario,1,43411.08
+2025-12-11,Indumentaria,Zapatillas,Rosario,8,80678.87
+2025-07-21,Juguetes,Muñeco,Mendoza,1,58962.72
+2025-12-10,Alimentos,Cafe,GBA Sur,7,87511.47
+2025-11-04,Hogar,Toalla,GBA Norte,1,75683.98
+2025-03-05,Alimentos,Fideos,GBA Norte,4,40567.41
+2025-01-11,Hogar,Almohada,GBA Norte,5,9007.02
+2025-04-24,Indumentaria,Zapatillas,GBA Sur,8,4274.85
+2025-12-27,Juguetes,Rompecabezas,CABA,7,18451.72
+2025-02-26,Hogar,Vela,Rosario,4,44967.01
+2025-12-04,Juguetes,Cartas,Rosario,3,16622.07
+2025-02-03,Indumentaria,Campera,Rosario,5,77137.63
+2025-04-09,Electronica,Parlante,Rosario,8,23509.98
+2025-01-02,Alimentos,Cafe,GBA Sur,7,39496.79
+2025-05-21,Electronica,Parlante,Cordoba,1,45106.15
+2025-04-25,Electronica,Mouse,Cordoba,6,48384.52
+2025-01-03,Alimentos,Aceite,GBA Sur,1,8280.99
+2025-04-26,Alimentos,Cafe,GBA Norte,6,18522.04
+2025-06-09,Electronica,Auriculares,CABA,1,43717.01
+2025-10-31,Hogar,Almohada,GBA Norte,4,10597.82
+2025-06-24,Electronica,Mouse,Rosario,2,71675.89
+2025-11-04,Juguetes,Pelota,CABA,2,56656.04
+2025-02-13,Electronica,Auriculares,Cordoba,2,28881.87
+2025-03-07,Electronica,Teclado,CABA,7,27830.93
+2025-02-03,Electronica,Auriculares,Rosario,7,5646.08
+2025-07-25,Electronica,Parlante,Cordoba,1,21746.97
+2025-08-21,Alimentos,Yerba,Cordoba,2,79314.5
+2025-06-23,Electronica,Teclado,Rosario,4,30209.24
+2025-02-25,Electronica,Auriculares,Rosario,4,64483.65
+2025-10-21,Indumentaria,Medias,GBA Sur,8,32629.82
+2025-11-14,Alimentos,Aceite,GBA Norte,1,13252.87
+2025-01-31,Indumentaria,Campera,Rosario,6,39790.48
+2025-06-09,Juguetes,Cartas,GBA Norte,5,14119.41
+2025-11-05,Hogar,Almohada,GBA Sur,3,87354.12
+2025-01-30,Indumentaria,Medias,Rosario,7,77424.5
+2025-06-26,Indumentaria,Pantalon,Mendoza,2,81856.52
+2025-06-24,Indumentaria,Zapatillas,Mendoza,8,62573.85
+2025-11-04,Hogar,Vela,Rosario,5,86712.78
+2025-08-03,Hogar,Lampara,CABA,1,41432.89
+2025-09-11,Indumentaria,Remera,Mendoza,4,20849.23
+2025-08-27,Juguetes,Rompecabezas,GBA Norte,6,43786.41
+2025-07-12,Indumentaria,Zapatillas,GBA Norte,1,74521.5
+2025-07-05,Electronica,Auriculares,GBA Sur,2,3671.57
+2025-03-14,Hogar,Toalla,GBA Norte,6,57188.78
+2025-01-23,Electronica,Cargador,GBA Norte,4,26284.98
+2025-05-15,Indumentaria,Campera,Rosario,4,22890.82
+2025-01-12,Indumentaria,Campera,CABA,3,2868.44
+2025-07-14,Electronica,Mouse,GBA Norte,4,28151.44
+2025-07-09,Hogar,Lampara,Rosario,7,87962.06
+2025-12-31,Electronica,Auriculares,GBA Norte,3,79562.36
+2025-04-08,Indumentaria,Medias,Cordoba,6,62797.5
+2025-11-03,Alimentos,Aceite,CABA,4,68914.33
+2025-10-02,Hogar,Lampara,GBA Sur,5,22998.28
+2025-03-06,Juguetes,Cartas,Cordoba,2,19622.14
+2025-08-29,Juguetes,Muñeco,GBA Norte,6,46266.63
+2025-09-13,Juguetes,Pelota,GBA Norte,6,29642.26
+2025-09-27,Alimentos,Yerba,Cordoba,7,24881.86
+2025-11-23,Juguetes,Muñeco,GBA Norte,4,20537.84
+2025-08-20,Indumentaria,Zapatillas,GBA Norte,7,28233.91
+2025-10-20,Indumentaria,Campera,GBA Sur,3,49999.13
+2025-02-13,Hogar,Toalla,Rosario,1,32290.17
+2025-08-27,Juguetes,Cartas,GBA Sur,8,38923.11
+2025-08-10,Alimentos,Fideos,Cordoba,7,29214.82
+2025-01-13,Indumentaria,Zapatillas,GBA Norte,2,24640.61
+2025-07-03,Electronica,Mouse,Rosario,2,46638.4
+2025-05-22,Indumentaria,Remera,CABA,1,7350.03
+2025-10-07,Indumentaria,Campera,GBA Norte,5,61084.55
+2025-06-04,Hogar,Lampara,Mendoza,3,54759.03
+2025-10-06,Hogar,Sarten,GBA Sur,6,26084.23
+2025-07-26,Alimentos,Galletitas,Mendoza,3,2058.27
+2025-07-23,Indumentaria,Pantalon,Mendoza,8,67673.2
+2025-04-30,Juguetes,Cartas,Rosario,8,68428.3
+2025-06-24,Electronica,Mouse,GBA Norte,7,39162.57
+2025-04-18,Alimentos,Yerba,Rosario,3,3679.26
+2025-10-23,Indumentaria,Campera,Mendoza,6,1861.62
+2025-06-23,Indumentaria,Zapatillas,Cordoba,7,62032.89
+2025-12-20,Juguetes,Auto RC,GBA Sur,1,53239.0
+2025-03-13,Indumentaria,Campera,Rosario,7,57055.7
+2025-07-15,Indumentaria,Zapatillas,CABA,4,48569.66
+2025-09-01,Electronica,Mouse,Rosario,5,86612.5
+2025-02-17,Indumentaria,Remera,Mendoza,1,50208.7
+2025-12-19,Juguetes,Pelota,CABA,2,17615.6
+2025-07-17,Hogar,Lampara,GBA Norte,2,26908.39
+2025-08-21,Electronica,Mouse,Rosario,6,1983.19
+2025-07-30,Alimentos,Aceite,CABA,7,12493.25
+2025-09-02,Electronica,Teclado,GBA Norte,4,12563.97
+2025-06-08,Alimentos,Yerba,GBA Norte,5,54730.14
+2025-10-28,Indumentaria,Medias,Mendoza,5,61950.4
+2025-04-14,Electronica,Cargador,Cordoba,7,6693.33
+2025-11-06,Indumentaria,Medias,GBA Sur,8,82016.93
+2025-08-24,Alimentos,Galletitas,CABA,5,66618.87
+2025-11-27,Alimentos,Fideos,Mendoza,5,75994.91
+2025-07-20,Juguetes,Rompecabezas,Cordoba,7,23173.0
+2025-08-23,Alimentos,Aceite,Mendoza,7,51606.76
+2025-12-24,Electronica,Cargador,GBA Norte,5,25366.09
+2025-12-08,Electronica,Cargador,Cordoba,2,37603.76
+2025-07-08,Electronica,Auriculares,Rosario,6,69221.98
+2025-07-29,Alimentos,Aceite,GBA Sur,1,19456.12
+2025-08-25,Electronica,Auriculares,Mendoza,8,62809.23
+2025-07-15,Hogar,Toalla,GBA Norte,1,36304.02
+2025-05-09,Electronica,Cargador,GBA Sur,8,60656.31
+2025-09-06,Alimentos,Cafe,CABA,4,49810.14
+2025-08-13,Indumentaria,Zapatillas,GBA Sur,3,75899.07
+2025-01-10,Juguetes,Muñeco,GBA Norte,7,27178.87
+2025-03-28,Electronica,Auriculares,Mendoza,8,25319.45
+2025-07-03,Indumentaria,Pantalon,Mendoza,4,4065.59
+2025-08-15,Electronica,Parlante,Mendoza,2,59966.05
+2025-07-19,Hogar,Toalla,CABA,1,54240.28
+2025-07-13,Indumentaria,Pantalon,GBA Sur,4,81879.32
+2025-02-16,Electronica,Teclado,CABA,6,89046.87
+2025-04-09,Electronica,Cargador,CABA,3,71926.25
+2025-03-27,Electronica,Teclado,Rosario,6,10583.86
+2025-06-15,Juguetes,Rompecabezas,Rosario,7,19433.62
+2025-08-08,Electronica,Cargador,GBA Norte,6,10423.79
+2025-03-30,Electronica,Teclado,Mendoza,7,29145.38
+2025-04-19,Alimentos,Aceite,CABA,5,59558.59
+2025-11-29,Juguetes,Auto RC,CABA,4,6992.48
+2025-07-30,Hogar,Vela,Cordoba,2,88496.12
+2025-12-31,Juguetes,Cartas,GBA Norte,2,23422.67
+2025-11-04,Hogar,Toalla,Mendoza,3,83285.25
+2025-06-20,Indumentaria,Campera,Mendoza,6,43909.6
+2025-01-10,Juguetes,Cartas,Cordoba,4,35031.05
+2025-09-15,Juguetes,Muñeco,GBA Norte,2,2887.99
+2025-06-08,Indumentaria,Zapatillas,GBA Norte,1,56159.19
+2025-03-12,Hogar,Toalla,GBA Sur,7,18979.05
+2025-04-15,Electronica,Cargador,Mendoza,8,54228.69
+2025-06-18,Indumentaria,Campera,GBA Sur,1,58280.58
+2025-09-24,Alimentos,Fideos,CABA,6,21381.89
+2025-06-25,Indumentaria,Pantalon,Rosario,4,5812.58
+2025-12-18,Indumentaria,Medias,Cordoba,3,47411.0
+2025-08-15,Electronica,Auriculares,Cordoba,4,7228.66
+2025-01-27,Indumentaria,Pantalon,GBA Norte,4,9166.59
+2025-05-01,Juguetes,Muñeco,Cordoba,5,65524.03
+2025-03-26,Indumentaria,Pantalon,Cordoba,4,16702.76
+2025-06-05,Hogar,Vela,Cordoba,4,87127.6
+2025-05-20,Alimentos,Cafe,GBA Sur,3,36443.76
+2025-08-30,Alimentos,Yerba,Rosario,7,55236.09
+2025-03-21,Alimentos,Cafe,Cordoba,2,39038.36
+2025-06-03,Juguetes,Cartas,GBA Norte,3,50203.84
+2025-05-12,Alimentos,Yerba,GBA Sur,7,41370.68
+2025-10-15,Juguetes,Pelota,CABA,8,30657.84
+2025-04-11,Indumentaria,Pantalon,CABA,6,2142.25
+2025-09-09,Alimentos,Yerba,Cordoba,6,87373.84
+2025-07-16,Alimentos,Fideos,Mendoza,2,88889.46
+2025-07-29,Electronica,Auriculares,Cordoba,3,83959.53
+2025-04-10,Alimentos,Fideos,Mendoza,8,32023.5
+2025-11-22,Hogar,Sarten,Mendoza,7,35294.65
+2025-05-07,Indumentaria,Zapatillas,CABA,6,83010.7
+2025-11-20,Electronica,Cargador,GBA Sur,3,54883.77
+2025-05-11,Indumentaria,Medias,Rosario,3,85708.26
+2025-01-07,Electronica,Auriculares,Mendoza,7,64333.24
+2025-07-23,Juguetes,Muñeco,Rosario,7,81985.47
+2025-03-26,Alimentos,Fideos,Mendoza,7,27897.54
+2025-10-28,Hogar,Toalla,Mendoza,2,78378.2
+2025-11-22,Juguetes,Auto RC,GBA Norte,4,24942.9
+2025-07-23,Hogar,Sarten,GBA Norte,1,73658.65
+2025-02-19,Electronica,Teclado,Rosario,5,38098.97
+2025-08-09,Indumentaria,Pantalon,GBA Sur,3,17589.6
+2025-04-12,Alimentos,Aceite,Rosario,8,85415.01
+2025-10-18,Indumentaria,Pantalon,GBA Norte,3,6249.4
+2025-04-09,Hogar,Toalla,Cordoba,2,56788.53
+2025-11-22,Indumentaria,Remera,GBA Sur,2,8627.93
+2025-05-22,Electronica,Mouse,CABA,8,53122.53
+2025-09-06,Electronica,Auriculares,CABA,1,24681.19
+2025-12-07,Juguetes,Muñeco,CABA,1,19785.08
+2025-07-12,Juguetes,Cartas,GBA Sur,8,83959.43
+2025-06-22,Juguetes,Pelota,GBA Sur,6,33999.88
+2025-06-11,Indumentaria,Campera,Mendoza,1,36463.95
+2025-07-02,Hogar,Sarten,CABA,7,41665.81
+2025-03-13,Electronica,Parlante,CABA,5,78341.47
+2025-12-25,Indumentaria,Campera,Cordoba,8,56033.3
+2025-09-21,Alimentos,Aceite,CABA,6,88770.15
+2025-01-09,Hogar,Sarten,Mendoza,8,29971.74
+2025-04-30,Juguetes,Pelota,Cordoba,2,66789.21
+2025-06-28,Alimentos,Yerba,Mendoza,2,77281.9
+2025-07-17,Hogar,Vela,GBA Norte,1,64362.84
+2025-03-07,Alimentos,Cafe,GBA Sur,8,75079.52
+2025-03-28,Alimentos,Cafe,Cordoba,4,59975.15
+2025-05-05,Indumentaria,Pantalon,Mendoza,2,63291.9
+2025-08-11,Electronica,Cargador,GBA Sur,5,81335.72
+2025-04-23,Hogar,Toalla,Mendoza,3,11955.73
+2025-10-01,Alimentos,Cafe,Mendoza,4,30619.3
+2025-10-22,Juguetes,Muñeco,Mendoza,7,31547.09
+2025-12-01,Juguetes,Pelota,GBA Norte,2,20896.02
+2025-05-29,Electronica,Auriculares,CABA,4,31281.17
+2025-03-01,Juguetes,Auto RC,GBA Norte,7,76946.4
+2025-10-23,Electronica,Mouse,CABA,4,53515.32
+2025-07-18,Alimentos,Fideos,GBA Sur,3,71979.11
+2025-09-24,Juguetes,Cartas,GBA Norte,1,10486.15
+2025-10-03,Alimentos,Fideos,GBA Norte,5,73637.17
+2025-04-23,Alimentos,Yerba,GBA Norte,3,54530.42
+2025-12-07,Electronica,Parlante,GBA Sur,2,28491.34
+2025-05-21,Juguetes,Pelota,Mendoza,8,74753.17
+2025-05-30,Alimentos,Cafe,GBA Sur,4,14590.5
+2025-04-26,Electronica,Cargador,Cordoba,5,65738.2
+2025-12-04,Indumentaria,Remera,Rosario,7,35913.42
+2025-12-14,Alimentos,Fideos,Cordoba,5,35804.62
+2025-05-25,Indumentaria,Medias,Cordoba,6,9661.44
+2025-10-25,Electronica,Mouse,Cordoba,3,59262.42
+2025-08-15,Alimentos,Fideos,GBA Norte,4,19669.2
+2025-11-30,Electronica,Mouse,Mendoza,2,77196.58
+2025-12-14,Indumentaria,Zapatillas,Cordoba,3,61470.63
+2025-01-29,Electronica,Mouse,Cordoba,1,16987.33
+2025-03-02,Juguetes,Auto RC,Rosario,3,39610.11
+2025-11-18,Alimentos,Aceite,CABA,7,11573.43
+2025-09-08,Hogar,Vela,GBA Norte,7,59098.93
+2025-12-21,Electronica,Teclado,Mendoza,8,35006.98
+2025-07-08,Electronica,Auriculares,CABA,8,8354.69
+2025-11-25,Juguetes,Rompecabezas,CABA,8,53229.69
+2025-05-21,Electronica,Parlante,GBA Norte,7,35172.43
+2025-06-02,Juguetes,Rompecabezas,CABA,3,29945.38
+2025-07-27,Electronica,Teclado,Rosario,8,73754.19
+2025-02-02,Juguetes,Cartas,Rosario,2,64523.67
+2025-04-17,Electronica,Cargador,Rosario,1,62874.21
+2025-10-12,Alimentos,Fideos,CABA,4,4483.74
+2025-12-01,Indumentaria,Remera,Rosario,1,23851.68
+2025-02-13,Electronica,Parlante,GBA Sur,3,33356.81
+2025-08-05,Electronica,Cargador,GBA Sur,5,5108.8
+2025-12-04,Juguetes,Pelota,GBA Norte,6,52359.36
+2025-09-25,Hogar,Vela,Rosario,2,46442.54
+2025-12-06,Electronica,Cargador,CABA,5,17738.55
+2025-04-21,Indumentaria,Medias,Rosario,6,20227.56
+2025-05-23,Indumentaria,Medias,Cordoba,5,7618.01
+2025-05-14,Alimentos,Aceite,Cordoba,5,41590.03
+2025-12-13,Alimentos,Aceite,Rosario,5,19134.9
+2025-11-21,Indumentaria,Campera,Rosario,3,59501.31
+2025-08-03,Indumentaria,Campera,Cordoba,4,34725.83
+2025-02-09,Hogar,Sarten,Rosario,7,10789.12
+2025-02-03,Hogar,Sarten,GBA Sur,5,81922.84
+2025-03-16,Indumentaria,Campera,CABA,4,9717.27
+2025-07-13,Electronica,Auriculares,GBA Norte,5,47856.33
+2025-10-29,Alimentos,Cafe,Rosario,5,32052.12
+2025-10-10,Hogar,Vela,CABA,3,80794.75
+2025-06-12,Alimentos,Aceite,GBA Sur,7,72741.56
+2025-09-02,Juguetes,Rompecabezas,GBA Sur,3,1845.27
+2025-12-03,Indumentaria,Pantalon,Cordoba,5,51512.91
+2025-01-28,Hogar,Lampara,Mendoza,8,55174.57
+2025-04-04,Alimentos,Fideos,Cordoba,5,45698.4
+2025-08-08,Juguetes,Rompecabezas,GBA Sur,2,57571.54
+2025-06-06,Alimentos,Fideos,CABA,2,57486.22
+2025-05-03,Electronica,Cargador,Rosario,5,6109.63
+2025-10-11,Alimentos,Cafe,Cordoba,3,61255.94
+2025-09-03,Alimentos,Galletitas,Mendoza,2,89817.94
+2025-07-27,Electronica,Parlante,GBA Norte,1,82068.89
+2025-08-06,Juguetes,Auto RC,GBA Norte,1,89485.75
+2025-11-07,Alimentos,Aceite,Mendoza,4,83786.5
+2025-03-31,Electronica,Mouse,GBA Norte,1,46717.92
+2025-08-05,Alimentos,Yerba,GBA Norte,2,34222.25
+2025-06-23,Indumentaria,Medias,CABA,8,26815.76
+2025-05-31,Hogar,Lampara,CABA,7,66684.29
+2025-04-22,Hogar,Vela,CABA,8,84251.88
+2025-01-30,Hogar,Sarten,Rosario,5,41971.49
+2025-07-01,Electronica,Auriculares,GBA Sur,3,80227.47
+2025-07-25,Hogar,Sarten,CABA,4,39341.54
+2025-02-13,Juguetes,Cartas,GBA Norte,8,37554.0
+2025-01-04,Indumentaria,Campera,GBA Norte,6,42892.18
+2025-06-03,Hogar,Toalla,GBA Norte,5,48742.04
+2025-02-25,Alimentos,Yerba,GBA Norte,7,13448.82
+2025-01-03,Hogar,Lampara,CABA,1,17871.47
+2025-03-10,Alimentos,Yerba,Mendoza,1,30478.0
+2025-03-24,Indumentaria,Zapatillas,Mendoza,2,88480.65
+2025-08-04,Alimentos,Galletitas,Cordoba,3,72183.99
+2025-06-16,Alimentos,Galletitas,Mendoza,7,83196.95
+2025-03-09,Electronica,Auriculares,CABA,6,12225.0
+2025-09-14,Electronica,Cargador,CABA,6,61369.62
+2025-08-08,Juguetes,Muñeco,Cordoba,5,43737.18
+2025-09-06,Electronica,Teclado,GBA Norte,3,55967.57
+2025-05-08,Hogar,Sarten,GBA Sur,4,89488.88
+2025-12-08,Alimentos,Aceite,Cordoba,2,63875.02
+2025-12-25,Juguetes,Cartas,GBA Norte,3,17791.54
+2025-04-28,Electronica,Cargador,Cordoba,4,4414.61
+2025-03-16,Alimentos,Cafe,Rosario,1,18768.27
+2025-07-14,Alimentos,Galletitas,GBA Sur,4,63314.14
+2025-04-24,Hogar,Toalla,Cordoba,7,6460.13
+2025-11-26,Electronica,Mouse,CABA,5,24962.9
+2025-06-29,Alimentos,Aceite,GBA Sur,3,80664.45
+2025-01-21,Electronica,Auriculares,Mendoza,4,67283.17
+2025-05-27,Alimentos,Fideos,Rosario,3,9967.79
+2025-05-10,Alimentos,Fideos,GBA Sur,2,28087.75
+2025-12-09,Electronica,Parlante,GBA Norte,6,30477.84
+2025-10-29,Juguetes,Cartas,GBA Sur,5,22204.45
+2025-04-18,Juguetes,Pelota,CABA,3,79960.25
+2025-11-19,Juguetes,Muñeco,CABA,4,53203.97
+2025-04-09,Alimentos,Cafe,CABA,6,84821.8
+2025-06-04,Alimentos,Aceite,Rosario,1,65148.48
+2025-03-07,Indumentaria,Zapatillas,Rosario,6,64332.68
+2025-07-07,Alimentos,Cafe,Cordoba,7,7026.06
+2025-09-26,Juguetes,Muñeco,GBA Norte,3,54324.68
+2025-05-29,Electronica,Parlante,CABA,4,71700.74
+2025-07-23,Alimentos,Galletitas,Rosario,3,87466.92
+2025-08-13,Juguetes,Pelota,Rosario,7,70364.12
+2025-11-07,Hogar,Lampara,GBA Norte,4,1320.45
+2025-10-31,Electronica,Parlante,Cordoba,5,45839.78
+2025-06-05,Indumentaria,Campera,Mendoza,2,24897.8
+2025-03-29,Indumentaria,Remera,Rosario,1,22201.29
+2025-11-24,Indumentaria,Campera,GBA Norte,1,25068.7
+2025-11-25,Indumentaria,Pantalon,Rosario,6,11340.45
+2025-11-20,Juguetes,Auto RC,GBA Sur,5,8408.91
+2025-03-10,Alimentos,Galletitas,GBA Sur,1,29892.53
+2025-11-17,Electronica,Mouse,GBA Norte,5,66012.42
+2025-04-01,Hogar,Sarten,Rosario,2,59501.27
+2025-12-19,Alimentos,Fideos,Mendoza,4,57453.19
+2025-08-15,Indumentaria,Campera,GBA Sur,7,19148.76
+2025-03-21,Alimentos,Aceite,Mendoza,6,65639.47
+2025-03-17,Alimentos,Cafe,Cordoba,3,17154.71
+2025-04-01,Indumentaria,Medias,Cordoba,3,84958.6
+2025-11-28,Hogar,Sarten,GBA Sur,3,15499.76
+2025-07-21,Juguetes,Rompecabezas,CABA,7,13773.49
+2025-05-06,Alimentos,Yerba,CABA,3,65463.32
+2025-01-07,Juguetes,Muñeco,Cordoba,2,35175.16
+2025-01-07,Electronica,Cargador,GBA Norte,5,69540.47
+2025-03-15,Juguetes,Muñeco,CABA,2,86227.97
+2025-10-05,Hogar,Sarten,GBA Norte,8,13391.48
+2025-03-25,Hogar,Almohada,Cordoba,1,14751.69
+2025-10-06,Hogar,Vela,CABA,1,2887.5
+2025-02-22,Juguetes,Auto RC,CABA,7,46527.28
+2025-03-14,Electronica,Cargador,CABA,7,21174.09
+2025-03-17,Hogar,Almohada,GBA Norte,7,83030.49
+2025-12-18,Electronica,Teclado,GBA Norte,4,89178.36
+2025-02-22,Hogar,Almohada,CABA,2,55797.01
+2025-07-04,Electronica,Auriculares,Rosario,7,14448.16
+2025-09-29,Hogar,Vela,GBA Norte,3,61469.56
+2025-12-08,Hogar,Vela,GBA Sur,2,32006.33
+2025-05-19,Alimentos,Fideos,GBA Sur,2,73154.03
+2025-01-02,Indumentaria,Pantalon,GBA Sur,8,14152.44
+2025-09-02,Electronica,Auriculares,Rosario,5,39043.33
+2025-03-16,Electronica,Mouse,GBA Norte,7,17186.64
+2025-06-30,Hogar,Toalla,Cordoba,7,43834.68
+2025-11-05,Hogar,Lampara,Mendoza,7,83022.84
+2025-08-03,Juguetes,Pelota,Rosario,4,48505.59
+2025-07-16,Electronica,Parlante,Mendoza,4,38543.83
+2025-12-26,Electronica,Cargador,GBA Sur,1,1255.08
+2025-07-05,Juguetes,Pelota,GBA Norte,1,82960.46
+2025-06-28,Hogar,Lampara,GBA Sur,7,41974.57
+2025-05-05,Indumentaria,Pantalon,CABA,2,67482.59
+2025-12-23,Indumentaria,Zapatillas,Mendoza,7,3344.87
+2025-07-10,Electronica,Auriculares,Mendoza,8,52763.03
+2025-11-01,Indumentaria,Remera,GBA Norte,2,33506.74
+2025-05-06,Electronica,Auriculares,Rosario,7,74965.05
+2025-03-18,Indumentaria,Zapatillas,Mendoza,5,13470.0
+2025-08-29,Alimentos,Fideos,Cordoba,1,70544.32
+2025-05-27,Electronica,Cargador,CABA,1,79422.99
+2025-11-06,Indumentaria,Medias,GBA Norte,7,1967.21
+2025-12-15,Alimentos,Galletitas,Mendoza,5,74827.12
+2025-12-30,Indumentaria,Zapatillas,GBA Norte,2,25192.66
+2025-09-25,Alimentos,Aceite,Mendoza,1,19855.92
+2025-04-23,Alimentos,Aceite,Mendoza,2,87862.88
+2025-12-21,Alimentos,Yerba,GBA Sur,7,59090.3
+2025-07-14,Indumentaria,Remera,GBA Sur,4,58551.6
+2025-05-19,Electronica,Auriculares,CABA,6,33280.44
+2025-01-15,Indumentaria,Campera,GBA Norte,2,49199.54
+2025-04-19,Juguetes,Muñeco,GBA Sur,4,17709.2
+2025-11-23,Electronica,Cargador,GBA Sur,1,8568.5
+2025-10-16,Alimentos,Cafe,CABA,5,28997.65
+2025-01-05,Hogar,Almohada,Cordoba,6,45519.23
+2025-07-20,Hogar,Lampara,Mendoza,6,61047.09
+2025-07-28,Juguetes,Muñeco,Rosario,3,72867.0
+2025-01-13,Juguetes,Pelota,Cordoba,1,53185.88
+2025-05-29,Indumentaria,Pantalon,Mendoza,2,42216.45
+2025-04-29,Indumentaria,Pantalon,Mendoza,6,15333.19
+2025-08-18,Indumentaria,Campera,GBA Sur,7,33068.16
+2025-01-21,Alimentos,Aceite,GBA Norte,2,89733.85
+2025-03-20,Juguetes,Pelota,CABA,3,72620.65
+2025-06-08,Juguetes,Muñeco,Cordoba,6,9376.15
+2025-03-28,Hogar,Lampara,CABA,6,25930.44
+2025-06-30,Electronica,Auriculares,GBA Norte,8,64248.3
+2025-05-13,Alimentos,Fideos,Cordoba,3,58876.0
+2025-03-05,Juguetes,Pelota,CABA,5,33349.02
+2025-07-25,Alimentos,Galletitas,Mendoza,6,12479.6
+2025-09-20,Juguetes,Auto RC,GBA Sur,7,8430.66
+2025-09-17,Alimentos,Fideos,Mendoza,1,4798.13
+2025-05-06,Juguetes,Muñeco,GBA Norte,5,76922.32
+2025-07-12,Indumentaria,Medias,Cordoba,4,76990.8
+2025-07-18,Alimentos,Cafe,GBA Sur,8,42463.11
+2025-02-25,Electronica,Cargador,Mendoza,7,10643.0
+2025-08-10,Indumentaria,Zapatillas,GBA Sur,6,6737.97
+2025-11-06,Alimentos,Aceite,Mendoza,2,66974.34
+2025-05-23,Alimentos,Cafe,Rosario,8,14860.96
+2025-03-16,Indumentaria,Campera,Rosario,7,3787.77
+2025-02-01,Hogar,Toalla,Cordoba,4,19994.45
+2025-01-12,Alimentos,Fideos,GBA Sur,2,57576.17
+2025-03-14,Electronica,Mouse,Cordoba,8,8272.11
+2025-08-03,Juguetes,Rompecabezas,Mendoza,3,80483.53
+2025-01-28,Electronica,Teclado,GBA Sur,5,86739.55
+2025-03-26,Indumentaria,Campera,Cordoba,3,43864.65
+2025-12-23,Alimentos,Fideos,Mendoza,1,51758.2
+2025-10-15,Juguetes,Rompecabezas,CABA,3,65322.41
+2025-06-15,Hogar,Sarten,GBA Norte,3,80788.6
+2025-09-13,Hogar,Sarten,Mendoza,1,37168.41
+2025-08-19,Indumentaria,Zapatillas,Mendoza,2,87281.72
+2025-01-19,Indumentaria,Pantalon,Cordoba,3,62983.7
+2025-11-04,Alimentos,Aceite,GBA Sur,4,19668.91
+2025-12-14,Juguetes,Muñeco,GBA Sur,1,73426.36
+2025-06-04,Hogar,Vela,CABA,8,63239.23
+2025-07-31,Alimentos,Fideos,GBA Sur,7,74708.54
+2025-09-25,Hogar,Sarten,GBA Norte,6,41835.3
+2025-04-01,Juguetes,Cartas,GBA Norte,7,49305.9
+2025-05-26,Alimentos,Fideos,Mendoza,2,56213.51
+2025-02-14,Electronica,Auriculares,Mendoza,7,2461.96
+2025-02-23,Alimentos,Galletitas,Rosario,8,9873.48
+2025-09-15,Juguetes,Muñeco,Mendoza,7,26801.5
+2025-04-19,Indumentaria,Zapatillas,Rosario,4,34916.1
+2025-08-29,Electronica,Mouse,Cordoba,7,37751.19
+2025-01-04,Hogar,Lampara,Rosario,5,26240.79
+2025-06-07,Alimentos,Aceite,CABA,7,81116.67
+2025-01-17,Electronica,Auriculares,GBA Norte,6,71355.4
+2025-06-21,Indumentaria,Medias,Cordoba,7,22522.97
+2025-04-09,Juguetes,Pelota,CABA,7,72318.52
+2025-03-07,Alimentos,Aceite,Cordoba,3,81471.25
+2025-08-12,Indumentaria,Remera,Mendoza,2,72304.31
+2025-11-20,Juguetes,Pelota,Mendoza,3,82583.22
+2025-06-15,Indumentaria,Remera,CABA,1,3281.98
+2025-11-18,Juguetes,Rompecabezas,CABA,2,56010.87
+2025-10-20,Alimentos,Cafe,Mendoza,8,66341.06
+2025-11-21,Hogar,Lampara,GBA Norte,4,59074.52
+2025-06-02,Indumentaria,Medias,GBA Norte,7,65641.82
+2025-05-14,Electronica,Mouse,CABA,1,84212.85
+2025-11-23,Juguetes,Muñeco,CABA,2,41862.37
+2025-02-24,Indumentaria,Campera,GBA Sur,2,80619.83
+2025-02-09,Alimentos,Fideos,GBA Norte,8,35781.22
+2025-01-12,Alimentos,Cafe,Cordoba,2,86370.33
+2025-04-18,Alimentos,Yerba,GBA Sur,8,57386.11
+2025-03-24,Indumentaria,Campera,CABA,1,81423.8
+2025-03-02,Hogar,Almohada,Cordoba,1,89547.53
+2025-03-23,Juguetes,Auto RC,CABA,1,18163.23
+2025-10-02,Electronica,Parlante,Rosario,4,68725.53
+2025-07-06,Electronica,Cargador,CABA,4,30151.04
+2025-02-12,Indumentaria,Campera,GBA Sur,2,43860.16
+2025-06-28,Juguetes,Auto RC,Cordoba,8,67322.31
+2025-08-12,Juguetes,Pelota,GBA Norte,4,23258.29
+2025-12-18,Hogar,Toalla,CABA,5,52944.69
+2025-03-26,Indumentaria,Zapatillas,Cordoba,7,79574.3
+2025-11-02,Hogar,Almohada,Rosario,7,10572.76
+2025-08-08,Indumentaria,Medias,GBA Sur,2,34282.48
+2025-08-19,Indumentaria,Remera,Rosario,7,23522.67
+2025-05-31,Juguetes,Cartas,GBA Sur,2,36449.29
+2025-04-03,Hogar,Toalla,GBA Norte,2,32839.26
+2025-04-21,Hogar,Almohada,GBA Norte,2,70376.8
+2025-01-05,Hogar,Sarten,Mendoza,8,30269.38
+2025-10-18,Hogar,Lampara,Rosario,5,6894.93
+2025-11-05,Indumentaria,Medias,GBA Norte,5,10159.9
+2025-11-08,Electronica,Parlante,Mendoza,7,38535.76
+2025-06-12,Hogar,Lampara,GBA Norte,8,5419.72
+2025-09-13,Electronica,Mouse,Cordoba,8,11614.05
+2025-03-29,Juguetes,Auto RC,Rosario,1,35074.32
+2025-05-26,Electronica,Parlante,CABA,5,82136.24
+2025-03-09,Alimentos,Cafe,Rosario,1,82705.07
+2025-06-22,Electronica,Auriculares,Cordoba,7,9465.66
+2025-06-04,Hogar,Almohada,GBA Sur,6,36630.65
+2025-09-10,Juguetes,Muñeco,Cordoba,8,27561.5
+2025-09-10,Electronica,Mouse,Rosario,4,10144.18
+2025-01-25,Electronica,Cargador,CABA,7,89425.09
+2025-04-26,Indumentaria,Remera,GBA Norte,6,65445.6
+2025-10-03,Electronica,Auriculares,GBA Sur,1,79615.42
+2025-02-26,Electronica,Mouse,CABA,7,24471.71
+2025-05-19,Indumentaria,Pantalon,Rosario,3,42001.74
+2025-06-13,Indumentaria,Medias,Cordoba,2,57684.42
+2025-09-25,Juguetes,Rompecabezas,Rosario,8,43535.49
+2025-05-24,Hogar,Toalla,GBA Norte,5,9170.14
+2025-12-31,Electronica,Mouse,Rosario,4,75363.25
+2025-12-04,Indumentaria,Remera,CABA,1,87487.1
+2025-04-19,Electronica,Cargador,Cordoba,4,73847.52
+2025-09-07,Electronica,Mouse,GBA Norte,6,73445.59
+2025-06-09,Alimentos,Aceite,Rosario,3,10403.78
+2025-04-23,Hogar,Toalla,Cordoba,4,78239.43
+2025-07-24,Indumentaria,Remera,GBA Sur,5,38655.36
+2025-10-23,Electronica,Cargador,Cordoba,2,78981.47
+2025-05-04,Electronica,Teclado,GBA Norte,8,24741.34
+2025-12-05,Juguetes,Pelota,GBA Sur,2,24636.51
+2025-07-01,Alimentos,Aceite,GBA Norte,7,36326.59
+2025-09-18,Hogar,Sarten,Cordoba,2,25260.41
+2025-01-26,Alimentos,Yerba,GBA Norte,7,27166.52
+2025-04-01,Juguetes,Auto RC,Rosario,7,55062.88
+2025-02-25,Electronica,Cargador,CABA,1,20542.6
+2025-01-19,Juguetes,Auto RC,GBA Norte,2,6860.42
+2025-05-22,Indumentaria,Medias,Mendoza,7,64708.28
+2025-07-21,Electronica,Cargador,Mendoza,5,74342.11
+2025-09-11,Indumentaria,Pantalon,GBA Norte,5,31939.35
+2025-12-28,Juguetes,Auto RC,Mendoza,3,1276.51
+2025-09-15,Juguetes,Pelota,Mendoza,4,28173.85
+2025-03-29,Hogar,Sarten,GBA Norte,8,17673.65
+2025-03-14,Electronica,Teclado,Cordoba,3,30730.82
+2025-05-16,Electronica,Cargador,Mendoza,1,68663.21
+2025-11-01,Hogar,Toalla,Rosario,4,1089.58
+2025-08-30,Electronica,Auriculares,CABA,5,51486.74
+2025-04-27,Juguetes,Cartas,GBA Norte,2,68194.33
+2025-02-21,Hogar,Almohada,Cordoba,6,44668.9
+2025-10-07,Hogar,Toalla,GBA Sur,1,33421.75
+2025-06-30,Hogar,Almohada,Rosario,8,69932.84
+2025-02-27,Hogar,Vela,Mendoza,3,57942.23
+2025-07-30,Indumentaria,Pantalon,GBA Sur,4,45307.07
+2025-10-23,Alimentos,Fideos,GBA Norte,4,67248.5
+2025-07-13,Electronica,Mouse,Mendoza,8,61413.34
+2025-09-27,Indumentaria,Campera,Mendoza,6,32047.21
+2025-07-20,Juguetes,Pelota,GBA Sur,1,28529.77
+2025-10-24,Juguetes,Auto RC,Rosario,8,11943.55
+2025-10-18,Hogar,Almohada,CABA,8,87282.82
+2025-12-17,Indumentaria,Zapatillas,Mendoza,5,14370.27
+2025-11-16,Juguetes,Rompecabezas,GBA Sur,2,44327.41
+2025-05-31,Electronica,Teclado,CABA,2,20341.95
+2025-01-28,Alimentos,Fideos,CABA,1,39298.73
+2025-01-26,Hogar,Lampara,GBA Sur,3,79206.27
+2025-02-14,Hogar,Lampara,Mendoza,2,18508.74
+2025-05-29,Indumentaria,Remera,Cordoba,4,84031.19
+2025-12-14,Alimentos,Yerba,Cordoba,2,87054.71
+2025-05-14,Hogar,Vela,GBA Sur,7,16423.88
+2025-12-14,Hogar,Vela,GBA Norte,4,61815.59
+2025-05-09,Indumentaria,Zapatillas,Rosario,5,18757.56
+2025-02-13,Hogar,Vela,Mendoza,3,42042.74
+2025-07-12,Alimentos,Cafe,GBA Norte,6,47864.85
+2025-09-15,Hogar,Toalla,GBA Sur,7,39062.56
+2025-07-30,Alimentos,Cafe,Rosario,7,3351.57
+2025-02-15,Indumentaria,Medias,GBA Sur,6,71010.25
+2025-03-07,Juguetes,Cartas,Rosario,1,79124.67
+2025-07-21,Indumentaria,Zapatillas,Mendoza,8,1529.8
+2025-01-28,Electronica,Auriculares,GBA Sur,2,74860.59
+2025-06-20,Juguetes,Muñeco,GBA Sur,6,51324.46
+2025-02-01,Electronica,Parlante,Mendoza,1,46463.06
+2025-12-26,Indumentaria,Medias,GBA Norte,8,51022.38
+2025-03-11,Indumentaria,Pantalon,GBA Sur,1,56913.31
+2025-09-06,Juguetes,Rompecabezas,CABA,3,6975.64
+2025-11-06,Electronica,Parlante,CABA,2,23001.34
+2025-08-31,Electronica,Parlante,Cordoba,2,35773.54
+2025-06-03,Alimentos,Yerba,GBA Norte,5,74004.12
+2025-11-10,Alimentos,Galletitas,CABA,1,39479.48
+2025-04-05,Indumentaria,Pantalon,GBA Norte,4,46524.83
+2025-09-01,Alimentos,Fideos,GBA Sur,8,60410.66
+2025-07-08,Hogar,Toalla,Cordoba,2,63091.09
+2025-08-26,Alimentos,Yerba,GBA Norte,8,3489.39
+2025-03-03,Juguetes,Pelota,CABA,1,52667.89
+2025-11-27,Juguetes,Pelota,CABA,6,81821.64
+2025-03-13,Alimentos,Yerba,GBA Sur,3,1811.69
+2025-07-03,Juguetes,Cartas,GBA Norte,7,32046.23
+2025-09-20,Electronica,Cargador,Mendoza,6,14474.84
+2025-08-24,Indumentaria,Campera,Mendoza,7,27960.76
+2025-02-04,Alimentos,Yerba,Cordoba,3,54919.92
+2025-10-22,Juguetes,Cartas,GBA Sur,6,12518.56
+2025-10-29,Juguetes,Auto RC,Rosario,7,55955.28
+2025-02-04,Electronica,Auriculares,Mendoza,2,15166.99
+2025-12-07,Electronica,Teclado,Mendoza,4,43400.76
+2025-05-02,Electronica,Cargador,Mendoza,7,80430.08
+2025-02-02,Electronica,Parlante,GBA Sur,2,11188.17
+2025-08-15,Hogar,Vela,Mendoza,3,75820.46
+2025-06-14,Electronica,Teclado,Cordoba,4,12856.28
+2025-04-11,Hogar,Toalla,Cordoba,4,61417.56
+2025-04-14,Indumentaria,Zapatillas,Rosario,4,72971.83
+2025-02-14,Juguetes,Muñeco,Mendoza,2,86425.08
+2025-04-15,Electronica,Cargador,CABA,7,33000.93
+2025-10-18,Juguetes,Muñeco,GBA Sur,8,17492.09
+2025-04-08,Indumentaria,Medias,Cordoba,6,45575.68
+2025-11-13,Juguetes,Rompecabezas,CABA,7,40060.15
+2025-02-06,Juguetes,Muñeco,GBA Norte,5,70632.47
+2025-02-21,Electronica,Teclado,GBA Norte,6,5581.63
+2025-01-12,Indumentaria,Campera,GBA Sur,6,35747.95
+2025-02-04,Indumentaria,Campera,CABA,4,48563.72
+2025-09-23,Juguetes,Cartas,GBA Sur,1,36530.55
+2025-10-07,Electronica,Parlante,Cordoba,5,84386.49
+2025-12-01,Electronica,Auriculares,GBA Sur,4,38505.11
+2025-06-21,Electronica,Cargador,GBA Norte,6,49690.77
+2025-12-06,Electronica,Cargador,Cordoba,1,7489.16
+2025-06-27,Electronica,Teclado,Rosario,2,66796.76
+2025-10-10,Alimentos,Aceite,GBA Sur,2,65376.35
+2025-01-19,Alimentos,Galletitas,GBA Norte,7,58879.99
+2025-09-02,Hogar,Lampara,CABA,1,83880.94
+2025-04-11,Juguetes,Cartas,Cordoba,1,61692.77
+2025-10-10,Alimentos,Cafe,Cordoba,3,69145.65
+2025-08-09,Alimentos,Galletitas,GBA Norte,2,11286.9
+2025-11-12,Hogar,Almohada,GBA Norte,1,31538.18
+2025-05-02,Indumentaria,Remera,Rosario,7,1894.42
+2025-10-02,Juguetes,Muñeco,CABA,4,78719.77
+2025-01-30,Electronica,Auriculares,GBA Norte,5,40031.47
+2025-01-23,Hogar,Almohada,Rosario,4,59313.6
+2025-05-30,Indumentaria,Medias,Cordoba,2,43604.42
+2025-12-03,Electronica,Auriculares,GBA Sur,4,84514.94
+2025-09-11,Hogar,Lampara,Cordoba,6,64468.91
+2025-10-10,Hogar,Lampara,Rosario,6,80475.08
+2025-12-24,Juguetes,Cartas,CABA,7,5805.78
+2025-12-28,Juguetes,Pelota,GBA Sur,3,7981.7
+2025-09-24,Indumentaria,Campera,Mendoza,2,50213.94
+2025-07-10,Indumentaria,Remera,GBA Norte,8,63152.43
+2025-02-28,Electronica,Teclado,CABA,7,25056.57
+2025-06-03,Electronica,Auriculares,GBA Sur,7,77057.11
+2025-09-11,Electronica,Teclado,Cordoba,4,40517.76
+2025-04-16,Alimentos,Aceite,Mendoza,1,39366.56
+2025-12-05,Hogar,Sarten,Rosario,1,68906.67
+2025-11-08,Hogar,Almohada,Rosario,1,20272.43
+2025-06-24,Juguetes,Pelota,Cordoba,1,70652.53
+2025-02-25,Juguetes,Pelota,Mendoza,5,83990.07
+2025-10-01,Alimentos,Yerba,Rosario,5,65010.6
+2025-03-25,Alimentos,Yerba,Mendoza,4,89342.56
+2025-03-09,Electronica,Mouse,Mendoza,2,85636.08
+2025-05-08,Juguetes,Auto RC,GBA Sur,1,51826.35
+2025-11-12,Hogar,Almohada,GBA Sur,1,59671.46
+2025-03-05,Hogar,Vela,Mendoza,5,29568.06
+2025-04-02,Alimentos,Yerba,CABA,8,40151.93
+2025-01-19,Hogar,Toalla,Mendoza,4,76144.95
+2025-07-29,Electronica,Parlante,CABA,6,25603.66
+2025-02-02,Alimentos,Aceite,GBA Sur,5,69171.94
+2025-05-13,Alimentos,Aceite,GBA Norte,3,57100.1
+2025-11-13,Electronica,Cargador,CABA,3,59259.47
+2025-12-17,Juguetes,Pelota,Rosario,4,29242.76
+2025-02-01,Hogar,Almohada,CABA,6,61376.52
+2025-10-04,Electronica,Parlante,GBA Norte,2,32125.94
+2025-09-17,Alimentos,Cafe,Rosario,4,7893.07
+2025-06-16,Juguetes,Auto RC,Mendoza,7,38021.3
+2025-05-25,Indumentaria,Remera,GBA Sur,6,55020.04
+2025-06-21,Alimentos,Fideos,Cordoba,5,84880.68
+2025-11-15,Electronica,Cargador,GBA Sur,3,4970.34
+2025-10-30,Electronica,Auriculares,Rosario,6,19821.69
+2025-09-19,Juguetes,Cartas,Mendoza,4,31620.69
+2025-07-13,Juguetes,Muñeco,Mendoza,7,65637.12
+2025-11-29,Electronica,Auriculares,GBA Norte,7,51320.81
+2025-10-03,Electronica,Parlante,CABA,8,55032.08
+2025-06-12,Hogar,Lampara,Rosario,4,27082.81
+2025-06-18,Indumentaria,Campera,GBA Norte,2,41568.08
+2025-12-21,Indumentaria,Zapatillas,Mendoza,7,86227.16
+2025-07-05,Electronica,Mouse,Rosario,6,46002.27
+2025-12-01,Alimentos,Galletitas,GBA Norte,7,40958.15
+2025-04-28,Juguetes,Rompecabezas,Rosario,7,22800.01
+2025-12-12,Juguetes,Rompecabezas,Rosario,5,24164.83
+2025-06-24,Hogar,Sarten,CABA,3,37356.75
+2025-10-22,Alimentos,Aceite,GBA Norte,1,79000.11
+2025-03-27,Electronica,Teclado,GBA Sur,8,69130.35
+2025-02-21,Indumentaria,Remera,Cordoba,3,3129.9
+2025-02-07,Indumentaria,Medias,Rosario,7,82757.45
+2025-07-01,Indumentaria,Zapatillas,Mendoza,5,50567.73
+2025-03-02,Hogar,Almohada,Rosario,2,55179.41
+2025-01-24,Electronica,Mouse,Cordoba,8,82050.01
+2025-08-12,Hogar,Toalla,Mendoza,3,12979.89
+2025-10-29,Juguetes,Muñeco,GBA Norte,6,80708.33
+2025-12-12,Alimentos,Yerba,GBA Sur,5,40034.25
+2025-02-19,Indumentaria,Campera,Cordoba,7,31359.43
+2025-05-27,Hogar,Toalla,GBA Sur,3,68399.72
+2025-01-22,Indumentaria,Zapatillas,Rosario,6,25764.8
+2025-02-20,Hogar,Almohada,GBA Norte,5,11551.05
+2025-09-07,Alimentos,Aceite,GBA Norte,5,26674.62
+2025-11-07,Electronica,Cargador,Mendoza,2,25797.96
+2025-04-16,Juguetes,Cartas,GBA Norte,1,3434.16
+2025-10-04,Juguetes,Rompecabezas,CABA,1,44464.56
+2025-07-09,Indumentaria,Campera,Rosario,8,38958.73
+2025-09-24,Indumentaria,Zapatillas,GBA Sur,2,82701.57
+2025-08-16,Alimentos,Yerba,GBA Sur,3,8730.88
+2025-05-23,Electronica,Mouse,CABA,4,67240.7
+2025-02-08,Hogar,Lampara,Rosario,8,30845.01
+2025-11-19,Juguetes,Muñeco,Mendoza,1,62226.44
+2025-08-10,Electronica,Parlante,GBA Sur,1,17945.48
+2025-11-21,Electronica,Cargador,GBA Norte,4,53184.56
+2025-12-11,Indumentaria,Campera,Cordoba,3,14477.55
+2025-09-12,Hogar,Lampara,GBA Norte,2,57494.77
+2025-09-22,Indumentaria,Remera,Cordoba,4,6986.25
+2025-12-30,Indumentaria,Remera,Cordoba,7,62230.37
+2025-11-20,Juguetes,Rompecabezas,Mendoza,3,32034.64
+2025-06-03,Indumentaria,Campera,Mendoza,7,44170.34
+2025-11-03,Hogar,Vela,Cordoba,4,27292.13
+2025-02-27,Hogar,Toalla,Cordoba,7,29960.34
+2025-03-01,Indumentaria,Zapatillas,GBA Sur,6,59794.54
+2025-12-23,Alimentos,Aceite,Cordoba,8,75770.75
+2025-11-04,Alimentos,Aceite,CABA,4,26892.79
+2025-07-29,Electronica,Parlante,GBA Sur,6,24282.87
+2025-07-30,Alimentos,Yerba,Cordoba,1,36482.48
+2025-05-18,Alimentos,Aceite,GBA Sur,1,57627.69
+2025-06-07,Alimentos,Yerba,GBA Norte,3,51953.01
+2025-10-02,Indumentaria,Remera,Rosario,3,55356.87
+2025-11-06,Juguetes,Muñeco,Mendoza,7,2879.47
+2025-02-16,Hogar,Almohada,Rosario,1,6648.37
+2025-09-23,Indumentaria,Campera,Rosario,3,18661.14
+2025-10-02,Alimentos,Aceite,GBA Sur,6,72314.4
+2025-06-19,Alimentos,Aceite,Rosario,1,66266.76
+2025-01-19,Electronica,Parlante,CABA,8,45633.44
+2025-01-22,Indumentaria,Campera,GBA Sur,4,3157.75
+2025-01-18,Hogar,Sarten,Cordoba,3,59319.56
+2025-05-19,Electronica,Auriculares,CABA,7,45901.36
+2025-01-11,Electronica,Parlante,Rosario,2,82788.74
+2025-10-29,Alimentos,Aceite,Rosario,6,77477.97
+2025-08-06,Juguetes,Muñeco,GBA Sur,4,25390.43
+2025-02-21,Hogar,Vela,Cordoba,7,34515.68
+2025-02-17,Indumentaria,Zapatillas,Rosario,5,25791.65
+2025-12-26,Juguetes,Cartas,GBA Norte,8,35034.34
+2025-07-21,Hogar,Vela,Mendoza,4,10639.08
+2025-10-23,Electronica,Teclado,GBA Norte,8,40790.59
+2025-10-16,Electronica,Mouse,GBA Sur,2,13795.64
+2025-02-18,Juguetes,Rompecabezas,GBA Norte,8,77969.67
+2025-10-31,Indumentaria,Remera,GBA Norte,8,36884.36
+2025-09-25,Juguetes,Rompecabezas,CABA,5,69299.35
+2025-07-30,Hogar,Almohada,GBA Norte,7,4249.36
+2025-01-03,Hogar,Lampara,Rosario,8,71727.93
+2025-06-10,Indumentaria,Campera,Cordoba,2,64089.27
+2025-02-23,Alimentos,Cafe,Cordoba,1,12328.14
+2025-03-24,Juguetes,Muñeco,GBA Norte,2,18565.72
+2025-01-20,Alimentos,Yerba,GBA Norte,8,56728.68
+2025-03-13,Juguetes,Pelota,Cordoba,2,1824.01
+2025-08-11,Hogar,Almohada,Rosario,6,29692.37
+2025-10-16,Indumentaria,Pantalon,GBA Sur,4,47569.36
+2025-11-11,Hogar,Vela,Rosario,8,23360.3
+2025-04-18,Hogar,Lampara,GBA Norte,8,47669.68
+2025-01-06,Hogar,Toalla,GBA Norte,2,14381.07
+2025-01-03,Hogar,Lampara,GBA Norte,8,62770.02
+2025-06-19,Electronica,Auriculares,Rosario,3,42713.78
+2025-02-04,Hogar,Vela,GBA Norte,1,31701.21
+2025-04-09,Hogar,Almohada,Cordoba,5,53017.69
+2025-07-08,Juguetes,Pelota,GBA Sur,4,50938.99
+2025-02-09,Juguetes,Rompecabezas,CABA,5,66028.57
+2025-04-02,Hogar,Vela,CABA,7,12276.66
+2025-06-19,Juguetes,Cartas,Rosario,8,25674.14
+2025-04-18,Indumentaria,Remera,GBA Norte,2,89028.76
+2025-11-11,Indumentaria,Pantalon,GBA Norte,1,43316.3
+2025-06-15,Electronica,Auriculares,GBA Norte,8,46541.77
+2025-08-06,Alimentos,Fideos,GBA Sur,2,45533.38
+2025-05-04,Juguetes,Pelota,Cordoba,8,69878.85
+2025-07-01,Hogar,Vela,GBA Sur,4,48231.01
+2025-03-27,Hogar,Lampara,Cordoba,8,50883.24
+2025-12-22,Hogar,Sarten,Rosario,6,81078.83
+2025-04-02,Electronica,Mouse,Cordoba,6,69596.29
+2025-08-06,Indumentaria,Medias,Rosario,4,78990.24
+2025-07-15,Hogar,Lampara,Mendoza,4,89594.02
+2025-08-15,Hogar,Vela,GBA Norte,5,1499.69
+2025-06-18,Electronica,Mouse,GBA Sur,1,45748.61
+2025-11-07,Hogar,Sarten,Mendoza,8,25470.68
+2025-07-23,Electronica,Mouse,GBA Sur,1,56649.07
+2025-08-30,Juguetes,Pelota,Cordoba,2,16465.62
+2025-01-20,Hogar,Sarten,Rosario,3,80589.6
+2025-12-28,Indumentaria,Pantalon,CABA,2,38341.96
+2025-01-29,Alimentos,Cafe,GBA Sur,5,9675.32
+2025-04-10,Juguetes,Muñeco,GBA Sur,6,75517.34
+2025-12-30,Indumentaria,Medias,Mendoza,1,85042.79
+2025-12-07,Alimentos,Yerba,Mendoza,2,60598.06
+2025-04-09,Juguetes,Rompecabezas,Mendoza,3,24730.6
+2025-08-16,Electronica,Mouse,Rosario,7,18682.82
+2025-03-30,Electronica,Mouse,GBA Sur,2,50889.79
+2025-06-24,Alimentos,Galletitas,Mendoza,8,8662.48
+2025-02-15,Electronica,Auriculares,GBA Norte,3,65929.98
+2025-06-12,Juguetes,Muñeco,GBA Norte,4,71197.56
+2025-11-23,Hogar,Toalla,CABA,4,79070.66
+2025-06-07,Indumentaria,Pantalon,GBA Sur,5,5746.84
+2025-04-02,Hogar,Lampara,Rosario,4,29083.15
+2025-04-07,Hogar,Lampara,GBA Norte,5,88155.76
+2025-12-24,Alimentos,Fideos,CABA,6,44599.82
+2025-06-28,Juguetes,Pelota,Mendoza,3,62146.55
+2025-01-19,Juguetes,Pelota,GBA Norte,4,48877.44
+2025-12-26,Alimentos,Fideos,Mendoza,5,73170.84
+2025-04-17,Hogar,Vela,Rosario,5,74857.33
+2025-02-16,Juguetes,Rompecabezas,GBA Sur,5,20424.69
+2025-01-17,Electronica,Parlante,Mendoza,8,57169.12
+2025-03-13,Alimentos,Galletitas,GBA Sur,7,34133.16
+2025-12-04,Juguetes,Muñeco,GBA Sur,6,63414.66
+2025-01-05,Indumentaria,Zapatillas,Cordoba,2,30789.41
+2025-04-06,Hogar,Almohada,GBA Norte,3,42548.87
+2025-01-12,Alimentos,Galletitas,Cordoba,7,53828.15
+2025-07-24,Alimentos,Aceite,GBA Sur,6,65380.15
+2025-09-05,Alimentos,Fideos,CABA,4,87398.14
+2025-09-17,Electronica,Teclado,Cordoba,7,69892.45
+2025-10-31,Electronica,Cargador,Rosario,5,15808.24
+2025-11-02,Juguetes,Rompecabezas,Rosario,3,67914.66
+2025-12-06,Hogar,Sarten,CABA,3,28525.35
+2025-06-27,Alimentos,Yerba,GBA Norte,3,41992.31
+2025-04-13,Indumentaria,Campera,GBA Sur,4,8153.4
+2025-04-15,Alimentos,Cafe,Mendoza,6,22781.19
+2025-01-03,Alimentos,Aceite,GBA Sur,7,9892.3
+2025-12-24,Indumentaria,Zapatillas,Mendoza,8,34489.95
+2025-12-28,Indumentaria,Remera,Cordoba,3,12436.71
+2025-07-24,Hogar,Almohada,Mendoza,7,66003.12
+2025-11-02,Alimentos,Galletitas,CABA,1,31871.18
+2025-04-24,Juguetes,Rompecabezas,GBA Norte,6,33852.8
+2025-09-14,Electronica,Parlante,Rosario,2,67899.92
+2025-11-27,Indumentaria,Pantalon,Cordoba,4,17729.38
+2025-06-04,Alimentos,Cafe,GBA Sur,3,35181.92
+2025-08-06,Indumentaria,Campera,GBA Sur,8,35426.58
+2025-01-18,Hogar,Toalla,GBA Norte,2,15555.32
+2025-08-27,Electronica,Mouse,Mendoza,7,66207.69
+2025-01-07,Indumentaria,Campera,GBA Norte,7,52146.72
+2025-12-18,Alimentos,Cafe,Cordoba,7,59189.73
+2025-08-05,Electronica,Mouse,Cordoba,2,24019.77
+2025-11-06,Alimentos,Galletitas,GBA Sur,6,70509.31
+2025-10-01,Hogar,Sarten,GBA Norte,7,88285.37
+2025-12-12,Electronica,Cargador,CABA,5,31003.3
+2025-04-12,Juguetes,Cartas,Mendoza,7,78626.26
+2025-01-25,Alimentos,Fideos,CABA,8,11818.08
+2025-08-24,Hogar,Sarten,Rosario,5,62088.5
+2025-08-06,Hogar,Almohada,CABA,3,49304.62
+2025-05-31,Hogar,Toalla,CABA,5,40762.54
+2025-11-22,Electronica,Parlante,CABA,1,32794.76
+2025-09-30,Alimentos,Aceite,GBA Norte,2,8480.17
+2025-03-06,Indumentaria,Zapatillas,Cordoba,6,80451.78
+2025-08-23,Juguetes,Rompecabezas,Mendoza,8,74023.22
+2025-01-21,Electronica,Mouse,GBA Sur,2,4407.58
+2025-07-15,Juguetes,Muñeco,GBA Sur,5,83542.21
+2025-08-05,Alimentos,Cafe,GBA Norte,5,85581.94
+2025-12-01,Electronica,Teclado,CABA,5,71634.39
+2025-06-05,Juguetes,Cartas,Rosario,4,77027.68
+2025-12-22,Electronica,Mouse,Rosario,7,43089.74
+2025-05-21,Indumentaria,Campera,Rosario,7,60758.13
+2025-04-03,Hogar,Almohada,CABA,1,37239.27
+2025-08-01,Indumentaria,Campera,GBA Sur,6,42157.27
+2025-02-19,Indumentaria,Pantalon,CABA,4,64101.76
+2025-02-02,Juguetes,Auto RC,Mendoza,8,64370.99
+2025-10-29,Alimentos,Galletitas,GBA Sur,8,49189.76
+2025-10-13,Electronica,Mouse,GBA Sur,8,29448.21
+2025-03-19,Alimentos,Yerba,GBA Norte,3,48369.39
+2025-12-11,Alimentos,Fideos,Cordoba,2,3871.72
+2025-11-20,Alimentos,Galletitas,GBA Sur,6,8395.19
+2025-06-05,Hogar,Almohada,Cordoba,1,61030.62
+2025-03-21,Juguetes,Cartas,GBA Norte,7,56559.6
+2025-08-01,Electronica,Mouse,Rosario,4,67220.63
+2025-07-12,Juguetes,Rompecabezas,Cordoba,2,55033.84
+2025-02-19,Alimentos,Aceite,GBA Norte,5,89299.65
+2025-04-02,Indumentaria,Zapatillas,Rosario,4,37357.94
+2025-08-03,Juguetes,Auto RC,GBA Sur,2,69574.47
+2025-12-07,Hogar,Vela,Rosario,4,48393.25
+2025-07-26,Alimentos,Yerba,GBA Sur,8,74526.32
+2025-03-22,Indumentaria,Zapatillas,GBA Sur,6,1297.03
+2025-08-26,Indumentaria,Remera,Cordoba,7,52634.05
+2025-08-03,Alimentos,Aceite,Mendoza,4,3584.65
+2025-03-12,Juguetes,Cartas,Rosario,7,89902.98
+2025-01-12,Hogar,Vela,GBA Norte,8,15814.84
+2025-12-17,Electronica,Mouse,CABA,7,67123.92
+2025-10-10,Juguetes,Rompecabezas,GBA Norte,4,41741.43
+2025-03-31,Alimentos,Aceite,GBA Sur,2,12805.86
+2025-01-16,Indumentaria,Medias,Cordoba,8,41868.17
+2025-05-04,Indumentaria,Zapatillas,Rosario,6,58082.75
+2025-03-23,Indumentaria,Zapatillas,Mendoza,1,86660.19
+2025-01-17,Alimentos,Galletitas,Cordoba,2,77733.04
+2025-08-02,Hogar,Vela,CABA,1,64705.74
+2025-08-13,Alimentos,Cafe,GBA Sur,1,73237.95
+2025-07-06,Alimentos,Galletitas,Mendoza,7,58817.05
+2025-03-05,Electronica,Cargador,GBA Sur,2,68456.7
+2025-03-28,Hogar,Toalla,Mendoza,4,31245.28
+2025-09-05,Indumentaria,Campera,CABA,2,30372.29
+2025-08-23,Alimentos,Aceite,GBA Sur,8,31477.42
+2025-06-19,Alimentos,Fideos,Rosario,1,25501.61
+2025-03-13,Indumentaria,Medias,GBA Sur,6,3308.7
+2025-10-16,Hogar,Almohada,GBA Sur,3,85086.48
+2025-10-18,Hogar,Toalla,Mendoza,5,40147.75
+2025-03-21,Indumentaria,Pantalon,Rosario,7,27017.63
+2025-05-12,Indumentaria,Remera,GBA Norte,3,52907.5
+2025-10-27,Electronica,Mouse,GBA Sur,7,65181.4
+2025-09-02,Juguetes,Rompecabezas,GBA Sur,6,58302.79
+2025-09-25,Hogar,Toalla,Cordoba,8,58705.51
+2025-03-31,Alimentos,Yerba,CABA,2,60518.29
+2025-06-25,Indumentaria,Campera,GBA Norte,5,20963.59
+2025-11-08,Electronica,Cargador,GBA Sur,1,45392.33
+2025-09-26,Indumentaria,Pantalon,GBA Sur,7,60117.72
+2025-11-17,Electronica,Mouse,Rosario,2,6980.6
+2025-01-29,Alimentos,Galletitas,Rosario,5,23069.5
+2025-04-04,Indumentaria,Pantalon,Mendoza,3,64846.85
+2025-01-21,Juguetes,Auto RC,Rosario,4,25695.41
+2025-02-02,Indumentaria,Medias,GBA Sur,4,6417.0
+2025-05-05,Juguetes,Cartas,Cordoba,1,42320.15
+2025-06-13,Electronica,Cargador,Cordoba,2,11360.17
+2025-09-01,Indumentaria,Remera,Rosario,8,53454.45
+2025-06-03,Juguetes,Muñeco,Rosario,2,39248.25
+2025-08-15,Indumentaria,Medias,Mendoza,8,55682.78
+2025-01-01,Hogar,Toalla,Rosario,3,25096.15
+2025-06-18,Juguetes,Pelota,Rosario,5,26254.26
+2025-05-16,Juguetes,Rompecabezas,GBA Sur,5,25500.66
+2025-11-17,Alimentos,Cafe,GBA Norte,6,44394.66
+2025-09-18,Alimentos,Yerba,GBA Norte,7,16912.77
+2025-12-11,Hogar,Sarten,Cordoba,3,31476.42
+2025-04-10,Electronica,Cargador,GBA Norte,5,28340.83
+2025-06-13,Juguetes,Pelota,CABA,4,61942.42
+2025-10-20,Indumentaria,Campera,GBA Norte,7,18079.46
+2025-03-29,Indumentaria,Medias,Mendoza,8,14984.81
+2025-12-01,Juguetes,Pelota,Mendoza,5,24975.1
+2025-08-30,Hogar,Almohada,GBA Norte,6,28254.68
+2025-06-11,Alimentos,Fideos,Cordoba,7,51132.49
+2025-01-03,Alimentos,Cafe,Cordoba,3,32471.46
+2025-08-22,Hogar,Sarten,Mendoza,5,18996.97
+2025-05-31,Hogar,Sarten,GBA Sur,7,39047.35
+2025-06-16,Juguetes,Cartas,Mendoza,4,18751.24
+2025-11-13,Juguetes,Pelota,GBA Sur,4,10508.28
+2025-03-24,Hogar,Toalla,Mendoza,1,53771.68
+2025-12-04,Alimentos,Yerba,GBA Norte,7,25932.69
+2025-01-31,Electronica,Auriculares,Mendoza,6,31499.58
+2025-08-13,Hogar,Sarten,Cordoba,2,12951.34
+2025-06-16,Alimentos,Aceite,GBA Norte,4,53492.94
+2025-10-15,Electronica,Teclado,GBA Norte,5,30177.95
+2025-10-13,Juguetes,Auto RC,Mendoza,2,2944.81
+2025-12-25,Hogar,Almohada,Cordoba,4,67507.31
+2025-04-05,Hogar,Toalla,GBA Norte,6,42011.53
+2025-04-12,Hogar,Almohada,Rosario,1,67540.87
+2025-03-13,Electronica,Teclado,Cordoba,8,36271.41
+2025-01-25,Juguetes,Muñeco,Rosario,7,34239.22
+2025-01-17,Juguetes,Auto RC,Rosario,6,44788.84
+2025-11-21,Electronica,Auriculares,Rosario,2,9200.77
+2025-09-30,Indumentaria,Medias,CABA,8,52079.35
+2025-11-09,Indumentaria,Remera,Mendoza,5,39354.26
+2025-08-27,Alimentos,Aceite,Mendoza,3,30408.22
+2025-11-28,Juguetes,Auto RC,Cordoba,7,47966.54
+2025-01-11,Alimentos,Galletitas,GBA Sur,7,1565.5
+2025-01-10,Electronica,Cargador,GBA Sur,5,39016.32
+2025-04-25,Juguetes,Auto RC,Rosario,4,41740.05
+2025-10-22,Hogar,Vela,GBA Norte,3,17807.42
+2025-04-16,Hogar,Lampara,CABA,1,3333.98
+2025-03-07,Juguetes,Auto RC,CABA,6,30144.03
+2025-04-28,Indumentaria,Pantalon,GBA Sur,5,15532.71
+2025-04-30,Indumentaria,Campera,CABA,8,13220.78
+2025-03-05,Alimentos,Cafe,Cordoba,4,78210.42
+2025-07-14,Electronica,Teclado,Cordoba,4,36526.86
+2025-07-14,Juguetes,Muñeco,CABA,2,87262.7
+2025-03-25,Indumentaria,Remera,Cordoba,6,66917.14
+2025-06-12,Alimentos,Aceite,GBA Norte,6,88678.54
+2025-09-02,Hogar,Vela,CABA,1,85095.82
+2025-01-04,Alimentos,Yerba,Cordoba,2,86579.62
+2025-07-01,Hogar,Almohada,CABA,5,39639.25
+2025-04-28,Electronica,Teclado,Cordoba,5,2410.65
+2025-11-28,Hogar,Sarten,GBA Norte,3,76419.92
+2025-10-17,Electronica,Cargador,Rosario,8,14862.49
+2025-01-20,Electronica,Parlante,GBA Norte,5,78104.71
+2025-07-10,Juguetes,Pelota,GBA Norte,3,38312.28
+2025-09-23,Indumentaria,Pantalon,GBA Sur,2,79237.89
+2025-03-25,Electronica,Teclado,GBA Norte,6,28239.77
+2025-05-16,Juguetes,Auto RC,CABA,6,70710.93
+2025-01-15,Alimentos,Cafe,Mendoza,7,78610.51
+2025-01-24,Juguetes,Pelota,Rosario,3,65304.52
+2025-03-22,Electronica,Auriculares,GBA Sur,2,80849.79
+2025-08-03,Electronica,Auriculares,Cordoba,7,42334.57
+2025-10-02,Alimentos,Aceite,Rosario,1,73038.84
+2025-06-09,Alimentos,Yerba,GBA Sur,6,12409.68
+2025-11-11,Electronica,Teclado,Cordoba,4,67635.98
+2025-03-06,Indumentaria,Medias,GBA Norte,3,72684.83
+2025-04-26,Electronica,Auriculares,Mendoza,2,36941.63
+2025-05-08,Indumentaria,Campera,GBA Norte,5,65972.69
+2025-06-18,Alimentos,Galletitas,Rosario,5,47004.49
+2025-03-09,Hogar,Toalla,GBA Sur,1,59846.96
+2025-07-17,Electronica,Cargador,GBA Norte,1,2274.63
+2025-05-02,Indumentaria,Zapatillas,GBA Sur,8,2042.41
+2025-09-05,Hogar,Lampara,Mendoza,7,78387.8
+2025-08-20,Indumentaria,Zapatillas,Rosario,8,24389.61
+2025-03-02,Hogar,Vela,GBA Sur,3,31015.66
+2025-05-11,Hogar,Toalla,Rosario,2,41612.12
+2025-12-09,Hogar,Vela,GBA Sur,6,6617.48
+2025-08-07,Electronica,Parlante,GBA Norte,8,9417.93
+2025-02-26,Electronica,Parlante,Mendoza,6,27318.5
+2025-06-07,Alimentos,Yerba,Rosario,2,88603.74
+2025-09-16,Indumentaria,Zapatillas,Rosario,4,18344.14
+2025-01-09,Indumentaria,Campera,Rosario,3,54483.33
+2025-10-16,Juguetes,Cartas,CABA,6,72223.14
+2025-10-04,Indumentaria,Medias,GBA Norte,2,34328.02
+2025-12-15,Indumentaria,Medias,GBA Norte,3,76048.25
+2025-10-04,Juguetes,Pelota,GBA Norte,7,25779.5
+2025-06-01,Alimentos,Galletitas,Cordoba,8,80543.26
+2025-06-14,Indumentaria,Campera,CABA,5,7663.47
+2025-04-17,Juguetes,Cartas,CABA,7,6270.78
+2025-03-13,Indumentaria,Zapatillas,GBA Norte,4,69048.77
+2025-07-20,Indumentaria,Zapatillas,Cordoba,4,53636.06
+2025-06-29,Electronica,Cargador,GBA Sur,7,13499.19
+2025-03-05,Juguetes,Rompecabezas,GBA Norte,5,40460.94
+2025-06-17,Electronica,Auriculares,Rosario,2,28693.29
+2025-11-18,Juguetes,Pelota,GBA Norte,5,59777.51
+2025-03-05,Juguetes,Cartas,Cordoba,6,14677.22
+2025-05-20,Electronica,Teclado,GBA Sur,8,11042.54
+2025-08-07,Juguetes,Rompecabezas,Mendoza,8,62537.89
+2025-05-30,Indumentaria,Medias,CABA,6,8882.99
+2025-05-04,Alimentos,Yerba,Cordoba,2,6042.07
+2025-05-24,Hogar,Almohada,Mendoza,7,46196.3
+2025-12-08,Hogar,Almohada,CABA,8,2150.42
+2025-05-05,Juguetes,Pelota,GBA Norte,5,53606.52
+2025-02-23,Alimentos,Galletitas,Rosario,7,75529.67
+2025-11-07,Juguetes,Pelota,CABA,2,54547.95
+2025-10-22,Electronica,Auriculares,GBA Norte,7,33102.37
+2025-07-21,Electronica,Mouse,Mendoza,8,71144.14
+2025-10-21,Juguetes,Muñeco,Cordoba,7,73371.3
+2025-12-09,Electronica,Cargador,Rosario,6,17085.65
+2025-02-20,Hogar,Toalla,CABA,5,65886.11
+2025-07-03,Hogar,Almohada,GBA Norte,1,25620.29
+2025-06-16,Alimentos,Fideos,GBA Norte,6,19634.91
+2025-07-25,Hogar,Lampara,Cordoba,6,77241.53
+2025-06-30,Juguetes,Cartas,Mendoza,4,72658.86
+2025-06-12,Hogar,Sarten,Mendoza,7,9048.49
+2025-06-10,Juguetes,Pelota,Mendoza,7,17571.1
+2025-04-14,Hogar,Toalla,GBA Sur,8,30993.11
+2025-07-05,Indumentaria,Pantalon,GBA Sur,4,2417.53
+2025-10-25,Hogar,Vela,Mendoza,5,58165.39
+2025-10-14,Juguetes,Rompecabezas,Cordoba,2,56043.92
+2025-04-12,Electronica,Auriculares,Mendoza,7,54219.28
+2025-05-15,Indumentaria,Campera,Rosario,3,32488.17
+2025-07-17,Electronica,Mouse,Rosario,2,51739.5
+2025-06-15,Indumentaria,Zapatillas,CABA,3,22885.42
+2025-12-08,Hogar,Sarten,Cordoba,4,20977.71
+2025-05-06,Indumentaria,Zapatillas,Mendoza,3,73225.75
+2025-01-07,Hogar,Lampara,CABA,8,77320.29
+2025-08-13,Alimentos,Galletitas,Rosario,4,89855.16
+2025-07-31,Indumentaria,Medias,Rosario,7,36565.9
+2025-05-14,Hogar,Almohada,Cordoba,4,33950.34
+2025-06-13,Juguetes,Auto RC,CABA,3,86270.11
+2025-06-14,Indumentaria,Medias,Rosario,8,12460.06
+2025-10-02,Hogar,Sarten,Rosario,6,21276.37
+2025-12-26,Juguetes,Rompecabezas,Cordoba,1,24952.88
+2025-08-24,Juguetes,Pelota,Cordoba,2,53604.6
+2025-03-29,Electronica,Parlante,Cordoba,1,50750.65
+2025-06-27,Alimentos,Aceite,CABA,2,61698.62
+2025-05-22,Juguetes,Auto RC,Mendoza,8,3454.35
+2025-08-09,Indumentaria,Zapatillas,GBA Norte,5,59900.27
+2025-10-03,Hogar,Almohada,GBA Norte,7,51717.31
+2025-03-15,Juguetes,Cartas,GBA Sur,1,77783.33
+2025-12-31,Hogar,Vela,CABA,2,69941.26
+2025-11-11,Electronica,Parlante,Cordoba,4,66003.85
+2025-05-08,Juguetes,Rompecabezas,GBA Norte,8,3624.39
+2025-03-03,Hogar,Sarten,CABA,7,85207.1
+2025-07-28,Alimentos,Yerba,GBA Norte,3,76406.63
+2025-02-19,Hogar,Almohada,GBA Norte,5,63946.4
+2025-09-13,Electronica,Cargador,GBA Sur,4,36727.07
+2025-06-29,Electronica,Mouse,Cordoba,5,67911.57
+2025-01-11,Juguetes,Muñeco,Rosario,6,6264.01
+2025-02-18,Indumentaria,Remera,Rosario,6,2119.48
+2025-07-16,Hogar,Sarten,Rosario,2,51139.46
+2025-03-30,Indumentaria,Medias,Cordoba,4,17179.02
+2025-06-26,Electronica,Cargador,Rosario,3,34300.98
+2025-08-14,Indumentaria,Medias,GBA Norte,8,73478.17
+2025-01-16,Juguetes,Muñeco,Rosario,2,80052.79
+2025-06-09,Hogar,Sarten,GBA Sur,3,61789.85
+2025-02-21,Alimentos,Aceite,Rosario,6,14817.48
+2025-08-21,Juguetes,Pelota,Cordoba,2,85016.99
+2025-06-23,Indumentaria,Campera,GBA Norte,8,22311.17
+2025-04-07,Alimentos,Cafe,GBA Sur,8,6217.55
+2025-12-04,Juguetes,Muñeco,Rosario,6,9094.86
+2025-09-27,Juguetes,Cartas,Mendoza,7,48341.39
+2025-10-07,Indumentaria,Campera,GBA Sur,4,13057.33
+2025-05-30,Alimentos,Yerba,Cordoba,8,34558.96
+2025-01-13,Alimentos,Cafe,GBA Sur,7,50951.52
+2025-06-06,Alimentos,Fideos,Mendoza,1,63202.25
+2025-04-07,Electronica,Mouse,Rosario,3,67558.77
+2025-11-25,Hogar,Sarten,Rosario,5,3488.72
+2025-07-17,Indumentaria,Campera,Rosario,7,5666.74
+2025-09-18,Juguetes,Rompecabezas,Rosario,1,34003.33
+2025-04-20,Electronica,Teclado,GBA Norte,6,80419.69
+2025-02-07,Indumentaria,Zapatillas,GBA Norte,1,51831.93
+2025-01-24,Alimentos,Aceite,Mendoza,5,11353.46
+2025-01-03,Indumentaria,Campera,GBA Norte,4,88850.61
+2025-07-10,Alimentos,Cafe,GBA Norte,4,13608.58
+2025-11-15,Hogar,Toalla,Mendoza,5,51778.04
+2025-04-15,Hogar,Toalla,Mendoza,7,1910.24
+2025-07-13,Hogar,Lampara,Cordoba,1,23554.87
+2025-11-17,Alimentos,Cafe,Mendoza,3,69274.27
+2025-12-06,Indumentaria,Remera,Mendoza,3,11179.85
+2025-09-08,Electronica,Cargador,Rosario,5,30136.69
+2025-12-15,Alimentos,Fideos,Rosario,5,26493.07
+2025-02-25,Electronica,Teclado,GBA Norte,8,85568.61
+2025-04-13,Indumentaria,Medias,CABA,2,42737.17
+2025-02-27,Indumentaria,Remera,Cordoba,2,17418.57
+2025-05-04,Alimentos,Galletitas,GBA Sur,3,39991.66
+2025-08-15,Juguetes,Muñeco,Mendoza,4,84091.79
+2025-04-18,Hogar,Sarten,Rosario,3,2264.79
+2025-06-24,Hogar,Lampara,GBA Sur,1,42121.15
+2025-07-20,Alimentos,Aceite,GBA Sur,4,45997.92
+2025-04-05,Indumentaria,Campera,Mendoza,1,65185.12
+2025-08-14,Electronica,Cargador,Rosario,3,48041.54
+2025-03-15,Juguetes,Auto RC,CABA,2,10911.56
+2025-07-29,Juguetes,Cartas,CABA,3,56054.17
+2025-06-14,Hogar,Sarten,GBA Norte,4,81235.25
+2025-01-04,Alimentos,Cafe,Rosario,7,6199.16
+2025-10-18,Electronica,Cargador,Mendoza,2,4132.37
+2025-01-11,Alimentos,Galletitas,Mendoza,7,35358.87
+2025-08-19,Indumentaria,Zapatillas,Rosario,8,23253.77
+2025-09-03,Indumentaria,Zapatillas,Rosario,4,79270.54
+2025-03-15,Hogar,Lampara,Cordoba,3,89923.5
+2025-07-08,Electronica,Teclado,GBA Sur,8,13814.56
+2025-07-30,Juguetes,Rompecabezas,Cordoba,6,12127.16
+2025-04-17,Alimentos,Yerba,Cordoba,8,41991.76
+2025-08-16,Alimentos,Yerba,GBA Sur,7,31064.32
+2025-03-10,Juguetes,Rompecabezas,GBA Norte,4,20309.38
+2025-10-19,Indumentaria,Medias,GBA Sur,7,81131.54
+2025-07-11,Hogar,Lampara,Cordoba,2,13578.5
+2025-10-05,Alimentos,Fideos,Rosario,4,37678.49
+2025-04-22,Hogar,Vela,GBA Norte,7,59708.98
+2025-04-03,Alimentos,Cafe,Mendoza,3,19374.34
+2025-05-20,Juguetes,Rompecabezas,Mendoza,4,36767.01
+2025-03-19,Alimentos,Fideos,Cordoba,3,22867.16
+2025-09-07,Hogar,Vela,Rosario,1,48222.34
+2025-12-13,Electronica,Auriculares,CABA,1,2910.48
+2025-06-19,Electronica,Mouse,GBA Sur,3,19067.63
+2025-04-20,Hogar,Sarten,GBA Sur,6,56467.62
+2025-10-26,Alimentos,Yerba,GBA Sur,5,63620.69
+2025-06-05,Electronica,Parlante,GBA Norte,3,81172.72
+2025-03-25,Alimentos,Cafe,Rosario,7,82010.6
+2025-03-23,Juguetes,Cartas,Mendoza,5,42791.52
+2025-12-20,Indumentaria,Remera,Mendoza,8,85140.76
+2025-02-19,Electronica,Cargador,Cordoba,8,43080.36
+2025-03-29,Electronica,Parlante,Mendoza,6,88911.8
+2025-08-14,Juguetes,Cartas,GBA Norte,1,40812.67
+2025-09-09,Juguetes,Auto RC,GBA Sur,6,88915.56
+2025-02-05,Indumentaria,Pantalon,Rosario,7,27709.3
+2025-03-18,Electronica,Cargador,Mendoza,2,29542.17
+2025-07-01,Juguetes,Pelota,CABA,7,56345.74
+2025-03-28,Hogar,Almohada,GBA Norte,1,46694.63
+2025-09-08,Hogar,Lampara,CABA,5,58797.06
+2025-05-15,Alimentos,Yerba,GBA Sur,8,4600.56
+2025-12-04,Electronica,Mouse,Rosario,1,3792.27
+2025-10-21,Electronica,Mouse,Cordoba,8,18768.17
+2025-07-14,Alimentos,Cafe,Mendoza,7,60799.45
+2025-06-21,Hogar,Vela,Cordoba,6,37240.36
+2025-03-09,Hogar,Almohada,Rosario,5,18168.41
+2025-05-17,Electronica,Teclado,Mendoza,6,8546.78
+2025-09-18,Electronica,Auriculares,GBA Norte,2,72754.17
+2025-05-05,Electronica,Cargador,GBA Sur,4,6781.37
+2025-02-14,Electronica,Auriculares,Mendoza,6,2196.8
+2025-11-13,Electronica,Cargador,Rosario,8,56725.25
+2025-11-20,Hogar,Sarten,Rosario,3,11856.08
+2025-04-13,Electronica,Cargador,CABA,2,64924.64
+2025-01-02,Alimentos,Aceite,GBA Norte,2,5449.88
+2025-07-18,Hogar,Vela,GBA Norte,4,43367.93
+2025-12-29,Alimentos,Galletitas,Mendoza,5,17559.77
+2025-12-13,Juguetes,Muñeco,Cordoba,1,17458.58
+2025-02-10,Indumentaria,Pantalon,GBA Sur,4,13806.46
+2025-12-25,Electronica,Auriculares,GBA Norte,6,17647.28
+2025-04-27,Indumentaria,Zapatillas,Mendoza,5,75407.6
+2025-11-04,Alimentos,Galletitas,Mendoza,7,26400.87
+2025-05-09,Hogar,Lampara,Rosario,5,1621.49
+2025-05-25,Indumentaria,Remera,CABA,6,6587.68
+2025-01-31,Juguetes,Pelota,CABA,8,60989.12
+2025-01-07,Electronica,Mouse,Rosario,6,69653.36
+2025-12-24,Juguetes,Muñeco,Rosario,6,24356.92
+2025-08-19,Hogar,Toalla,GBA Sur,8,45472.85
+2025-06-10,Juguetes,Rompecabezas,GBA Norte,1,53263.39
+2025-12-20,Hogar,Toalla,Cordoba,6,79317.74
+2025-07-26,Alimentos,Yerba,Cordoba,7,14588.95
+2025-08-03,Electronica,Cargador,GBA Sur,3,34949.7
+2025-07-24,Hogar,Sarten,Cordoba,3,71432.38
+2025-03-19,Juguetes,Rompecabezas,GBA Norte,7,9441.31
+2025-08-30,Indumentaria,Campera,GBA Sur,8,18600.33
+2025-07-20,Indumentaria,Campera,Rosario,4,25712.59
+2025-09-07,Juguetes,Pelota,Cordoba,3,39724.57
+2025-09-07,Electronica,Mouse,CABA,6,6954.64
+2025-12-28,Alimentos,Galletitas,GBA Sur,8,13591.52
+2025-04-21,Alimentos,Yerba,CABA,3,86160.25
+2025-06-23,Hogar,Vela,Cordoba,3,55434.78
+2025-09-29,Hogar,Almohada,Mendoza,3,34228.57
+2025-07-09,Juguetes,Pelota,CABA,6,2576.17
+2025-08-02,Indumentaria,Pantalon,GBA Sur,6,62257.08
+2025-11-21,Alimentos,Fideos,Rosario,6,31327.4
+2025-12-24,Indumentaria,Pantalon,GBA Sur,4,70561.97
+2025-12-29,Juguetes,Cartas,GBA Norte,4,73385.65
+2025-09-08,Juguetes,Pelota,CABA,2,28897.94
+2025-07-16,Indumentaria,Medias,GBA Sur,8,8236.38
+2025-08-25,Juguetes,Auto RC,CABA,4,41004.16
+2025-05-22,Indumentaria,Campera,CABA,4,43163.48
+2025-11-21,Electronica,Mouse,GBA Sur,8,74410.47
+2025-10-15,Indumentaria,Campera,GBA Sur,6,44138.1
+2025-11-06,Juguetes,Rompecabezas,Mendoza,2,17749.36
+2025-06-01,Electronica,Cargador,Rosario,5,72097.52
+2025-05-08,Alimentos,Yerba,Mendoza,1,73854.2
+2025-06-02,Hogar,Lampara,GBA Norte,1,27353.2
+2025-11-30,Alimentos,Cafe,GBA Sur,3,42379.61
+2025-08-17,Alimentos,Galletitas,GBA Norte,6,53852.21
+2025-02-25,Hogar,Toalla,GBA Sur,8,18602.48
+2025-05-26,Indumentaria,Medias,GBA Norte,1,29729.53
+2025-03-05,Electronica,Mouse,Rosario,3,43462.03
+2025-06-11,Alimentos,Galletitas,CABA,6,56971.24
+2025-07-22,Indumentaria,Campera,Rosario,1,75410.53
+2025-11-26,Hogar,Almohada,Rosario,1,68327.73
+2025-09-19,Electronica,Cargador,Cordoba,2,6685.13
+2025-03-13,Indumentaria,Remera,Rosario,4,15540.97
+2025-02-17,Hogar,Almohada,GBA Sur,6,8223.13
+2025-02-05,Alimentos,Yerba,Rosario,7,6531.39
+2025-11-25,Alimentos,Aceite,Rosario,4,74233.29
+2025-08-18,Indumentaria,Remera,GBA Sur,1,21238.26
+2025-11-27,Juguetes,Muñeco,CABA,4,58218.33
+2025-09-03,Electronica,Auriculares,GBA Norte,3,68508.97
+2025-03-12,Juguetes,Auto RC,GBA Sur,7,35489.75
+2025-01-10,Juguetes,Auto RC,Cordoba,7,3092.67
+2025-10-09,Electronica,Auriculares,GBA Norte,4,53480.51
+2025-04-28,Juguetes,Pelota,CABA,2,32094.96
+2025-10-25,Hogar,Vela,GBA Norte,3,36349.15
+2025-10-02,Electronica,Parlante,GBA Sur,6,24642.56
+2025-09-19,Alimentos,Aceite,GBA Norte,5,68121.26
+2025-06-21,Indumentaria,Campera,GBA Sur,5,35944.29
+2025-08-20,Electronica,Teclado,Rosario,7,87128.39
+2025-04-15,Indumentaria,Remera,CABA,2,35483.23
+2025-04-16,Indumentaria,Medias,Mendoza,4,67507.3
+2025-10-31,Hogar,Almohada,Cordoba,4,5838.71
+2025-10-18,Hogar,Lampara,Rosario,1,3119.31
+2025-04-21,Indumentaria,Campera,GBA Norte,7,45463.75
+2025-06-17,Alimentos,Yerba,Rosario,8,68093.42
+2025-09-03,Juguetes,Cartas,GBA Sur,4,71755.28
+2025-02-09,Juguetes,Muñeco,CABA,1,76888.64
+2025-01-06,Hogar,Sarten,GBA Sur,3,40610.39
+2025-02-19,Electronica,Mouse,GBA Norte,7,58473.72
+2025-07-10,Electronica,Mouse,Cordoba,5,59172.71
+2025-01-18,Electronica,Mouse,GBA Norte,4,24382.58
+2025-03-03,Electronica,Teclado,GBA Norte,2,2276.62
+2025-05-01,Alimentos,Galletitas,Mendoza,5,50612.59
+2025-01-12,Juguetes,Pelota,CABA,3,66097.63
+2025-04-21,Electronica,Teclado,Mendoza,1,34590.83
+2025-09-12,Alimentos,Yerba,Cordoba,1,16577.04
+2025-10-23,Electronica,Auriculares,GBA Sur,8,64181.26
+2025-04-14,Hogar,Sarten,Mendoza,4,25204.66
+2025-05-01,Alimentos,Cafe,Mendoza,7,4926.96
+2025-10-14,Alimentos,Aceite,Mendoza,1,76512.63
+2025-05-27,Hogar,Sarten,Rosario,8,33689.45
+2025-10-06,Indumentaria,Campera,Mendoza,3,81262.06
+2025-06-14,Hogar,Toalla,GBA Norte,6,52638.85
+2025-08-28,Hogar,Almohada,GBA Norte,8,73466.25
+2025-12-12,Juguetes,Pelota,GBA Sur,2,86563.39
+2025-11-05,Hogar,Lampara,GBA Sur,8,83300.0
+2025-08-19,Juguetes,Rompecabezas,CABA,3,31567.38
+2025-11-03,Hogar,Vela,Mendoza,3,75049.17
+2025-10-21,Indumentaria,Pantalon,Mendoza,7,36275.17
+2025-02-27,Juguetes,Cartas,CABA,1,47241.63
+2025-05-11,Juguetes,Rompecabezas,Mendoza,6,21183.63
+2025-09-08,Electronica,Mouse,Mendoza,6,75445.72
+2025-10-08,Alimentos,Galletitas,Mendoza,4,73923.12
+2025-10-23,Hogar,Toalla,Mendoza,2,67889.33
+2025-04-26,Alimentos,Aceite,Mendoza,4,80675.86
+2025-01-01,Juguetes,Muñeco,Cordoba,2,13847.64
+2025-12-22,Hogar,Lampara,Cordoba,4,27954.33
+2025-10-05,Electronica,Cargador,CABA,5,2443.58
+2025-03-03,Indumentaria,Pantalon,Mendoza,5,7348.92
+2025-08-20,Electronica,Teclado,GBA Sur,1,59881.07
+2025-12-24,Juguetes,Auto RC,GBA Sur,4,35509.51
+2025-06-05,Alimentos,Galletitas,Rosario,1,82840.46
+2025-12-14,Alimentos,Cafe,Cordoba,1,29447.23
+2025-05-11,Alimentos,Yerba,Rosario,7,69511.08
+2025-12-19,Juguetes,Cartas,GBA Sur,8,85471.89
+2025-01-14,Alimentos,Cafe,Cordoba,2,68555.4
+2025-09-01,Hogar,Vela,CABA,2,8383.86
+2025-08-21,Alimentos,Fideos,GBA Norte,8,54721.18
+2025-01-18,Hogar,Almohada,Rosario,8,70167.58
+2025-04-21,Juguetes,Pelota,CABA,3,1916.16
+2025-10-31,Electronica,Parlante,Cordoba,3,7149.87
+2025-08-26,Hogar,Vela,Cordoba,1,72316.38
+2025-05-10,Juguetes,Muñeco,Mendoza,3,46989.53
+2025-08-20,Hogar,Lampara,CABA,6,26835.51
+2025-08-07,Electronica,Cargador,CABA,8,18721.95
+2025-05-08,Electronica,Teclado,Mendoza,3,72805.44
+2025-07-12,Electronica,Mouse,GBA Norte,8,20884.62
+2025-04-28,Alimentos,Cafe,CABA,3,15634.56
+2025-11-06,Juguetes,Muñeco,Cordoba,7,45156.96
+2025-01-11,Juguetes,Auto RC,Mendoza,7,49370.13
+2025-08-31,Electronica,Mouse,Cordoba,7,50598.06
+2025-02-04,Electronica,Auriculares,GBA Sur,6,79122.51
+2025-09-01,Alimentos,Galletitas,GBA Norte,3,81688.85
+2025-03-03,Electronica,Cargador,CABA,4,51767.44
+2025-08-17,Juguetes,Auto RC,Rosario,2,24407.59
+2025-12-03,Indumentaria,Medias,Cordoba,1,11310.63
+2025-04-29,Indumentaria,Pantalon,GBA Sur,7,12856.12
+2025-01-06,Hogar,Sarten,Rosario,2,71139.75
+2025-09-26,Hogar,Vela,Rosario,3,1788.32
+2025-06-13,Indumentaria,Zapatillas,GBA Norte,8,17791.36
+2025-09-02,Alimentos,Aceite,CABA,2,16345.2
+2025-03-16,Indumentaria,Medias,GBA Norte,2,77645.51
+2025-09-02,Juguetes,Muñeco,Rosario,7,15661.21
+2025-11-17,Hogar,Lampara,GBA Sur,7,37168.84
+2025-01-22,Hogar,Toalla,CABA,6,18141.91
+2025-07-20,Alimentos,Galletitas,GBA Norte,3,67626.16
+2025-09-03,Juguetes,Cartas,Cordoba,3,58497.65
+2025-05-04,Juguetes,Cartas,GBA Sur,2,45244.88
+2025-08-10,Juguetes,Muñeco,Cordoba,2,6903.72
+2025-12-27,Indumentaria,Remera,GBA Sur,5,25687.66
+2025-08-26,Hogar,Almohada,Rosario,5,54871.33
+2025-08-29,Juguetes,Pelota,Cordoba,3,68410.18
+2025-08-29,Hogar,Sarten,Mendoza,6,44581.12
+2025-09-30,Juguetes,Cartas,Mendoza,5,6601.16
+2025-05-19,Hogar,Vela,Rosario,6,21277.96
+2025-05-03,Juguetes,Rompecabezas,GBA Sur,4,87538.32
+2025-06-21,Juguetes,Pelota,GBA Sur,7,24488.0
+2025-12-09,Indumentaria,Medias,GBA Norte,5,72399.75
+2025-04-08,Hogar,Vela,Rosario,8,29581.68
+2025-10-25,Juguetes,Rompecabezas,CABA,5,65488.75
+2025-11-23,Indumentaria,Pantalon,Rosario,6,71305.11
+2025-04-04,Alimentos,Fideos,GBA Norte,5,35855.09
+2025-10-18,Alimentos,Galletitas,GBA Sur,2,14024.25
+2025-05-10,Electronica,Teclado,Rosario,1,88564.21
+2025-02-04,Indumentaria,Campera,Cordoba,5,41473.69
+2025-09-19,Juguetes,Pelota,GBA Norte,7,24647.41
+2025-11-18,Alimentos,Galletitas,CABA,7,43396.77
+2025-06-10,Electronica,Cargador,GBA Norte,1,11939.58
+2025-01-22,Electronica,Mouse,CABA,5,49815.67
+2025-03-07,Electronica,Teclado,GBA Norte,1,4554.43
+2025-01-06,Electronica,Mouse,Rosario,5,65041.9
+2025-08-09,Indumentaria,Pantalon,GBA Norte,5,56029.76
+2025-10-10,Hogar,Lampara,GBA Norte,6,3042.91
+2025-04-23,Indumentaria,Zapatillas,GBA Norte,1,49212.3
+2025-03-24,Electronica,Parlante,Mendoza,5,55657.77
+2025-09-06,Electronica,Auriculares,GBA Norte,4,76239.02
+2025-05-04,Alimentos,Galletitas,GBA Norte,4,80377.78
+2025-05-24,Electronica,Auriculares,GBA Norte,7,60733.38
+2025-10-24,Juguetes,Pelota,Cordoba,2,19991.52
+2025-02-11,Alimentos,Yerba,Cordoba,7,14384.31
+2025-11-11,Alimentos,Cafe,Rosario,4,69089.97
+2025-12-11,Alimentos,Yerba,Rosario,1,31463.7
+2025-09-13,Juguetes,Cartas,Cordoba,4,75601.49
+2025-07-10,Indumentaria,Remera,Rosario,7,75487.64
+2025-03-28,Alimentos,Aceite,GBA Norte,7,28964.85
+2025-05-21,Indumentaria,Campera,GBA Norte,8,34770.52
+2025-01-13,Juguetes,Rompecabezas,Mendoza,8,63084.7
+2025-01-12,Alimentos,Galletitas,GBA Sur,1,32997.33
+2025-09-09,Alimentos,Yerba,Cordoba,5,8962.02
+2025-06-28,Indumentaria,Campera,GBA Sur,5,82132.28
+2025-09-03,Indumentaria,Pantalon,GBA Norte,4,76974.58
+2025-01-19,Alimentos,Fideos,CABA,2,68703.21
+2025-12-29,Indumentaria,Remera,Rosario,1,62882.84
+2025-05-09,Electronica,Parlante,GBA Sur,5,41325.97
+2025-03-14,Alimentos,Fideos,GBA Norte,5,21388.89
+2025-03-27,Juguetes,Muñeco,GBA Norte,1,78591.1
+2025-10-21,Indumentaria,Campera,Rosario,7,42852.1
+2025-03-27,Indumentaria,Remera,GBA Norte,2,54634.46
+2025-02-04,Electronica,Mouse,GBA Norte,8,48521.85
+2025-10-11,Hogar,Lampara,GBA Norte,3,48495.5
+2025-05-06,Electronica,Mouse,GBA Norte,1,69205.12
+2025-09-14,Juguetes,Muñeco,Cordoba,1,13010.47
+2025-08-29,Indumentaria,Pantalon,GBA Norte,6,77690.26
+2025-10-21,Hogar,Toalla,GBA Norte,2,41490.03
+2025-05-08,Indumentaria,Medias,CABA,7,6969.59
+2025-03-11,Electronica,Mouse,Cordoba,8,48071.48
+2025-12-13,Alimentos,Galletitas,Rosario,8,65634.91
+2025-11-28,Juguetes,Auto RC,Rosario,7,52395.0
+2025-05-09,Juguetes,Pelota,GBA Norte,8,45780.58
+2025-03-06,Electronica,Cargador,CABA,6,54382.04
+2025-06-02,Electronica,Parlante,Cordoba,5,35048.93
+2025-07-11,Electronica,Mouse,Cordoba,1,18684.55
+2025-04-21,Alimentos,Aceite,Cordoba,3,78002.55
+2025-11-29,Hogar,Toalla,GBA Norte,4,13666.06
+2025-08-13,Hogar,Toalla,Cordoba,8,42505.07
+2025-07-10,Indumentaria,Zapatillas,GBA Norte,1,38006.2
+2025-05-06,Indumentaria,Remera,GBA Sur,6,34289.17
+2025-08-27,Alimentos,Yerba,CABA,6,54243.05
+2025-09-20,Juguetes,Pelota,CABA,8,84123.97
+2025-02-04,Hogar,Almohada,GBA Norte,3,28620.42
+2025-01-06,Electronica,Cargador,Mendoza,5,64288.35
+2025-01-31,Electronica,Parlante,GBA Norte,6,57130.03
+2025-01-13,Alimentos,Yerba,GBA Sur,8,72067.49
+2025-06-27,Juguetes,Auto RC,GBA Sur,2,33749.11
+2025-08-13,Alimentos,Yerba,Rosario,2,4217.88
+2025-03-20,Alimentos,Fideos,Mendoza,5,64570.13
+2025-03-15,Indumentaria,Pantalon,CABA,5,55901.82
+2025-07-21,Indumentaria,Remera,CABA,3,27959.02
+2025-04-10,Alimentos,Galletitas,GBA Norte,3,38165.43
+2025-08-07,Juguetes,Cartas,GBA Sur,4,89147.94
+2025-01-01,Electronica,Cargador,CABA,8,24630.18
+2025-02-03,Indumentaria,Zapatillas,GBA Norte,8,83309.14
+2025-02-28,Electronica,Teclado,GBA Sur,6,55895.05
+2025-08-29,Hogar,Vela,Rosario,6,49765.36
+2025-11-20,Hogar,Vela,GBA Norte,5,60429.92
+2025-11-01,Indumentaria,Pantalon,CABA,5,39614.73
+2025-06-18,Juguetes,Auto RC,Cordoba,7,87575.74
+2025-01-27,Juguetes,Auto RC,GBA Sur,3,10478.22
+2025-10-12,Indumentaria,Pantalon,GBA Norte,3,42326.93
+2025-02-20,Juguetes,Cartas,GBA Sur,7,37725.41
+2025-08-03,Juguetes,Auto RC,GBA Sur,3,8220.5
+2025-11-16,Alimentos,Cafe,GBA Sur,1,83425.08
+2025-08-12,Alimentos,Yerba,GBA Norte,1,37865.84
+2025-06-20,Hogar,Sarten,GBA Sur,8,21975.73
+2025-07-22,Juguetes,Rompecabezas,Cordoba,4,39279.4
+2025-05-27,Indumentaria,Medias,GBA Norte,6,30913.9
+2025-10-31,Alimentos,Cafe,CABA,1,8306.44
+2025-03-18,Juguetes,Pelota,Cordoba,3,80795.74
+2025-01-27,Electronica,Teclado,GBA Norte,5,3908.93
+2025-07-07,Hogar,Vela,CABA,5,4598.26
+2025-06-19,Electronica,Auriculares,Rosario,1,8328.78
+2025-11-11,Electronica,Cargador,GBA Norte,8,80838.0
+2025-02-25,Hogar,Vela,GBA Sur,2,55773.72
+2025-11-10,Hogar,Lampara,CABA,5,42147.95
+2025-03-22,Juguetes,Muñeco,Cordoba,5,54977.04
+2025-01-17,Alimentos,Fideos,Mendoza,8,15489.78
+2025-08-20,Hogar,Vela,GBA Sur,7,27135.14
+2025-08-03,Indumentaria,Campera,Mendoza,4,30068.26
+2025-08-25,Indumentaria,Pantalon,CABA,2,8071.33
+2025-03-17,Electronica,Teclado,GBA Norte,2,14290.09
+2025-05-25,Hogar,Almohada,Rosario,8,22293.61
+2025-08-11,Alimentos,Cafe,Mendoza,5,60475.97
+2025-12-30,Indumentaria,Zapatillas,Mendoza,3,4011.42
+2025-07-20,Indumentaria,Campera,CABA,5,5353.18
+2025-07-19,Indumentaria,Zapatillas,Cordoba,7,59591.32
+2025-12-30,Hogar,Toalla,GBA Norte,7,73604.53
+2025-12-04,Hogar,Vela,Mendoza,3,17372.61
+2025-05-09,Alimentos,Cafe,Cordoba,6,78921.37
+2025-03-17,Electronica,Cargador,GBA Norte,8,46637.81
+2025-05-23,Indumentaria,Pantalon,Cordoba,1,4421.97
+2025-11-20,Hogar,Almohada,Rosario,1,34199.13
+2025-02-23,Alimentos,Galletitas,GBA Norte,6,19784.5
+2025-12-15,Juguetes,Auto RC,Rosario,4,35771.43
+2025-08-11,Electronica,Teclado,Mendoza,5,53596.79
+2025-10-03,Alimentos,Cafe,GBA Sur,7,30601.88
+2025-10-29,Electronica,Teclado,Cordoba,4,83685.31
+2025-06-11,Juguetes,Rompecabezas,Cordoba,1,24558.34
+2025-04-28,Juguetes,Auto RC,Cordoba,4,24617.57
+2025-01-21,Indumentaria,Zapatillas,GBA Norte,7,36331.24
+2025-01-25,Electronica,Mouse,Rosario,7,73483.8
+2025-01-09,Juguetes,Auto RC,Rosario,8,60034.96
+2025-10-25,Indumentaria,Medias,Mendoza,2,50159.97
+2025-05-01,Alimentos,Galletitas,Mendoza,4,30244.28
+2025-01-08,Alimentos,Cafe,GBA Sur,8,58569.03
+2025-01-11,Electronica,Cargador,Mendoza,3,66060.48
+2025-12-03,Hogar,Almohada,Cordoba,7,15405.67
+2025-04-15,Indumentaria,Campera,CABA,5,69093.25
+2025-06-08,Juguetes,Cartas,Mendoza,3,7104.49
+2025-03-04,Electronica,Cargador,CABA,5,70301.17
+2025-04-02,Electronica,Teclado,GBA Sur,8,11808.07
+2025-09-19,Electronica,Teclado,Mendoza,2,55678.57
+2025-07-02,Electronica,Mouse,GBA Norte,4,35521.38
+2025-10-07,Hogar,Sarten,Rosario,2,72589.4
+2025-02-02,Indumentaria,Pantalon,GBA Sur,4,15270.24
+2025-09-03,Hogar,Sarten,GBA Sur,7,76962.05
+2025-02-23,Juguetes,Pelota,GBA Norte,8,15909.55
+2025-10-28,Electronica,Cargador,Mendoza,8,84107.86
+2025-10-13,Alimentos,Yerba,GBA Sur,4,58184.94
+2025-01-22,Electronica,Teclado,GBA Norte,6,1331.23
+2025-01-09,Hogar,Almohada,Cordoba,1,67726.21
+2025-06-11,Alimentos,Cafe,GBA Norte,2,76028.99
+2025-10-31,Indumentaria,Zapatillas,Cordoba,6,50269.07
+2025-03-03,Juguetes,Muñeco,Mendoza,5,29218.95
+2025-10-02,Alimentos,Fideos,CABA,1,77420.47
+2025-06-03,Indumentaria,Campera,Cordoba,5,89935.99
+2025-06-24,Alimentos,Cafe,Rosario,8,33376.89
+2025-06-07,Hogar,Toalla,CABA,5,3327.15
+2025-06-17,Indumentaria,Remera,GBA Norte,2,83895.52
+2025-07-05,Electronica,Auriculares,GBA Sur,6,69351.89
+2025-03-05,Indumentaria,Medias,GBA Norte,2,52818.31
+2025-04-29,Electronica,Mouse,GBA Sur,2,75890.58
+2025-12-31,Juguetes,Cartas,Mendoza,5,49599.75
+2025-02-21,Alimentos,Cafe,GBA Sur,7,82776.61
+2025-02-17,Hogar,Almohada,Mendoza,2,5632.76
+2025-02-18,Juguetes,Muñeco,CABA,1,80334.81
+2025-08-29,Hogar,Toalla,Rosario,3,10513.29
+2025-10-30,Juguetes,Rompecabezas,CABA,3,30731.59
+2025-11-29,Juguetes,Muñeco,Mendoza,8,73290.09
+2025-04-22,Indumentaria,Pantalon,Mendoza,4,86198.95
+2025-07-28,Electronica,Parlante,GBA Sur,4,52325.48
+2025-09-10,Juguetes,Rompecabezas,CABA,7,39245.36
+2025-04-09,Juguetes,Auto RC,GBA Sur,7,13122.74
+2025-10-24,Hogar,Almohada,GBA Norte,2,55858.25
+2025-12-28,Alimentos,Fideos,Mendoza,1,54867.78
+2025-02-28,Alimentos,Galletitas,GBA Norte,3,67463.92
+2025-10-23,Indumentaria,Medias,CABA,4,87078.52
+2025-03-09,Electronica,Cargador,GBA Norte,2,67294.33
+2025-12-17,Alimentos,Aceite,GBA Norte,2,25612.87
+2025-10-22,Electronica,Cargador,Mendoza,1,10858.92
+2025-07-31,Electronica,Mouse,GBA Norte,3,40789.63
+2025-11-28,Electronica,Mouse,GBA Sur,7,87975.25
+2025-12-04,Juguetes,Auto RC,Cordoba,3,60017.66
+2025-04-16,Alimentos,Fideos,GBA Norte,4,78425.65
+2025-09-08,Alimentos,Fideos,Cordoba,1,5355.07
+2025-08-10,Alimentos,Aceite,CABA,1,70543.98
+2025-08-23,Juguetes,Auto RC,GBA Norte,5,37792.99
+2025-03-14,Hogar,Almohada,GBA Norte,1,38927.55
+2025-08-31,Juguetes,Muñeco,Rosario,5,41444.19
+2025-11-26,Indumentaria,Zapatillas,GBA Norte,5,62270.35
+2025-09-02,Alimentos,Fideos,GBA Norte,8,43751.18
+2025-03-10,Electronica,Cargador,Mendoza,4,44245.33
+2025-10-10,Juguetes,Rompecabezas,CABA,6,24823.15
+2025-09-25,Hogar,Sarten,GBA Sur,5,77718.21
+2025-07-26,Electronica,Auriculares,Rosario,2,86186.72
+2025-05-04,Hogar,Almohada,GBA Norte,3,68438.59
+2025-11-18,Alimentos,Galletitas,CABA,1,14269.57
+2025-06-17,Juguetes,Pelota,Rosario,8,31375.37
+2025-04-10,Indumentaria,Remera,Mendoza,7,28264.09
+2025-05-09,Hogar,Vela,GBA Norte,6,56967.39
+2025-02-19,Alimentos,Yerba,Rosario,4,18467.92
+2025-06-16,Electronica,Mouse,GBA Sur,4,42953.16
+2025-09-30,Hogar,Toalla,GBA Norte,1,39343.26
+2025-12-20,Electronica,Auriculares,Rosario,4,80737.35
+2025-07-30,Electronica,Cargador,Cordoba,2,37700.03
+2025-02-22,Juguetes,Pelota,Mendoza,4,13079.19
+2025-04-22,Hogar,Sarten,CABA,7,23824.63
+2025-03-03,Hogar,Vela,Cordoba,2,80486.14
+2025-06-24,Indumentaria,Medias,CABA,5,9322.4
+2025-11-03,Juguetes,Rompecabezas,CABA,5,43365.11
+2025-10-05,Indumentaria,Remera,Cordoba,4,73718.82
+2025-07-30,Hogar,Sarten,CABA,4,45829.34
+2025-10-22,Hogar,Sarten,Cordoba,6,62977.74
+2025-08-20,Juguetes,Rompecabezas,CABA,1,66762.16
+2025-12-08,Hogar,Lampara,GBA Norte,4,74185.95
+2025-01-24,Indumentaria,Pantalon,GBA Norte,5,18590.38
+2025-08-24,Electronica,Teclado,GBA Norte,1,56059.51
+2025-03-02,Indumentaria,Campera,Mendoza,5,68336.46
+2025-12-18,Alimentos,Aceite,Mendoza,3,6630.85
+2025-08-31,Alimentos,Cafe,GBA Norte,3,34333.67
+2025-12-17,Alimentos,Cafe,CABA,4,69033.16
+2025-02-07,Indumentaria,Zapatillas,CABA,3,39681.04
+2025-05-17,Juguetes,Cartas,Mendoza,6,48247.06
+2025-08-20,Indumentaria,Medias,Rosario,4,59785.98
+2025-08-18,Alimentos,Aceite,Rosario,8,75465.41
+2025-05-23,Hogar,Almohada,Rosario,1,20059.09
+2025-04-11,Alimentos,Fideos,Cordoba,8,69757.67
+2025-02-16,Juguetes,Muñeco,Mendoza,1,12283.33
+2025-04-28,Juguetes,Muñeco,Rosario,3,43659.63
+2025-01-28,Juguetes,Rompecabezas,Rosario,3,78946.12
+2025-05-04,Electronica,Parlante,Rosario,2,49386.68
+2025-05-04,Juguetes,Cartas,CABA,2,31180.96
+2025-05-13,Hogar,Almohada,Rosario,3,13120.02
+2025-01-23,Alimentos,Yerba,GBA Norte,4,13434.41
+2025-12-24,Electronica,Parlante,GBA Norte,2,56610.76
+2025-08-05,Juguetes,Muñeco,Mendoza,8,68652.42
+2025-03-26,Hogar,Almohada,CABA,1,3946.45
+2025-01-14,Electronica,Auriculares,CABA,2,29702.2
+2025-02-12,Indumentaria,Zapatillas,CABA,6,40069.14
+2025-01-30,Juguetes,Muñeco,Mendoza,6,14330.0
+2025-06-10,Alimentos,Cafe,Rosario,5,58459.03
+2025-05-14,Indumentaria,Remera,Rosario,8,73336.16
+2025-05-28,Alimentos,Galletitas,CABA,5,14401.38
+2025-09-14,Juguetes,Muñeco,GBA Sur,1,34770.63
+2025-09-17,Alimentos,Yerba,CABA,1,4929.03
+2025-01-02,Hogar,Lampara,Cordoba,6,31736.34
+2025-02-15,Hogar,Vela,GBA Sur,7,48173.13
+2025-07-13,Juguetes,Muñeco,GBA Norte,5,37754.54
+2025-09-19,Indumentaria,Campera,GBA Sur,6,59857.83
+2025-06-08,Indumentaria,Medias,Cordoba,1,65934.37
+2025-11-17,Alimentos,Cafe,Cordoba,7,19504.57
+2025-11-05,Juguetes,Cartas,Cordoba,1,56010.11
+2025-11-16,Juguetes,Rompecabezas,GBA Norte,5,6741.79
+2025-01-25,Electronica,Teclado,GBA Sur,2,75305.94
+2025-10-12,Juguetes,Muñeco,GBA Sur,5,56676.48
+2025-11-26,Indumentaria,Medias,Cordoba,4,45361.8
+2025-09-22,Indumentaria,Zapatillas,Mendoza,2,68982.9
+2025-07-24,Hogar,Lampara,GBA Norte,3,60896.98
+2025-12-23,Alimentos,Galletitas,Mendoza,3,27268.45
+2025-09-25,Juguetes,Auto RC,Cordoba,1,27485.22
+2025-05-05,Alimentos,Aceite,GBA Sur,7,65280.2
+2025-04-20,Electronica,Mouse,GBA Sur,1,8312.98
+2025-07-19,Hogar,Toalla,GBA Norte,6,32566.17
+2025-05-29,Electronica,Cargador,Cordoba,6,71190.65
+2025-06-24,Juguetes,Rompecabezas,GBA Sur,1,18058.81
+2025-12-09,Electronica,Teclado,Cordoba,5,28387.92
+2025-05-29,Juguetes,Cartas,Rosario,1,45964.25
+2025-04-26,Electronica,Mouse,GBA Norte,3,50492.04
+2025-05-22,Hogar,Lampara,Cordoba,1,55298.48
+2025-12-11,Hogar,Sarten,GBA Sur,1,62127.64
+2025-05-30,Indumentaria,Pantalon,GBA Norte,6,19595.41
+2025-04-10,Juguetes,Auto RC,Rosario,2,29041.57
+2025-07-22,Indumentaria,Pantalon,CABA,8,9015.13
+2025-09-27,Alimentos,Cafe,Rosario,4,5301.4
+2025-05-04,Juguetes,Muñeco,Mendoza,8,61411.68
+2025-04-21,Indumentaria,Zapatillas,Mendoza,4,29748.79
+2025-01-21,Alimentos,Cafe,Mendoza,2,7838.81
+2025-11-10,Juguetes,Pelota,GBA Sur,2,89236.55
+2025-08-25,Juguetes,Pelota,Rosario,1,65105.46
+2025-01-06,Indumentaria,Pantalon,CABA,1,89756.42
+2025-10-28,Electronica,Mouse,Cordoba,3,10969.3
+2025-11-02,Juguetes,Muñeco,GBA Norte,6,62267.31
+2025-08-30,Alimentos,Fideos,Mendoza,2,26244.78
+2025-08-01,Electronica,Parlante,Mendoza,6,20019.46
+2025-11-09,Hogar,Lampara,CABA,2,7786.42
+2025-03-05,Juguetes,Cartas,GBA Sur,5,10688.2
+2025-04-26,Indumentaria,Zapatillas,Rosario,1,43483.87
+2025-10-28,Indumentaria,Zapatillas,GBA Norte,3,16183.46
+2025-04-21,Juguetes,Cartas,Rosario,4,14161.53
+2025-08-20,Hogar,Almohada,GBA Sur,2,38225.94
+2025-05-11,Electronica,Mouse,GBA Norte,7,47251.54
+2025-01-22,Hogar,Sarten,GBA Sur,7,22150.73
+2025-08-08,Alimentos,Cafe,Rosario,2,62738.08
+2025-03-07,Alimentos,Cafe,CABA,1,85002.47
+2025-09-24,Indumentaria,Campera,Cordoba,2,36406.9
